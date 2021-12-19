@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Abstraction.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B4FCAE24-7059-46A3-ACC0-98D61C7C9699}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Abstraction.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AbstractionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D7673148-C624-4C23-B567-02ECC71BA25C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Abstraction">
+      <UniqueIdentifier>{0C8E43E9-3008-4E07-A502-0566CFD91B71}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
+      <Filter>Source\Abstraction</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Abstraction\Abstraction.cpp">
+      <Filter>Source\Abstraction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Abstraction\Abstraction.h">
+      <Filter>Source\Abstraction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Abstraction\AbstractionGameModeBase.cpp">
+      <Filter>Source\Abstraction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Abstraction\AbstractionGameModeBase.h">
+      <Filter>Source\Abstraction</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

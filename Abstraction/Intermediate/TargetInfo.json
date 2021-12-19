@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Abstraction",
+			"Path": "C:\\Users\\willi\\OneDrive\\Documents\\Unreal Projects\\Abstraction\\Source\\Abstraction.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AbstractionEditor",
+			"Path": "C:\\Users\\willi\\OneDrive\\Documents\\Unreal Projects\\Abstraction\\Source\\AbstractionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
