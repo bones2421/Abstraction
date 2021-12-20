@@ -19,7 +19,7 @@ void UAbstractLogComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("UAbstractLogComponent::BeginPlay"));
+	UE_LOG(LogTemp, Warning, TEXT("UAbstractLogComponent::BeginPlay %s"),*DataString);
 	// ...
 	
 }
