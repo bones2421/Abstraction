@@ -58,7 +58,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UAbstractLogComponent)
 
 
-#define Abstraction_Source_Abstraction_Public_AbstractLogComponent_h_13_PRIVATE_PROPERTY_OFFSET
+#define Abstraction_Source_Abstraction_Public_AbstractLogComponent_h_13_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__DataString() { return STRUCT_OFFSET(UAbstractLogComponent, DataString); }
+
+
 #define Abstraction_Source_Abstraction_Public_AbstractLogComponent_h_10_PROLOG
 #define Abstraction_Source_Abstraction_Public_AbstractLogComponent_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

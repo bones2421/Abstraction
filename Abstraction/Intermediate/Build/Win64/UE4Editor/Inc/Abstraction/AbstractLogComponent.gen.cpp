@@ -31,6 +31,11 @@ void EmptyLinkFunctionForGeneratedCodeAbstractLogComponent() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DataString_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_DataString;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -46,6 +51,16 @@ void EmptyLinkFunctionForGeneratedCodeAbstractLogComponent() {}
 		{ "ModuleRelativePath", "Public/AbstractLogComponent.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAbstractLogComponent_Statics::NewProp_DataString_MetaData[] = {
+		{ "Category", "AbstractLogComponent" },
+		{ "ModuleRelativePath", "Public/AbstractLogComponent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_UAbstractLogComponent_Statics::NewProp_DataString = { "DataString", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UAbstractLogComponent, DataString), METADATA_PARAMS(Z_Construct_UClass_UAbstractLogComponent_Statics::NewProp_DataString_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UAbstractLogComponent_Statics::NewProp_DataString_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UAbstractLogComponent_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UAbstractLogComponent_Statics::NewProp_DataString,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UAbstractLogComponent_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UAbstractLogComponent>::IsAbstract,
 	};
@@ -55,11 +70,11 @@ void EmptyLinkFunctionForGeneratedCodeAbstractLogComponent() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_UAbstractLogComponent_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_UAbstractLogComponent_Statics::PropPointers),
 		0,
 		0x00B000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UAbstractLogComponent_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UAbstractLogComponent_Statics::Class_MetaDataParams))
@@ -73,7 +88,7 @@ void EmptyLinkFunctionForGeneratedCodeAbstractLogComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UAbstractLogComponent, 1260728555);
+	IMPLEMENT_CLASS(UAbstractLogComponent, 1237960887);
 	template<> ABSTRACTION_API UClass* StaticClass<UAbstractLogComponent>()
 	{
 		return UAbstractLogComponent::StaticClass();

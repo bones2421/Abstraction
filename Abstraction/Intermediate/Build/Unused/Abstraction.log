@@ -1,0 +1,32 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+  Parsing headers for AbstractionEditor
+    Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for AbstractionEditor in 17.7981131 seconds
+  Building AbstractionEditor...
+  Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  Temporary license has expired:
+      Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+       To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  AbstractLogComponent.cpp (0:06.67 at +0:00)
+  Abstraction.init.gen.cpp (0:06.71 at +0:00)
+  AbstractLogComponent.gen.cpp (0:06.78 at +0:00)
+  UE4Editor-Abstraction-0003.lib (0:00.21 at +0:06)
+     Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0003.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0003.exp
+  UE4Editor-Abstraction-0003.dll (0:01.26 at +0:06)
+     Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0003.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0003.suppressed.exp
+  AbstractionEditor.target (0:00.34 at +0:08)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - Temporary license has expired
+  
+  Total time in XGE executor: 9.37 seconds
+  Total execution time: 28.54 seconds

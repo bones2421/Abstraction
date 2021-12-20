@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeAbstraction_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x563E1A65,
+				0xD15C7637,
 				0x956DD5DC,
 				METADATA_PARAMS(nullptr, 0)
 			};

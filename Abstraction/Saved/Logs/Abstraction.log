@@ -1409,3 +1409,24 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.12.20-05.03.33:548][382]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2021.12.20-05.03.33:573][382]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0209 seconds. Added 3824 classes and 931 folders.
 [2021.12.20-05.03.33:630][382]Display: HotReload took  0.3s.
+[2021.12.20-05.12.56:489][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.12.20-05.12.56:510][  4]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default_Auto2FB5D83644936D886E6DA10A065F21528.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2021.12.20-05.12.56:516][  4]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.071
+[2021.12.20-05.12.56:516][  4]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2021.12.20-05.15.50:726][523]LogHotReload: New module detected: UE4Editor-Abstraction-0002.dll
+[2021.12.20-05.15.52:443][529]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.20-05.15.52:563][529]LogTemp: Error: Abstract Component created
+[2021.12.20-05.15.52:564][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2021.12.20-05.15.52:568][529]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.20-05.15.52:670][529]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0255 seconds. Added 3824 classes and 931 folders.
+[2021.12.20-05.15.52:681][529]Display: HotReload took  0.2s.
+[2021.12.20-05.34.47:404][549]LogHotReload: New module detected: UE4Editor-Abstraction-0003.dll
+[2021.12.20-05.34.49:127][555]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.20-05.34.49:259][555]LogClass: Could not find existing class AbstractLogComponent in package /Script/Abstraction for HotReload, assuming new class
+[2021.12.20-05.34.49:261][555]LogTemp: Error: Abstract Component created
+[2021.12.20-05.34.49:270][555]LogHotReload: Re-instancing AbstractLogComponent after hot-reload.
+[2021.12.20-05.34.49:272][555]LogTemp: Error: Abstract Component created
+[2021.12.20-05.34.49:296][555]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2021.12.20-05.34.49:303][555]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.20-05.34.49:409][555]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0234 seconds. Added 3824 classes and 931 folders.
+[2021.12.20-05.34.49:417][555]Display: HotReload took  0.3s.
