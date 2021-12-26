@@ -1176,3 +1176,177 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-05.06.56:230][421]LogContentValidation: Display: Validating Material /Game/Broken_Concrete.Broken_Concrete
 [2021.12.26-05.07.00:420][545]LogSlate: Took 0.007517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.12.26-05.07.17:040][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.26-05.11.06:475][535]MapCheck: New page: Map Check
+[2021.12.26-05.11.06:691][535]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.26-05.11.06:691][535]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.26-05.11.06:693][535]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2021.12.26-05.11.06:824][535]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.26-05.11.06:824][535]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.12.26-05.11.06:824][535]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.26-05.11.06:896][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.26-05.11.06:905][535]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2021.12.26-05.11.06:907][535]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.12.26-05.11.06:911][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.26-05.11.06:963][535]LightingResults: New page: Lighting Build - Dec 25, 2021, 3:11:06 PM
+[2021.12.26-05.11.06:996][535]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.26-05.11.07:009][535]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.26-05.11.07:009][535]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.26-05.11.07:011][535]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.26-05.11.07:011][535]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3852
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.26-05.11.11:707][535]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.26-05.11.11:877][535]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.26-05.11.11:877][535]MapCheck: New page: Minimal_Default - Dec 25, 2021, 3:11:11 PM
+[2021.12.26-05.11.11:878][535]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.12.26-05.11.11:878][535]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.145ms to complete.
+[2021.12.26-05.11.11:881][535]LogEditorBuildUtils: Build time 0:05
+[2021.12.26-05.11.12:023][536]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood in PCD3D_SM5, Default, SM5 (DDC key hash: B9656C43D1CD2ED3A8A4EE74080397BE50AA7AD5), compiling. 
+[2021.12.26-05.11.12:028][536]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:029][536]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:029][536]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood in PCD3D_SM5, Default, SM5 (DDC key hash: CED9ABD1028E9EB800C818F611E862FE182739B8), compiling. 
+[2021.12.26-05.11.12:033][536]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:071][536]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:124][537]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Brass in PCD3D_SM5, Default, SM5 (DDC key hash: DD9B8DBFD50E81558E4610D4A2DF74BA0751C325), compiling. 
+[2021.12.26-05.11.12:127][537]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:128][537]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 49D3B8302A9006D1902B658AA099FFE046C3A37F), compiling. 
+[2021.12.26-05.11.12:133][537]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:165][537]LogShaderCompilers: Display: Started 4 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:224][538]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Broken_Concrete in PCD3D_SM5, Default, SM5 (DDC key hash: 91BA69AF2BC3939CB42E654A337D6AA5EF3AFCD4), compiling. 
+[2021.12.26-05.11.12:228][538]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:229][538]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Broken_Concrete in PCD3D_SM5, Default, SM5 (DDC key hash: CB3DD27B938C182DC0BD7B1C6E48D784EE5A9F00), compiling. 
+[2021.12.26-05.11.12:233][538]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.12:263][538]LogShaderCompilers: Display: Started 4 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.13:586][539]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.26-05.11.13:587][539]LogShaderCompilers: Display: Total job queries 68, among them cache hits 8 (11.76%)
+[2021.12.26-05.11.13:587][539]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 15 distinct outputs (25.00%)
+[2021.12.26-05.11.13:587][539]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2021.12.26-05.11.13:587][539]LogShaderCompilers: Display: ================================================
+[2021.12.26-05.11.14:175][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.26-05.11.15:978][559]Job is a success!
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.26-05.11.16:490][560]LogVolumetricLightmapImport:          Minimal_Default 			 10 bricks 	 100.0% (Persistent Level)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 512X256)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.12.26-05.11.16:568][560]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2021.12.26-05.11.16:569][560]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 9 meshes in 2 LightmapResourceClusters (4.5 Meshes per cluster).
+[2021.12.26-05.11.16:572][560]LogMaterial: Display: Material /Game/Wood.Wood needed to have new flag set bUsedWithStaticLighting !
+[2021.12.26-05.11.16:574][560]LogMaterial: Display: Missing cached shadermap for Wood in PCD3D_SM5, Default, SM5 (DDC key hash: B55CD139C6661434F8CB32FD3033887A4A07D0EC), compiling. 
+[2021.12.26-05.11.16:617][560]Lightmass on LAPTOP-0U3AVAT7: 1.64 sec total, 181 ms importing, 8 ms setup, 130 ms photons, 1.22 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 18.4 sec total, 1.25 sec processing.
+[2021.12.26-05.11.16:617][560]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.16:617][560]LogMaterial: Display: Material /Game/Brass.Brass needed to have new flag set bUsedWithStaticLighting !
+[2021.12.26-05.11.16:619][560]LogMaterial: Display: Missing cached shadermap for Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 9A718CE9AC09376A292EE43942CFE6E40B910526), compiling. 
+[2021.12.26-05.11.16:641][560]LogShaderCompilers: Display: Started 9 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.16:641][560]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.16:641][560]LogMaterial: Display: Material /Game/Broken_Concrete.Broken_Concrete needed to have new flag set bUsedWithStaticLighting !
+[2021.12.26-05.11.16:643][560]LogMaterial: Display: Missing cached shadermap for Broken_Concrete in PCD3D_SM5, Default, SM5 (DDC key hash: D4923E0103AAA59A3EA6EDD57837718A4FDF7E76), compiling. 
+[2021.12.26-05.11.16:661][560]LogShaderCompilers: Display: Started 9 'XGE' shader compile jobs with 'Low' priority
+[2021.12.26-05.11.16:662][560]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.12.26-05.11.16:666][560]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.11.16:668][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.26-05.11.16:925][560]LogStaticLightingSystem: Illumination: 9.60 sec (35 ms encoding lightmaps, 31 ms encoding shadowmaps)
+[2021.12.26-05.11.16:925][560]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.12.26-05.11.16:925][560]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.12.26-05.11.17:711][560]DumpUnbuiltLightIteractions
+[2021.12.26-05.11.17:711][560]Lights with unbuilt interactions: 0
+[2021.12.26-05.11.17:711][560]
+[2021.12.26-05.11.17:711][560]Primitives with unbuilt interactions: 0
+[2021.12.26-05.11.17:968][560]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.26-05.11.17:968][560]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.26-05.11.20:273][560]LogTexture: Display: Building textures: NewReflectionComponentTexture7FDC251F448E5E5D91144597608DB6DF (BGRA8, 128X128)
+[2021.12.26-05.11.20:305][560]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.12.26-05.11.20:423][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.26-05.11.20:423][561]MapCheck: New page: Minimal_Default - Dec 25, 2021, 3:11:20 PM
+[2021.12.26-05.11.20:424][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.792ms to complete.
+[2021.12.26-05.11.24:564][644]LogSlate: Window 'Message Log' being destroyed
+[2021.12.26-05.11.24:618][644]LogSlate: Window 'Message Log' being destroyed
+[2021.12.26-05.11.26:419][686]Candidate modules for hot reload:
+[2021.12.26-05.11.26:419][686]  Abstraction
+[2021.12.26-05.11.26:419][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,0565 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2021.12.26-05.11.26:422][686]Warning: Starting HotReload took  0.1s.
+[2021.12.26-05.12.01:998][393]CompilerResultsLog: New page: Compilation - Dec 25, 2021, 3:12:01 PM
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Creating makefile for AbstractionEditor (game project files are newer)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Building AbstractionEditor...
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Distributing 11 actions to XGE
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Temporary license has expired:
+[2021.12.26-05.12.01:999][393]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2021.12.26-05.12.01:999][393]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: 
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: -------------------------------------------------------------------------------
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Default.rc2 (0:00.32 at +0:00)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: SharedPCH.Engine.ShadowErrors.cpp (0:27.29 at +0:00)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: AbstractLogComponent.cpp (0:00.68 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Abstraction.cpp (0:00.71 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: AbstractionGameModeBase.cpp (0:00.76 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: Abstraction.init.gen.cpp (0:00.82 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: AbstractLogComponent.gen.cpp (0:00.93 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: AbstractionGameModeBase.gen.cpp (0:01.04 at +0:27)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: UE4Editor-Abstraction-0565.lib (0:00.17 at +0:28)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0565.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0565.exp
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: UE4Editor-Abstraction-0565.dll (0:00.73 at +0:28)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0565.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0565.suppressed.exp
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: AbstractionEditor.target (0:00.92 at +0:29)
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: ---------------------- Done ----------------------
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: 
+[2021.12.26-05.12.01:999][393]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: 
+[2021.12.26-05.12.01:999][393]CompilerResultsLog: 1 build system warning(s):
+[2021.12.26-05.12.02:000][393]CompilerResultsLog:    - Temporary license has expired
+[2021.12.26-05.12.02:000][393]CompilerResultsLog: 
+[2021.12.26-05.12.02:000][393]CompilerResultsLog: Total time in XGE executor: 30.23 seconds
+[2021.12.26-05.12.02:000][393]CompilerResultsLog: Total execution time: 35.39 seconds
+[2021.12.26-05.12.02:000][393]LogMainFrame: MainFrame: Module compiling took 35.614 seconds
+[2021.12.26-05.12.02:012][393]LogTemp: Error: Abstract Component created
+[2021.12.26-05.12.02:013][393]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2021.12.26-05.12.02:018][393]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.26-05.12.02:082][393]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0146 seconds. Added 3824 classes and 931 folders.
+[2021.12.26-05.12.02:082][393]Display: HotReload took 35.7s.
+[2021.12.26-05.12.09:002][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.26-05.12.09:090][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.26-05.12.09:101][517]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default5418240B410C24C61BCE0B9C1E9BE308.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.12.26-05.12.09:106][517]LogFileHelpers: Saving map 'Minimal_Default' took 0.021
+[2021.12.26-05.12.09:139][517]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default_BuiltDataDF6193C74E0A65833D51D2A185229983.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.12.26-05.12.09:140][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wood" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Wood.uasset" SILENT=true
+[2021.12.26-05.12.09:142][517]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Wood488ADD3F4248E048FE843F826E434FBC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Wood.uasset'
+[2021.12.26-05.12.09:143][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broken_Concrete" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Broken_Concrete.uasset" SILENT=true
+[2021.12.26-05.12.09:144][517]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Broken_Concrete9D0A926A4D21EE10AD9E0A84D271D61A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Broken_Concrete.uasset'
+[2021.12.26-05.12.09:145][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brass" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Brass.uasset" SILENT=true
+[2021.12.26-05.12.09:147][517]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Brass87EBB1494185DCE4612854B1EAB3E563.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Brass.uasset'
+[2021.12.26-05.12.09:206][517]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Wood.Wood
+[2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Brass.Brass
+[2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Broken_Concrete.Broken_Concrete
