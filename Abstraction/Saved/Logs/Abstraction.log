@@ -1358,3 +1358,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.12.26-05.18.54:499][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.26-05.21.38:800][ 38]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2021.12.26-05.21.39:205][ 38]Discovering modules, targets and source code for project...
+[2021.12.26-05.21.41:115][ 38]Binding IntelliSense data...
+[2021.12.26-05.21.50:385][ 38]Binding IntelliSense data... 100%
+[2021.12.26-05.21.50:385][ 38]Writing project files...
+[2021.12.26-05.21.53:000][ 38]Writing project files... 100%
+[2021.12.26-05.24.13:210][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
