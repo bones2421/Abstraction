@@ -1350,3 +1350,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Wood.Wood
 [2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Brass.Brass
 [2021.12.26-05.12.09:206][517]LogContentValidation: Display: Validating Material /Game/Broken_Concrete.Broken_Concrete
+[2021.12.26-05.16.18:946][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.26-05.16.22:415][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.26-05.16.22:428][668]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_DefaultC739CAAA4866571826DF838A1514741F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.12.26-05.16.22:466][668]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default_BuiltDataAD18E89D4A87E3E091BE1386C00B0FAD.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.12.26-05.16.22:526][668]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
