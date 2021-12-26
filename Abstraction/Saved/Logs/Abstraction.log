@@ -1058,3 +1058,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-03.54.19:703][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2021.12.26-03.54.19:703][466]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.012
 [2021.12.26-03.54.25:276][480]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1763).
+[2021.12.26-04.04.16:528][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.26-04.04.16:529][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.008
+[2021.12.26-04.14.16:974][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.26-04.14.16:974][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.009
+[2021.12.26-04.24.17:387][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.26-04.24.17:387][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2021.12.26-04.34.17:973][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.26-04.34.17:974][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.005
+[2021.12.26-04.40.19:857][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.26-04.40.19:934][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.12.26-04.40.19:956][977]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default58131CCF4A9ECAF13009D9BDD221377C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.12.26-04.40.19:964][977]LogFileHelpers: Saving map 'Minimal_Default' took 0.036
+[2021.12.26-04.40.20:008][977]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default_BuiltData0CD10A944092141326EB18BF2D7A7800.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.12.26-04.40.20:080][977]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.26-04.40.20:081][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.12.26-04.40.20:081][977]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
