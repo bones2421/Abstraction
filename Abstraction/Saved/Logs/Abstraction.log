@@ -1357,3 +1357,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-05.16.22:526][668]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.12.26-05.16.22:527][668]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.26-05.18.54:499][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
