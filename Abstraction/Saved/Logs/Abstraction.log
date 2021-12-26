@@ -1074,3 +1074,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-04.40.20:080][977]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.26-04.40.20:081][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.12.26-04.40.20:081][977]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.26-04.50.34:845][  6]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2936ceac-f1bc-49d9-a8ac-67a5a423aa31}.
+[2021.12.26-04.50.34:845][  6]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.26-04.50.34:851][  6]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-04.50.34:851][  6]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-04.51.06:625][101]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{082f5119-c49c-4b1b-84e2-5031d8544581}.
+[2021.12.26-04.51.06:625][101]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.26-04.51.06:630][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-04.51.06:630][101]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-04.51.09:957][111]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2936ceac-f1bc-49d9-a8ac-67a5a423aa31}.
+[2021.12.26-04.51.09:957][111]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.26-04.51.09:962][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-04.51.09:962][111]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-05.01.54:182][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/RawData/2x1 Door and Frame.fbx)
+[2021.12.26-05.01.54:208][612]LogFbx: Loading FBX Scene from ../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/RawData/2x1 Door and Frame.fbx
+[2021.12.26-05.01.54:220][612]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.26-05.03.48:288][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.26-05.03.48:400][612]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Pictures\Textures\TexturesCom_Wood_Rough_1K_albedo.png
+[2021.12.26-05.03.48:405][612]LogMaterial: Display: Missing cached shadermap for Wood in PCD3D_SM5, Default, SM5 (DDC key hash: FBE6E366FFCC3F06C22472F57993C378C6A8162C), compiling. 
+[2021.12.26-05.03.48:418][612]LogMaterial: Display: Missing cached shadermap for Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 6DA167AA4A57D8E4D3B258E1D41EBAFA5ED1428C), compiling. 
+[2021.12.26-05.03.48:420][612]LogFbx: Display: Triangulating static mesh Door
+[2021.12.26-05.03.48:433][612]LogStaticMesh: Building static mesh 2x1_Door_and_Frame_Door...
+[2021.12.26-05.03.48:442][612]LogStaticMesh: Built static mesh [0.01s] /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2021.12.26-05.03.48:452][612]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Downloads\TexturesCom_DamagedConcrete_3x3_1K_albedo.tif
+[2021.12.26-05.03.48:454][612]LogMaterial: Display: Missing cached shadermap for Broken_Concrete in PCD3D_SM5, Default, SM5 (DDC key hash: 76B364AAAEC4F9496089E4C10262030714F1420B), compiling. 
+[2021.12.26-05.03.48:456][612]LogFbx: Display: Triangulating static mesh Frame
+[2021.12.26-05.03.48:460][612]LogStaticMesh: Building static mesh 2x1_Door_and_Frame_Frame...
+[2021.12.26-05.03.48:466][612]LogStaticMesh: Built static mesh [0.01s] /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2021.12.26-05.03.48:660][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.48:663][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.48:669][616]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.12.26-05.03.48:669][616]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.12.26-05.03.48:669][616]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.12.26-05.03.48:669][616]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.12.26-05.03.48:669][616]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.12.26-05.03.48:707][616]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.48:720][616]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.48:745][616]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2021.12.26-05.03.48:745][616]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.48:799][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.48:812][616]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.48:830][617]LogShaderCompilers: Display: Started 26 'XGE' shader compile jobs with 'Normal' priority
+[2021.12.26-05.03.51:686][682]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.26-05.03.51:686][682]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.51:692][682]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.26-05.03.51:692][682]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2021.12.26-05.03.51:692][682]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.12.26-05.03.51:692][682]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.12.26-05.03.51:693][682]LogShaderCompilers: Display: ================================================
+[2021.12.26-05.03.51:993][688]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.12.26-05.03.51:993][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.26-05.03.54:753][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.12.26-05.03.54:754][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2021.12.26-05.03.54:754][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2x1_Door_and_Frame_Frame] ([1] browsable assets)...
+[2021.12.26-05.03.54:765][748]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame]
+[2021.12.26-05.03.54:765][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/2x1_Door_and_Frame_Frame]
+[2021.12.26-05.03.54:772][748]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/2x1_Door_and_Frame_Frame_Auto22C0A53154790723FE969BB9713BC807A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/2x1_Door_and_Frame_Frame_Auto2.uasset'
+[2021.12.26-05.03.54:773][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2x1_Door_and_Frame_Door] ([1] browsable assets)...
+[2021.12.26-05.03.54:783][748]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door]
+[2021.12.26-05.03.54:783][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/2x1_Door_and_Frame_Door]
+[2021.12.26-05.03.54:790][748]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/2x1_Door_and_Frame_Door_Auto20B8122584D0EC5191ADB3D9F96BFD618.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/2x1_Door_and_Frame_Door_Auto2.uasset'
+[2021.12.26-05.03.54:791][748]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.12.26-05.04.01:773][899]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.12.26-05.04.03:096][938]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.12.26-05.04.17:184][289]Cmd: DELETE
+[2021.12.26-05.04.17:184][289]Cmd: ACTOR DELETE
+[2021.12.26-05.04.17:195][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.26-05.04.17:215][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.26-05.04.17:217][289]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.12.26-05.06.38:607][  2]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.12.26-05.06.38:608][  2]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2021.12.26-05.06.40:645][ 63]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.12.26-05.06.40:662][ 63]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2021.12.26-05.06.53:091][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.26-05.06.55:942][421]LogSlate: Window 'Save Content' being destroyed
+[2021.12.26-05.06.56:049][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/2x1_Door_and_Frame_DoorDBAACD0D40AF53E459389FA46841ACA8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/2x1_Door_and_Frame_Door.uasset'
+[2021.12.26-05.06.56:053][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/2x1_Door_and_Frame_FrameAD6BE2244692337F44D26D8825A2A296.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/2x1_Door_and_Frame_Frame.uasset'
+[2021.12.26-05.06.56:092][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brass" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Brass.uasset" SILENT=true
+[2021.12.26-05.06.56:098][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Brass3E2910EA44FE400A69D4F48AF8B20EA2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Brass.uasset'
+[2021.12.26-05.06.56:115][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broken_Concrete" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Broken_Concrete.uasset" SILENT=true
+[2021.12.26-05.06.56:121][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Broken_Concrete84BF98004BC51321273CACB6B38CAA49.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Broken_Concrete.uasset'
+[2021.12.26-05.06.56:127][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.26-05.06.56:141][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Minimal_Default5AF523884C6ECF90A8E00BA25658AEB5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.12.26-05.06.56:146][421]LogFileHelpers: Saving map 'Minimal_Default' took 0.024
+[2021.12.26-05.06.56:161][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wood" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Wood.uasset" SILENT=true
+[2021.12.26-05.06.56:168][421]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/WoodE1664BC8448667E3BC34188016BF08DD.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Wood.uasset'
+[2021.12.26-05.06.56:229][421]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.26-05.06.56:229][421]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.26-05.06.56:229][421]LogContentValidation: Display: Validating StaticMesh /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2021.12.26-05.06.56:229][421]LogContentValidation: Display: Validating Material /Game/Wood.Wood
+[2021.12.26-05.06.56:229][421]LogContentValidation: Display: Validating Material /Game/Brass.Brass
+[2021.12.26-05.06.56:230][421]LogContentValidation: Display: Validating StaticMesh /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2021.12.26-05.06.56:230][421]LogContentValidation: Display: Validating Material /Game/Broken_Concrete.Broken_Concrete
+[2021.12.26-05.07.00:420][545]LogSlate: Took 0.007517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.26-05.07.17:040][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
