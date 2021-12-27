@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5A686009-E2C2-486B-B2D3-C9073F1E7294}</UniqueIdentifier>
+      <UniqueIdentifier>{5AFD4A46-4115-497F-B3A8-C4739B54F47A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{BF275C0A-E5CF-44E9-A13A-72133DDD9A56}</UniqueIdentifier>
+      <UniqueIdentifier>{DAFA3D09-B98C-46F8-B493-D4DDCDBBA780}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{30A333B9-0565-45FC-9625-E3F76186D72C}</UniqueIdentifier>
+      <UniqueIdentifier>{AA54275A-BC23-4AEE-86C7-2043B43CFA38}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -42,15 +42,21 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{1BCDDB51-6E41-466F-8151-22148854451A}</UniqueIdentifier>
+      <UniqueIdentifier>{1E6FCE19-237B-4B44-BC94-28CEA6CAB326}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractLogComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\DoorInteractionComponent.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{C2920907-B2FC-4F02-9AF0-CD8A24F720CA}</UniqueIdentifier>
+      <UniqueIdentifier>{E48930AB-674E-4B5D-95DF-19A7A7C89121}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractLogComponent.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\DoorInteractionComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
   </ItemGroup>
