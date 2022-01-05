@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A20468B6-1C6B-4EAF-9ADE-05C499F48B96}</UniqueIdentifier>
+      <UniqueIdentifier>{3D2291D5-A5C9-4ACD-8D00-11CED9095A0F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{AD9DEE6B-A1B4-41ED-9729-5719FAC8BEB8}</UniqueIdentifier>
+      <UniqueIdentifier>{A7B29378-AA01-4AE1-96FB-4297C6CB8FE7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{64ACEDA3-83BA-4AF4-B618-EF6623B7679A}</UniqueIdentifier>
+      <UniqueIdentifier>{320C5B61-0A28-4EB9-882E-065680CA426D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -42,7 +42,7 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{08F3ED20-0289-4282-B50B-4C6E940261D1}</UniqueIdentifier>
+      <UniqueIdentifier>{01DA2EF5-B313-418B-ACC0-F2526A6BB0BF}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractLogComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
@@ -50,13 +50,19 @@
     <ClCompile Include="..\..\Source\Abstraction\Private\DoorInteractionComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\InteractableDoor.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{19CAAEFF-0188-4072-9305-686AAC19BC99}</UniqueIdentifier>
+      <UniqueIdentifier>{EADD8058-A9EB-4EFB-A728-1E2C76B8425D}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractLogComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Abstraction\Public\DoorInteractionComponent.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\InteractableDoor.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
   </ItemGroup>
