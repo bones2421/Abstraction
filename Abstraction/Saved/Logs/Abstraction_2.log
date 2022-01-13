@@ -1756,3 +1756,25 @@ SK_FemaleMannequin
 [2022.01.09-07.30.20:920][855]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2022.01.09-07.30.21:063][855]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0175 seconds. Added 3827 classes and 933 folders.
 [2022.01.09-07.30.21:063][855]Display: HotReload took  4.9s.
+[2022.01.09-07.56.54:691][347]LogHttp: Warning: 000001D475986400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB9D34A-40E0-B840-621F-68B33EA90B7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d416b8feb0 [can pipeline])
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.204.62.6) port 443 (#1))
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.09-07.56.54:692][347]LogHttp: Warning: 000001D475986400: libcurl info message cache 7 (Closing connection 1)
+[2022.01.09-07.56.54:701][347]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.09-07.56.54:720][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.09-07.56.54:720][347]LogAudioMixer: Display: 1: FrontRight
+[2022.01.09-07.56.54:918][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB9D34A-40E0-B840-621F-68B33EA90B7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.11-04.09.16:068][392]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.11-04.09.16:101][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-04.09.16:101][392]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-04.09.16:685][393]LogHttp: Warning: 000001D475984800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB9D34A-40E0-B840-621F-68B33EA90B7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.11-04.09.16:685][393]LogHttp: Warning: 000001D475984800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.11-04.09.16:685][393]LogHttp: Warning: 000001D475984800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.11-04.09.16:686][393]LogHttp: Warning: 000001D475984800: libcurl info message cache 1 (Closing connection 2)
+[2022.01.11-04.09.17:355][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB9D34A-40E0-B840-621F-68B33EA90B7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
