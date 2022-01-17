@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ABSTRACTION_DoorInteractionComponent_generated_h
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_SPARSE_DATA
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_INCLASS_NO_PURE_DECLS \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_SPARSE_DATA
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_RPC_WRAPPERS
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_RPC_WRAPPERS_NO_PURE_DECLS
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDoorInteractionComponent(); \
 	friend struct Z_Construct_UClass_UDoorInteractionComponent_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UDoorInteractionComponent)
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_INCLASS \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_INCLASS \
 private: \
 	static void StaticRegisterNativesUDoorInteractionComponent(); \
 	friend struct Z_Construct_UClass_UDoorInteractionComponent_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UDoorInteractionComponent)
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_STANDARD_CONSTRUCTORS \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDoorInteractionComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDoorInteractionComponent) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_ENHANCED_CONSTRUCTORS \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UDoorInteractionComponent(UDoorInteractionComponent&&); \
@@ -58,34 +58,35 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDoorInteractionComponent)
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__DesiredRotation() { return STRUCT_OFFSET(UDoorInteractionComponent, DesiredRotation); } \
 	FORCEINLINE static uint32 __PPO__TimeToRotate() { return STRUCT_OFFSET(UDoorInteractionComponent, TimeToRotate); } \
 	FORCEINLINE static uint32 __PPO__TriggerBox() { return STRUCT_OFFSET(UDoorInteractionComponent, TriggerBox); } \
-	FORCEINLINE static uint32 __PPO__OpenCurve() { return STRUCT_OFFSET(UDoorInteractionComponent, OpenCurve); }
+	FORCEINLINE static uint32 __PPO__OpenCurve() { return STRUCT_OFFSET(UDoorInteractionComponent, OpenCurve); } \
+	FORCEINLINE static uint32 __PPO__DoorState() { return STRUCT_OFFSET(UDoorInteractionComponent, DoorState); }
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_12_PROLOG
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_GENERATED_BODY_LEGACY \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_21_PROLOG
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_SPARSE_DATA \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_INCLASS \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_STANDARD_CONSTRUCTORS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_PRIVATE_PROPERTY_OFFSET \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_SPARSE_DATA \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_RPC_WRAPPERS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_INCLASS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_GENERATED_BODY \
+#define Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_SPARSE_DATA \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_INCLASS_NO_PURE_DECLS \
-	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_15_ENHANCED_CONSTRUCTORS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_PRIVATE_PROPERTY_OFFSET \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_SPARSE_DATA \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_INCLASS_NO_PURE_DECLS \
+	Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -95,5 +96,13 @@ template<> ABSTRACTION_API UClass* StaticClass<class UDoorInteractionComponent>(
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID Abstraction_Source_Abstraction_Public_DoorInteractionComponent_h
 
+
+#define FOREACH_ENUM_EDOORSTATE(op) \
+	op(EDoorState::DS_Closed) \
+	op(EDoorState::DS_Open) \
+	op(EDoorState::DS_Locked) 
+
+enum class EDoorState;
+template<> ABSTRACTION_API UEnum* StaticEnum<EDoorState>();
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

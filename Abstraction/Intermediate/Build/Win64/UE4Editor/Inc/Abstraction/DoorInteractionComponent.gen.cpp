@@ -13,14 +13,73 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 // Cross Module References
+	ABSTRACTION_API UEnum* Z_Construct_UEnum_Abstraction_EDoorState();
+	UPackage* Z_Construct_UPackage__Script_Abstraction();
 	ABSTRACTION_API UClass* Z_Construct_UClass_UDoorInteractionComponent_NoRegister();
 	ABSTRACTION_API UClass* Z_Construct_UClass_UDoorInteractionComponent();
 	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
-	UPackage* Z_Construct_UPackage__Script_Abstraction();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FRotator();
 	ENGINE_API UClass* Z_Construct_UClass_ATriggerBox_NoRegister();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FRuntimeFloatCurve();
 // End Cross Module References
+	static UEnum* EDoorState_StaticEnum()
+	{
+		static UEnum* Singleton = nullptr;
+		if (!Singleton)
+		{
+			Singleton = GetStaticEnum(Z_Construct_UEnum_Abstraction_EDoorState, Z_Construct_UPackage__Script_Abstraction(), TEXT("EDoorState"));
+		}
+		return Singleton;
+	}
+	template<> ABSTRACTION_API UEnum* StaticEnum<EDoorState>()
+	{
+		return EDoorState_StaticEnum();
+	}
+	static FCompiledInDeferEnum Z_CompiledInDeferEnum_UEnum_EDoorState(EDoorState_StaticEnum, TEXT("/Script/Abstraction"), TEXT("EDoorState"), false, nullptr, nullptr);
+	uint32 Get_Z_Construct_UEnum_Abstraction_EDoorState_Hash() { return 3014788789U; }
+	UEnum* Z_Construct_UEnum_Abstraction_EDoorState()
+	{
+#if WITH_HOT_RELOAD
+		UPackage* Outer = Z_Construct_UPackage__Script_Abstraction();
+		static UEnum* ReturnEnum = FindExistingEnumIfHotReloadOrDynamic(Outer, TEXT("EDoorState"), 0, Get_Z_Construct_UEnum_Abstraction_EDoorState_Hash(), false);
+#else
+		static UEnum* ReturnEnum = nullptr;
+#endif // WITH_HOT_RELOAD
+		if (!ReturnEnum)
+		{
+			static const UE4CodeGen_Private::FEnumeratorParam Enumerators[] = {
+				{ "EDoorState::DS_Closed", (int64)EDoorState::DS_Closed },
+				{ "EDoorState::DS_Open", (int64)EDoorState::DS_Open },
+				{ "EDoorState::DS_Locked", (int64)EDoorState::DS_Locked },
+			};
+#if WITH_METADATA
+			const UE4CodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
+				{ "DS_Closed.DisplayName", "Closed" },
+				{ "DS_Closed.Name", "EDoorState::DS_Closed" },
+				{ "DS_Locked.DisplayName", "Locked" },
+				{ "DS_Locked.Name", "EDoorState::DS_Locked" },
+				{ "DS_Open.DisplayName", "Open" },
+				{ "DS_Open.Name", "EDoorState::DS_Open" },
+				{ "ModuleRelativePath", "Public/DoorInteractionComponent.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FEnumParams EnumParams = {
+				(UObject*(*)())Z_Construct_UPackage__Script_Abstraction,
+				nullptr,
+				"EDoorState",
+				"EDoorState",
+				Enumerators,
+				UE_ARRAY_COUNT(Enumerators),
+				RF_Public|RF_Transient|RF_MarkAsNative,
+				EEnumFlags::None,
+				UE4CodeGen_Private::EDynamicType::NotDynamic,
+				(uint8)UEnum::ECppForm::EnumClass,
+				METADATA_PARAMS(Enum_MetaDataParams, UE_ARRAY_COUNT(Enum_MetaDataParams))
+			};
+			UE4CodeGen_Private::ConstructUEnum(ReturnEnum, EnumParams);
+		}
+		return ReturnEnum;
+	}
 	void UDoorInteractionComponent::StaticRegisterNativesUDoorInteractionComponent()
 	{
 	}
@@ -50,6 +109,11 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_OpenCurve_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_OpenCurve;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_DoorState_Underlying;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DoorState_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FEnumPropertyParams NewProp_DoorState;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -94,11 +158,21 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 	};
 #endif
 	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_OpenCurve = { "OpenCurve", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UDoorInteractionComponent, OpenCurve), Z_Construct_UScriptStruct_FRuntimeFloatCurve, METADATA_PARAMS(Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_OpenCurve_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_OpenCurve_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState_MetaData[] = {
+		{ "Category", "DoorInteractionComponent" },
+		{ "ModuleRelativePath", "Public/DoorInteractionComponent.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FEnumPropertyParams Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState = { "DoorState", nullptr, (EPropertyFlags)0x0020080000000014, UE4CodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UDoorInteractionComponent, DoorState), Z_Construct_UEnum_Abstraction_EDoorState, METADATA_PARAMS(Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UDoorInteractionComponent_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DesiredRotation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_TimeToRotate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_TriggerBox,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_OpenCurve,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState_Underlying,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UDoorInteractionComponent_Statics::NewProp_DoorState,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UDoorInteractionComponent_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UDoorInteractionComponent>::IsAbstract,
@@ -127,7 +201,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UDoorInteractionComponent, 398565011);
+	IMPLEMENT_CLASS(UDoorInteractionComponent, 2132647605);
 	template<> ABSTRACTION_API UClass* StaticClass<UDoorInteractionComponent>()
 	{
 		return UDoorInteractionComponent::StaticClass();
