@@ -1284,3 +1284,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.18-05.00.12:203][699]LogFileHelpers: Saving map 'Abstraction' took 0.052
 [2022.01.18-05.00.12:221][699]AssetCheck: New page: Asset Save: Abstraction
 [2022.01.18-05.00.12:221][699]LogContentValidation: Display: Validating World /Game/Maps/Abstraction.Abstraction
+[2022.01.18-05.02.25:024][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.01.18-05.02.25:748][240]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.18-05.02.25:755][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.18-05.02.25:755][240]PIE: New page: PIE session: Abstraction (Jan 17, 2022, 3:02:25 PM)
+[2022.01.18-05.02.25:755][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.18-05.02.25:760][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2022.01.18-05.02.25:761][240]LogAIModule: Creating AISystem for world Abstraction
+[2022.01.18-05.02.25:761][240]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2022.01.18-05.02.25:761][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005500s)
+[2022.01.18-05.02.25:785][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.01.18-05.02.25:786][240]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.18-05.02.25:786][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.18-05.02.25:786][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.18-05.02.25:787][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.18-05.02.25:787][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.18-05.02.25:787][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.18-05.02.25:787][240]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.18-05.02.25:789][240]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.18-05.02.25:790][240]LogAudioMixer: Display: 1: FrontRight
+[2022.01.18-05.02.25:929][240]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.18-05.02.25:930][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.18-05.02.25:930][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.18-05.02.25:930][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.18-05.02.25:930][240]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.18-05.02.25:930][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.18-05.02.25:930][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.18-05.02.25:932][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.18-05.02.25:932][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.18-05.02.25:932][240]LogInit: FAudioDevice initialized.
+[2022.01.18-05.02.25:932][240]LogAudio: Display: Audio Device (ID: 8) registered with world 'Abstraction'.
+[2022.01.18-05.02.25:944][240]LogLoad: Game class is 'GameModeBase'
+[2022.01.18-05.02.25:946][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.01.17-22.02.25
+[2022.01.18-05.02.25:946][240]LogWorld: Bringing up level for play took: 0.001481
+[2022.01.18-05.02.25:946][240]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.01.18-05.02.25:949][240]PIE: Server logged in
+[2022.01.18-05.02.25:950][240]PIE: Play in editor total start time 0.195 seconds.
+[2022.01.18-05.02.46:698][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-05.02.46:698][481]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.18-05.02.46:698][481]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-05.02.46:698][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-05.02.46:709][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.18-05.02.46:718][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-05.02.46:734][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.18-05.02.46:734][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.18-05.02.46:735][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.18-05.02.46:740][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-05.02.46:743][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.18-05.02.46:782][482]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.01.18-05.02.56:751][725]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{082f5119-c49c-4b1b-84e2-5031d8544581}.
+[2022.01.18-05.02.56:751][725]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.18-05.02.56:753][725]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.18-05.02.56:753][725]LogAudioMixer: Display: 1: FrontRight
+[2022.01.18-05.02.57:424][727]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{671001a1-2d2e-4a1d-8975-565dee8f182c}.
+[2022.01.18-05.02.57:424][727]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.18-05.02.57:493][727]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.18-05.02.57:493][727]LogAudioMixer: Display: 1: FrontRight
+[2022.01.18-05.23.13:788][757]LogHttp: Warning: 000001D724E30F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A9C97C9-47D6-59C1-6E27-83B4709466B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.18-05.23.13:788][757]LogHttp: Warning: 000001D724E30F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.18-05.23.13:788][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d75910feb0 [can pipeline])
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.185.193) port 443 (#0))
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.18-05.23.13:789][757]LogHttp: Warning: 000001D724E30F00: libcurl info message cache 7 (Closing connection 0)
+[2022.01.18-05.23.14:117][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A9C97C9-47D6-59C1-6E27-83B4709466B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.18-05.23.14:444][758]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.18-05.23.14:460][758]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.18-05.23.14:460][758]LogAudioMixer: Display: 1: FrontRight
+[2022.01.18-05.23.15:913][762]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.01.19-05.37.01:936][762]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.19-05.37.01:991][762]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-05.37.01:991][762]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-05.37.03:962][763]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.01.19-05.37.03:964][763]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateKnownNodes received negative NodeByteSent (-1) from socket.
+[2022.01.19-05.37.03:964][763]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.01.19-05.37.03:966][763]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.01.19-05.37.03:966][763]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.01.19-05.37.03:991][763]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.01.19-05.37.04:000][763]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.19-05.37.04:044][763]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-05.37.04:044][763]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-05.37.05:205][764]LogHttp: Warning: 000001D749F4CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A9C97C9-47D6-59C1-6E27-83B4709466B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.19-05.37.05:205][764]LogHttp: Warning: 000001D749F4CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.19-05.37.05:205][764]LogHttp: Warning: 000001D749F4CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.19-05.37.05:206][764]LogHttp: Warning: 000001D749F4CF00: libcurl info message cache 1 (Closing connection 1)
+[2022.01.19-05.37.05:206][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A9C97C9-47D6-59C1-6E27-83B4709466B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.19-05.37.05:220][764]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.19-05.37.05:264][764]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-05.37.05:264][764]LogAudioMixer: Display: 1: FrontRight
