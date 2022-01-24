@@ -1198,3 +1198,675 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.20-15.56.10:822][286]Warning: HotReload failed, recompile failed
 [2022.01.20-15.56.18:403][737]LogSlate: Window 'Message Log' being destroyed
 [2022.01.20-15.56.18:408][737]LogSlate: Window 'Message Log' being destroyed
+[2022.01.20-15.57.59:926][454]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{671001a1-2d2e-4a1d-8975-565dee8f182c}.
+[2022.01.20-15.57.59:926][454]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.20-15.57.59:927][454]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.20-15.57.59:927][454]LogAudioMixer: Display: 1: FrontRight
+[2022.01.20-16.18.25:159][500]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2936ceac-f1bc-49d9-a8ac-67a5a423aa31}.
+[2022.01.20-16.18.25:159][500]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.20-16.18.25:698][500]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.20-16.18.25:699][500]LogAudioMixer: Display: 1: FrontRight
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a85bcebeb0 [can pipeline])
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.25.227.186) port 443 (#0))
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.20-16.18.26:082][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.20-16.18.26:083][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.20-16.18.26:083][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.20-16.18.26:083][503]LogHttp: Warning: 000001A88296C100: libcurl info message cache 7 (Closing connection 0)
+[2022.01.20-16.18.26:429][504]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.20-16.18.26:742][504]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{671001a1-2d2e-4a1d-8975-565dee8f182c}.
+[2022.01.20-16.18.26:742][504]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.01.20-16.18.26:744][504]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.22-02.41.32:881][504]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-02.41.32:881][504]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-02.41.34:098][505]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.22-02.41.34:151][505]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-02.41.34:151][505]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-02.41.35:568][506]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.22-02.41.35:598][506]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-02.41.35:598][506]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-02.41.40:564][520]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2936ceac-f1bc-49d9-a8ac-67a5a423aa31}.
+[2022.01.22-02.41.40:564][520]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.22-02.41.40:586][520]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-02.41.40:586][520]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-03.57.03:603][797]LogSlate: Window 'Open Project' being destroyed
+[2022.01.22-03.58.32:812][160]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.01.22-03.58.32:966][160]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.01.22-04.03.00:414][127]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2022.01.22-04.03.00:414][127]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/" -install="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.zip"
+[2022.01.22-04.03.01:786][133]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2022.01.22-04.03.01:786][133]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction
+[2022.01.22-04.03.01:786][133]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.zip
+[2022.01.22-04.03.01:786][133]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2022.01.22-04.03.10:160][158]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2022.01.22-04.03.10:160][158]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2022.01.22-04.03.10:160][158]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2022.01.22-04.11.15:924][609]LogSlate: Window 'Open Project' being destroyed
+[2022.01.22-04.11.25:233][905]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2022.01.22-04.11.25:580][908]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/" -install="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.zip"
+[2022.01.22-04.11.25:926][909]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2022.01.22-04.11.25:927][909]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction
+[2022.01.22-04.11.25:927][909]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.zip
+[2022.01.22-04.11.25:927][909]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2022.01.22-04.11.31:971][927]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2022.01.22-04.11.31:971][927]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2022.01.22-04.11.31:971][927]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2022.01.22-04.58.00:926][491]Candidate modules for hot reload:
+[2022.01.22-04.58.00:926][491]  Abstraction
+[2022.01.22-04.58.00:926][491]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,9713 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.22-04.58.00:930][491]Warning: Starting HotReload took  0.0s.
+[2022.01.22-04.58.02:916][603]CompilerResultsLog: New page: Compilation - Jan 21, 2022, 2:58:02 PM
+[2022.01.22-04.58.02:916][603]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.22-04.58.02:916][603]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: Temporary license has expired:
+[2022.01.22-04.58.02:917][603]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.22-04.58.02:917][603]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: SwingDoor.cpp (0:00.53 at +0:00)
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Private\SwingDoor.cpp(5): fatal error C1083: Cannot open include file: 'ConstructorHelpers.h': No such file or directory
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 
+[2022.01.22-04.58.02:917][603]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 1 build system warning(s):
+[2022.01.22-04.58.02:917][603]CompilerResultsLog:    - Temporary license has expired
+[2022.01.22-04.58.02:917][603]CompilerResultsLog: 
+[2022.01.22-04.58.02:917][603]LogMainFrame: MainFrame: Module compiling took 1.999 seconds
+[2022.01.22-04.58.02:918][603]Warning: HotReload failed, recompile failed
+[2022.01.22-04.58.10:377][ 46]LogSlate: Window 'Message Log' being destroyed
+[2022.01.22-04.58.10:380][ 46]LogSlate: Window 'Message Log' being destroyed
+[2022.01.22-06.35.44:104][ 24]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:81103).
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a85bcea980 [can pipeline])
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.136.56) port 443 (#4))
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.22-10.10.31:101][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.22-10.10.31:102][153]LogHttp: Warning: 000001A8918CF900: libcurl info message cache 7 (Closing connection 4)
+[2022.01.22-10.10.31:445][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.22-10.10.31:815][154]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.22-10.10.31:829][154]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-10.10.31:829][154]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-10.10.32:092][155]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{671001a1-2d2e-4a1d-8975-565dee8f182c}.
+[2022.01.22-10.10.32:092][155]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.24-03.22.57:825][155]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-03.22.57:826][155]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-03.22.59:047][156]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.01.24-03.22.59:070][156]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.24-03.22.59:325][156]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-03.22.59:325][156]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-03.22.59:560][158]LogHttp: Warning: 000001A833331D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.24-03.22.59:560][158]LogHttp: Warning: 000001A833331D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.24-03.22.59:561][158]LogHttp: Warning: 000001A833331D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.24-03.22.59:561][158]LogHttp: Warning: 000001A833331D00: libcurl info message cache 1 (Closing connection 5)
+[2022.01.24-03.22.59:561][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73EABF71-4112-0D9B-5588-D597CC1A56BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.24-04.10.03:759][452]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2936ceac-f1bc-49d9-a8ac-67a5a423aa31}.
+[2022.01.24-04.10.04:090][452]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.24-04.10.04:110][452]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-04.10.04:110][452]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-05.31.24:262][183]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-05.31.24:267][183]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-05.31.24:326][183]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-05.31.24:332][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-05.31.24:447][183]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-05.31.24:447][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-05.31.32:604][642]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.24-05.33.42:938][531]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.01.24-05.33.43:445][531]Discovering modules, targets and source code for project...
+[2022.01.24-05.33.47:969][531]Binding IntelliSense data...
+[2022.01.24-05.33.55:319][531]Binding IntelliSense data... 100%
+[2022.01.24-05.33.55:320][531]Writing project files...
+[2022.01.24-05.33.58:644][531]Writing project files... 100%
+[2022.01.24-05.33.58:854][531]Candidate modules for hot reload:
+[2022.01.24-05.33.58:854][531]  Abstraction
+[2022.01.24-05.33.58:854][531]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,0124 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-05.34.15:803][531]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 3:34:15 PM
+[2022.01.24-05.34.15:804][531]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Parsing headers for AbstractionEditor
+[2022.01.24-05.34.15:805][531]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Reflection code generated for AbstractionEditor in 11.1002438 seconds
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Distributing 10 actions to XGE
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-05.34.15:805][531]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-05.34.15:805][531]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: SwingDoor.cpp (0:00.71 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Private\SwingDoor.cpp(5): fatal error C1083: Cannot open include file: 'ConstructorHelpers.h': No such file or directory
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: Abstraction.init.gen.cpp (0:03.37 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: ObjectiveWorldSubsystem.cpp (0:03.37 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: InteractableDoor.cpp (0:03.42 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Private\InteractableDoor.cpp(10): warning C4996: 'UObject::CreateAbstractDefaultSubobject': CreateAbstract did not work as intended and has been deprecated in favor of CreateDefaultObject Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: ObjectiveWorldSubsystem.gen.cpp (0:03.45 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: DoorInteractionComponent.cpp (0:03.50 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: DoorInteractionComponent.gen.cpp (0:03.45 at +0:00)
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 
+[2022.01.24-05.34.15:805][531]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-05.34.15:805][531]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-05.34.15:805][531]CompilerResultsLog: 
+[2022.01.24-05.34.15:806][531]LogMainFrame: MainFrame: Module compiling took 16.962 seconds
+[2022.01.24-05.34.15:807][531]Warning: HotReload failed, recompile failed
+[2022.01.24-05.34.15:819][531]Warning: RebindPackages failed because compilation failed.
+[2022.01.24-05.34.30:895][531]LogSlate: Window 'Message' being destroyed
+[2022.01.24-05.34.30:899][531]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'ObjectiveWorldSubsystem', however you must recompile the 'Abstraction' module before it will appear in the Content Browser. Failed to automatically hot reload the 'Abstraction' module.
+
+Would you like to open the Output Log to see more details?
+[2022.01.24-05.34.30:938][531]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.01.24-05.34.46:624][460]LogSlate: Window 'Output Log' being destroyed
+[2022.01.24-05.34.46:628][460]LogSlate: Window 'Output Log' being destroyed
+[2022.01.24-05.34.47:461][508]Candidate modules for hot reload:
+[2022.01.24-05.34.47:462][508]  Abstraction
+[2022.01.24-05.34.47:462][508]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,0856 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-05.34.47:463][508]Warning: Starting HotReload took  0.0s.
+[2022.01.24-05.34.48:760][579]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 3:34:48 PM
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-05.34.48:761][579]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-05.34.48:761][579]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: SwingDoor.cpp (0:00.32 at +0:00)
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Private\SwingDoor.cpp(5): fatal error C1083: Cannot open include file: 'ConstructorHelpers.h': No such file or directory
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 
+[2022.01.24-05.34.48:761][579]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-05.34.48:761][579]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-05.34.48:761][579]CompilerResultsLog: 
+[2022.01.24-05.34.48:761][579]LogMainFrame: MainFrame: Module compiling took 1.304 seconds
+[2022.01.24-05.34.48:761][579]Warning: HotReload failed, recompile failed
+[2022.01.24-05.34.54:297][908]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-05.34.54:301][908]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-05.35.22:939][ 54]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.01.24-05.35.23:244][ 54]Discovering modules, targets and source code for project...
+[2022.01.24-05.35.24:552][ 54]Binding IntelliSense data...
+[2022.01.24-05.35.26:270][ 54]Binding IntelliSense data... 100%
+[2022.01.24-05.35.26:270][ 54]Writing project files...
+[2022.01.24-05.35.29:089][ 54]Writing project files... 100%
+[2022.01.24-05.35.33:028][281]MapCheck: New page: Map Check
+[2022.01.24-05.35.33:062][281]Cmd: MAP REBUILD ALLVISIBLE
+[2022.01.24-05.35.33:065][281]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.01.24-05.35.33:108][281]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.01.24-05.35.33:673][281]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.01.24-05.35.33:673][281]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.01.24-05.35.33:673][281]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.01.24-05.35.33:955][281]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2022.01.24-05.35.34:000][281]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2022.01.24-05.35.34:004][281]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.01.24-05.35.34:106][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.01.24-05.35.34:114][281]LightingResults: New page: Lighting Build - Jan 23, 2022, 3:35:34 PM
+[2022.01.24-05.35.34:200][281]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.01.24-05.35.34:234][281]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.01.24-05.35.34:245][281]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.01.24-05.35.34:781][281]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.01.24-05.35.34:781][281]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15952
+[2022.01.24-05.35.41:759][281]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.01.24-05.35.41:760][281]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.01.24-05.35.41:760][281]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.01.24-05.35.41:760][281]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.01.24-05.35.41:760][281]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.01.24-05.35.41:760][281]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.01.24-05.35.41:925][281]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.01.24-05.35.41:925][281]MapCheck: New page: Abstraction - Jan 23, 2022, 3:35:41 PM
+[2022.01.24-05.35.41:928][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.623ms to complete.
+[2022.01.24-05.35.41:930][281]LogEditorBuildUtils: Build time 0:08
+[2022.01.24-05.35.42:258][281]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-05.35.42:258][281]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.24-05.35.42:258][281]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.24-05.35.42:259][281]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.24-05.35.42:259][281]LogShaderCompilers: Display: ================================================
+[2022.01.24-05.35.42:401][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.01.24-05.35.43:589][310]Job is a success!
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:      Bricks at depth
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:      Bricks in each level
+[2022.01.24-05.35.43:683][311]LogVolumetricLightmapImport:          Abstraction 			 6 bricks 	 100.0% (Persistent Level)
+[2022.01.24-05.35.43:714][311]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 256X128)
+[2022.01.24-05.35.43:714][311]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.01.24-05.35.43:714][311]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.01.24-05.35.43:734][311]Lightmass on LAPTOP-0U3AVAT7: 608 ms total, 76 ms importing, 2 ms setup, 37 ms photons, 411 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 6.16 sec total, 28 ms processing.
+[2022.01.24-05.35.43:758][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.01.24-05.35.43:790][311]LogStaticLightingSystem: Illumination: 9.62 sec (10 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.01.24-05.35.43:790][311]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.01.24-05.35.43:790][311]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.01.24-05.35.44:774][311]DumpUnbuiltLightIteractions
+[2022.01.24-05.35.44:774][311]Lights with unbuilt interactions: 0
+[2022.01.24-05.35.44:775][311]
+[2022.01.24-05.35.44:775][311]Primitives with unbuilt interactions: 0
+[2022.01.24-05.35.44:841][311]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.01.24-05.35.44:852][311]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.01.24-05.35.44:881][312]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.01.24-05.35.44:881][312]MapCheck: New page: Abstraction - Jan 23, 2022, 3:35:44 PM
+[2022.01.24-05.35.44:882][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.335ms to complete.
+[2022.01.24-05.35.49:554][591]Candidate modules for hot reload:
+[2022.01.24-05.35.49:554][591]  Abstraction
+[2022.01.24-05.35.49:554][591]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,6656 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-05.35.49:557][591]Warning: Starting HotReload took  0.0s.
+[2022.01.24-05.35.51:880][724]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 3:35:51 PM
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-05.35.51:881][724]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-05.35.51:881][724]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: SwingDoor.cpp (0:00.34 at +0:00)
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Private\SwingDoor.cpp(5): fatal error C1083: Cannot open include file: 'ConstructorHelpers.h': No such file or directory
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 
+[2022.01.24-05.35.51:881][724]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-05.35.51:881][724]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-05.35.51:881][724]CompilerResultsLog: 
+[2022.01.24-05.35.51:881][724]LogMainFrame: MainFrame: Module compiling took 2.331 seconds
+[2022.01.24-05.35.51:881][724]Warning: HotReload failed, recompile failed
+[2022.01.24-05.36.09:742][794]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-05.36.09:747][794]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-05.36.57:826][263]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.01.24-05.36.58:129][263]Discovering modules, targets and source code for project...
+[2022.01.24-05.36.59:335][263]Binding IntelliSense data...
+[2022.01.24-05.37.00:954][263]Binding IntelliSense data... 100%
+[2022.01.24-05.37.00:954][263]Writing project files...
+[2022.01.24-05.37.03:669][263]Writing project files... 100%
+[2022.01.24-05.37.21:584][597]MapCheck: New page: Map Check
+[2022.01.24-05.37.21:603][597]Cmd: MAP REBUILD ALLVISIBLE
+[2022.01.24-05.37.21:603][597]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.01.24-05.37.21:604][597]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.01.24-05.37.21:616][597]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.01.24-05.37.21:616][597]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.01.24-05.37.21:616][597]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.01.24-05.37.21:631][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.01.24-05.37.21:638][597]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.01.24-05.37.21:641][597]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.01.24-05.37.21:654][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.01.24-05.37.21:657][597]LightingResults: New page: Lighting Build - Jan 23, 2022, 3:37:21 PM
+[2022.01.24-05.37.21:662][597]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.01.24-05.37.21:671][597]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.01.24-05.37.21:671][597]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.01.24-05.37.21:672][597]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.01.24-05.37.21:672][597]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15952
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.01.24-05.37.26:383][597]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.01.24-05.37.26:480][597]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.01.24-05.37.26:480][597]MapCheck: New page: Abstraction - Jan 23, 2022, 3:37:26 PM
+[2022.01.24-05.37.26:480][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.307ms to complete.
+[2022.01.24-05.37.26:482][597]LogEditorBuildUtils: Build time 0:04
+[2022.01.24-05.37.26:528][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.01.24-05.37.27:234][611]Job is a success!
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:      Bricks at depth
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:      Bricks in each level
+[2022.01.24-05.37.27:328][613]LogVolumetricLightmapImport:          Abstraction 			 6 bricks 	 100.0% (Persistent Level)
+[2022.01.24-05.37.27:339][613]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 256X128)
+[2022.01.24-05.37.27:339][613]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.01.24-05.37.27:339][613]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.01.24-05.37.27:355][613]Lightmass on LAPTOP-0U3AVAT7: 539 ms total, 61 ms importing, 2 ms setup, 24 ms photons, 414 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 6.21 sec total, 26 ms processing.
+[2022.01.24-05.37.27:355][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.01.24-05.37.27:388][613]LogStaticLightingSystem: Illumination: 5.67 sec (6 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.01.24-05.37.27:388][613]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.01.24-05.37.27:388][613]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.01.24-05.37.28:398][613]DumpUnbuiltLightIteractions
+[2022.01.24-05.37.28:398][613]Lights with unbuilt interactions: 0
+[2022.01.24-05.37.28:398][613]
+[2022.01.24-05.37.28:398][613]Primitives with unbuilt interactions: 0
+[2022.01.24-05.37.28:452][613]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.01.24-05.37.28:461][613]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.01.24-05.37.28:493][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.01.24-05.37.28:493][614]MapCheck: New page: Abstraction - Jan 23, 2022, 3:37:28 PM
+[2022.01.24-05.37.28:493][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2022.01.24-05.37.33:142][891]Candidate modules for hot reload:
+[2022.01.24-05.37.33:142][891]  Abstraction
+[2022.01.24-05.37.33:142][891]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,6271 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-05.37.33:144][891]Warning: Starting HotReload took  0.0s.
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 3:37:39 PM
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Parsing headers for AbstractionEditor
+[2022.01.24-05.37.39:864][288]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Reflection code generated for AbstractionEditor in 3.1589186 seconds
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Distributing 4 actions to XGE
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-05.37.39:864][288]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-05.37.39:864][288]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: 
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-05.37.39:864][288]CompilerResultsLog: Abstraction.init.gen.cpp (0:00.57 at +0:00)
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: UE4Editor-Abstraction-6271.lib (0:00.12 at +0:00)
+[2022.01.24-05.37.39:865][288]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6271.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6271.exp
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: UE4Editor-Abstraction-6271.dll (0:00.76 at +0:00)
+[2022.01.24-05.37.39:865][288]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6271.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6271.suppressed.exp
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: AbstractionEditor.target (0:00.17 at +0:01)
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: 
+[2022.01.24-05.37.39:865][288]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: 
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-05.37.39:865][288]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: 
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: Total time in XGE executor: 1.72 seconds
+[2022.01.24-05.37.39:865][288]CompilerResultsLog: Total execution time: 6.66 seconds
+[2022.01.24-05.37.39:865][288]LogMainFrame: MainFrame: Module compiling took 6.727 seconds
+[2022.01.24-05.37.39:916][288]LogClass: Could not find existing class DoorInteractionComponent in package /Script/Abstraction for HotReload, assuming new class
+[2022.01.24-05.37.39:918][288]LogClass: Could not find existing class ObjectiveWorldSubsystem in package /Script/Abstraction for HotReload, assuming new class
+[2022.01.24-05.37.39:924][288]LogTemp: Error: Abstract Component created
+[2022.01.24-05.37.39:930][288]LogHotReload: Re-instancing DoorInteractionComponent after hot-reload.
+[2022.01.24-05.37.39:950][288]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2022.01.24-05.37.39:964][288]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.01.24-05.37.40:047][288]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3828 classes and 931 folders.
+[2022.01.24-05.37.40:047][288]Display: HotReload took  6.9s.
+[2022.01.24-05.37.57:380][306]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.24-05.37.57:383][306]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.24-05.38.36:481][644]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.01.24-05.38.36:786][644]Discovering modules, targets and source code for project...
+[2022.01.24-05.38.37:993][644]Binding IntelliSense data...
+[2022.01.24-05.38.39:708][644]Binding IntelliSense data... 100%
+[2022.01.24-05.38.39:708][644]Writing project files...
+[2022.01.24-05.38.42:429][644]Writing project files... 100%
+[2022.01.24-05.38.42:540][644]Candidate modules for hot reload:
+[2022.01.24-05.38.42:540][644]  Abstraction
+[2022.01.24-05.38.42:540][644]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,0862 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 3:38:48 PM
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Parsing headers for AbstractionEditor
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Reflection code generated for AbstractionEditor in 3.0343501 seconds
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Distributing 6 actions to XGE
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: 
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: ObjectiveWorldSubsystem1.cpp (0:00.46 at +0:00)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Abstraction.init.gen.cpp (0:00.46 at +0:00)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: ObjectiveWorldSubsystem1.gen.cpp (0:00.68 at +0:00)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: UE4Editor-Abstraction-0862.lib (0:00.07 at +0:00)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0862.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0862.exp
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: UE4Editor-Abstraction-0862.dll (0:00.59 at +0:00)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0862.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0862.suppressed.exp
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: AbstractionEditor.target (0:00.15 at +0:01)
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: 
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: 
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-05.38.48:850][644]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: 
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Total time in XGE executor: 1.61 seconds
+[2022.01.24-05.38.48:850][644]CompilerResultsLog: Total execution time: 6.25 seconds
+[2022.01.24-05.38.48:850][644]LogMainFrame: MainFrame: Module compiling took 6.315 seconds
+[2022.01.24-05.38.48:900][644]LogClass: Could not find existing class ObjectiveWorldSubsystem1 in package /Script/Abstraction for HotReload, assuming new class
+[2022.01.24-05.38.48:900][644]LogClass: EDoorState HotReload.
+[2022.01.24-05.38.48:902][644]LogTemp: Error: Abstract Component created
+[2022.01.24-05.38.48:904][644]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2022.01.24-05.38.48:909][644]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.01.24-05.38.48:988][644]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3829 classes and 931 folders.
+[2022.01.24-05.38.48:988][644]Display: HotReload took  6.5s.
+[2022.01.24-05.38.48:992][644]Warning: HotReload operation took  6.5s.
+[2022.01.24-05.38.49:311][644]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Source/Abstraction/Private/ObjectiveWorldSubsystem1.cpp'
+[2022.01.24-05.38.49:320][644]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.01.24-05.38.49:602][645]LogHotReload: New module detected: UE4Editor-Abstraction-0862.dll
+[2022.01.24-05.38.49:621][646]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.24-05.38.49:653][646]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2022.01.24-05.38.49:658][646]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.01.24-05.38.49:672][646]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3829 classes and 931 folders.
+[2022.01.24-05.38.49:677][646]Display: HotReload took  0.1s.
+[2022.01.24-05.40.33:170][513]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Source/Abstraction/AbstractionGameModeBase.h'
+[2022.01.24-05.40.33:257][513]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Source/Abstraction/AbstractionGameModeBase.cpp'
+[2022.01.24-05.44.34:418][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.01.24-05.44.34:444][338]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_Auto2D18942104F132567E7CEAB8831120371.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/Abstraction_Auto2.umap'
+[2022.01.24-05.44.34:447][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.169
+[2022.01.24-05.44.34:447][338]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.169
+[2022.01.24-05.54.34:874][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.24-05.54.34:875][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.069
+[2022.01.24-06.04.35:517][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.01.24-06.04.35:518][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.014
+[2022.01.24-06.07.13:200][654]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.01.24-06.07.13:504][654]Discovering modules, targets and source code for project...
+[2022.01.24-06.07.14:711][654]Binding IntelliSense data...
+[2022.01.24-06.07.16:432][654]Binding IntelliSense data... 100%
+[2022.01.24-06.07.16:432][654]Writing project files...
+[2022.01.24-06.07.19:451][654]Writing project files... 100%
+[2022.01.24-06.07.26:708][790]MapCheck: New page: Map Check
+[2022.01.24-06.07.26:722][790]Cmd: MAP REBUILD ALLVISIBLE
+[2022.01.24-06.07.26:723][790]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.01.24-06.07.26:725][790]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.01.24-06.07.26:737][790]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.01.24-06.07.26:737][790]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.01.24-06.07.26:737][790]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.01.24-06.07.26:751][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.01.24-06.07.26:758][790]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.01.24-06.07.26:760][790]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.01.24-06.07.26:771][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.24-06.07.26:775][790]LightingResults: New page: Lighting Build - Jan 23, 2022, 4:07:26 PM
+[2022.01.24-06.07.26:779][790]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.01.24-06.07.26:787][790]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.01.24-06.07.26:787][790]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.01.24-06.07.26:789][790]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.01.24-06.07.26:789][790]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15952
+[2022.01.24-06.07.31:385][790]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.01.24-06.07.31:386][790]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.01.24-06.07.31:386][790]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.01.24-06.07.31:386][790]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.01.24-06.07.31:386][790]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.01.24-06.07.31:386][790]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.01.24-06.07.31:511][790]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.01.24-06.07.31:512][790]MapCheck: New page: Abstraction - Jan 23, 2022, 4:07:31 PM
+[2022.01.24-06.07.31:512][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.457ms to complete.
+[2022.01.24-06.07.31:515][790]LogEditorBuildUtils: Build time 0:04
+[2022.01.24-06.07.31:523][790]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-06.07.31:523][790]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.24-06.07.31:523][790]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.24-06.07.31:523][790]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.24-06.07.31:523][790]LogShaderCompilers: Display: ================================================
+[2022.01.24-06.07.31:589][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.24-06.07.32:568][818]Job is a success!
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:      Bricks at depth
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:      Bricks in each level
+[2022.01.24-06.07.32:661][820]LogVolumetricLightmapImport:          Abstraction 			 6 bricks 	 100.0% (Persistent Level)
+[2022.01.24-06.07.32:674][820]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 256X128)
+[2022.01.24-06.07.32:674][820]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.01.24-06.07.32:674][820]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.01.24-06.07.32:691][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.01.24-06.07.32:704][820]Lightmass on LAPTOP-0U3AVAT7: 694 ms total, 125 ms importing, 16 ms setup, 38 ms photons, 416 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 6.23 sec total, 29 ms processing.
+[2022.01.24-06.07.32:721][820]LogStaticLightingSystem: Illumination: 5.89 sec (7 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.01.24-06.07.32:721][820]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.01.24-06.07.32:721][820]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.01.24-06.07.32:723][820]DumpUnbuiltLightIteractions
+[2022.01.24-06.07.32:723][820]Lights with unbuilt interactions: 0
+[2022.01.24-06.07.32:723][820]
+[2022.01.24-06.07.32:723][820]Primitives with unbuilt interactions: 0
+[2022.01.24-06.07.32:782][820]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.01.24-06.07.32:795][820]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.01.24-06.07.32:873][821]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.01.24-06.07.32:873][821]MapCheck: New page: Abstraction - Jan 23, 2022, 4:07:32 PM
+[2022.01.24-06.07.32:873][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.415ms to complete.
+[2022.01.24-06.07.37:408][ 87]Candidate modules for hot reload:
+[2022.01.24-06.07.37:408][ 87]  Abstraction
+[2022.01.24-06.07.37:408][ 87]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,0476 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-06.07.37:410][ 87]Warning: Starting HotReload took  0.0s.
+[2022.01.24-06.07.52:445][981]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 4:07:52 PM
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Parsing headers for AbstractionEditor
+[2022.01.24-06.07.52:446][981]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Reflection code generated for AbstractionEditor in 3.5925505 seconds
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Distributing 8 actions to XGE
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-06.07.52:446][981]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-06.07.52:446][981]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: 
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Abstraction.init.gen.cpp (0:05.25 at +0:00)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: AbstractionGameModeBase.cpp (0:08.15 at +0:00)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: ObjectiveWorldSubsystem.cpp (0:08.39 at +0:00)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: ObjectiveWorldSubsystem.gen.cpp (0:08.37 at +0:00)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: AbstractionGameModeBase.gen.cpp (0:08.39 at +0:00)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: UE4Editor-Abstraction-0476.lib (0:00.15 at +0:08)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0476.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0476.exp
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: UE4Editor-Abstraction-0476.dll (0:00.70 at +0:08)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0476.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-0476.suppressed.exp
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class APlayerController>(class APlayerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VAPlayerController@@@@YAPEAVUUserWidget@@PEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl UObjectiveWorldSubsystem::DisplayObjectiveWidget(void)" (?DisplayObjectiveWidget@UObjectiveWorldSubsystem@@QEAAXXZ)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class APlayerController>(class APlayerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VAPlayerController@@@@YAPEAVUUserWidget@@PEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: AbstractionGameModeBase.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAbstractionGameModeBase::StartPlay(void)" (?StartPlay@AAbstractionGameModeBase@@UEAAXXZ)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: AbstractionGameModeBase.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAbstractionGameModeBase::StartPlay(void)" (?StartPlay@AAbstractionGameModeBase@@UEAAXXZ)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: AbstractionGameModeBase.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_AAbstractionGameModeBase_Statics::NewProp_ObjectiveWidgetClass''(void)" (??__E?NewProp_ObjectiveWidgetClass@Z_Construct_UClass_AAbstractionGameModeBase_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UE4Editor-Abstraction-0476.dll : fatal error LNK1120: 5 unresolved externals
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: 
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2022.01.24-06.07.52:446][981]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-06.07.52:447][981]CompilerResultsLog: 
+[2022.01.24-06.07.52:447][981]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.24-06.07.52:447][981]CompilerResultsLog: 
+[2022.01.24-06.07.52:447][981]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-06.07.52:447][981]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-06.07.52:447][981]CompilerResultsLog: 
+[2022.01.24-06.07.52:447][981]LogMainFrame: MainFrame: Module compiling took 15.043 seconds
+[2022.01.24-06.07.52:447][981]Warning: HotReload failed, recompile failed
+[2022.01.24-06.09.53:968][312]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-06.09.53:973][312]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-06.09.54:873][365]Candidate modules for hot reload:
+[2022.01.24-06.09.54:873][365]  Abstraction
+[2022.01.24-06.09.54:873][365]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,7233 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.01.24-06.09.54:875][365]Warning: Starting HotReload took  0.0s.
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: New page: Compilation - Jan 23, 2022, 4:10:02 PM
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Parsing headers for AbstractionEditor
+[2022.01.24-06.10.02:416][809]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject" "C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\AbstractionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\willi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Reflection code generated for AbstractionEditor in 3.2337835 seconds
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Building AbstractionEditor...
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Distributing 5 actions to XGE
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Temporary license has expired:
+[2022.01.24-06.10.02:416][809]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.01.24-06.10.02:416][809]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: 
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: ObjectiveWorldSubsystem.cpp (0:02.73 at +0:00)
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: ObjectiveWorldSubsystem.gen.cpp (0:02.73 at +0:00)
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: UE4Editor-Abstraction-7233.lib (0:00.07 at +0:02)
+[2022.01.24-06.10.02:416][809]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-7233.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-7233.exp
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: UE4Editor-Abstraction-7233.dll (0:00.54 at +0:02)
+[2022.01.24-06.10.02:416][809]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-7233.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-7233.suppressed.exp
+[2022.01.24-06.10.02:416][809]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class APlayerController>(class APlayerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VAPlayerController@@@@YAPEAVUUserWidget@@PEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl UObjectiveWorldSubsystem::DisplayObjectiveWidget(void)" (?DisplayObjectiveWidget@UObjectiveWorldSubsystem@@QEAAXXZ)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: ObjectiveWorldSubsystem.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class APlayerController>(class APlayerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VAPlayerController@@@@YAPEAVUUserWidget@@PEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: AbstractionGameModeBase.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAbstractionGameModeBase::StartPlay(void)" (?StartPlay@AAbstractionGameModeBase@@UEAAXXZ)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: AbstractionGameModeBase.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAbstractionGameModeBase::StartPlay(void)" (?StartPlay@AAbstractionGameModeBase@@UEAAXXZ)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: AbstractionGameModeBase.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_AAbstractionGameModeBase_Statics::NewProp_ObjectiveWidgetClass''(void)" (??__E?NewProp_ObjectiveWidgetClass@Z_Construct_UClass_AAbstractionGameModeBase_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error: C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UE4Editor-Abstraction-7233.dll : fatal error LNK1120: 5 unresolved externals
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: 
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\link-filter\link-filter.exe (tool returned code: 1120)
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: 
+[2022.01.24-06.10.02:417][809]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: 
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: 1 build system warning(s):
+[2022.01.24-06.10.02:417][809]CompilerResultsLog:    - Temporary license has expired
+[2022.01.24-06.10.02:417][809]CompilerResultsLog: 
+[2022.01.24-06.10.02:417][809]LogMainFrame: MainFrame: Module compiling took 7.549 seconds
+[2022.01.24-06.10.02:417][809]Warning: HotReload failed, recompile failed
+[2022.01.24-06.10.06:666][ 62]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-06.10.06:670][ 62]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-06.14.36:413][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.01.24-06.14.36:440][109]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_Auto3F3A778744FAA4345746323B3F787116D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/Abstraction_Auto3.umap'
+[2022.01.24-06.14.36:442][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.041
+[2022.01.24-06.14.36:442][109]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.01.24-06.24.37:024][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.01.24-06.24.37:025][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.013
+[2022.01.24-06.27.16:037][390]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Wdgets/WBP_Objective.WBP_Objective
+[2022.01.24-06.27.28:915][122]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-06.27.28:919][122]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-06.27.28:922][122]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-06.27.28:922][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-06.27.28:928][122]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-06.27.28:929][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-06.27.45:994][338]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Wdgets/WBP_Objective.WBP_Objective
+[2022.01.24-06.27.49:829][550]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-06.27.49:833][550]LogSlate: Window 'WBP_Objective' being destroyed
+[2022.01.24-06.27.49:836][550]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-06.27.49:836][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-06.27.49:841][550]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-06.27.49:841][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-06.27.51:486][646]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Wdgets/WBP_Objective.WBP_Objective

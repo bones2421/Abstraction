@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8E47EDF0-E229-43AE-A0BE-79CFCE47C088}</UniqueIdentifier>
+      <UniqueIdentifier>{FA20CE3C-902B-4AD7-80A3-DAF86FFE227D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\AbstractionEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Abstraction.zip" />
     <Filter Include="Config">
-      <UniqueIdentifier>{405DF7BE-FD66-4A29-8DFA-D8CED2249070}</UniqueIdentifier>
+      <UniqueIdentifier>{2ECE2FEA-0302-49F1-BE98-8E6510658987}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{E766E49C-ED49-4F34-A9BB-27A2521E84A0}</UniqueIdentifier>
+      <UniqueIdentifier>{2FBCA3D1-FAF8-4C65-8435-F0E641DF50E5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -48,7 +49,7 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{94701334-9DF0-4424-9BD5-5A537738468E}</UniqueIdentifier>
+      <UniqueIdentifier>{5225450E-F2ED-475E-90ED-954BF437E606}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractLogComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
@@ -59,11 +60,14 @@
     <ClCompile Include="..\..\Source\Abstraction\Private\InteractableDoor.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Abstraction\Private\SwingDoor.cpp">
+    <ClCompile Include="..\..\Source\Abstraction\Private\ObjectiveWorldSubsystem.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\ObjectiveWorldSubsystem1.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{8A7A1DA7-3C6C-4121-98D4-638F2A0D1593}</UniqueIdentifier>
+      <UniqueIdentifier>{FB5864D8-F1C0-40D3-98A9-5C625216D992}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractLogComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
@@ -74,7 +78,10 @@
     <ClInclude Include="..\..\Source\Abstraction\Public\InteractableDoor.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\Abstraction\Public\SwingDoor.h">
+    <ClInclude Include="..\..\Source\Abstraction\Public\ObjectiveWorldSubsystem.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\ObjectiveWorldSubsystem1.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
   </ItemGroup>

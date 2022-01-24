@@ -14,6 +14,7 @@ UENUM()
 enum class EDoorState
 {
 	DS_Closed = 0	UMETA(DisplayName = "Closed"),
+	DS_Opening = 1  UMETA(DisplayName = "Opening"),
 	DS_Open = 1		UMETA(DisplayName = "Open"),
 	DS_Locked = 2	UMETA(DisplayName = "Locked"),
 };
@@ -27,6 +28,11 @@ public:
 	UDoorInteractionComponent();
 
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
+	DECLARE_EVENT(FDoorInteractionComponent, FOpened)
+	FOpened& OnOpened() { return OpenedEvent; }
+
+	FOpened OpenedEvent;
 
 	static void OnDebugToggled(IConsoleVariable* Var);
 	void DebugDraw();

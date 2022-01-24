@@ -7,6 +7,8 @@
 #include "Engine/World.h"
 
 #include "DrawDebugHelpers.h"
+#include <Abstraction/Public/ObjectiveWorldSubsystem.h>
+#include <ObjectiveWorldSubsystem.cpp>
 
 constexpr float FLT_METERS(float meters) { return meters * 100.0f;  }
 
@@ -33,28 +35,44 @@ void UDoorInteractionComponent::BeginPlay()
 	FinalRotation = GetOwner()->GetActorRotation() + DesiredRotation;
 	//ensure TimeToRotate is greater than EPSILON
 	CurrentRotationTime = 0.0f;
+	UObjectiveWorldSubsystem* ObjectiveWorldSubsystem = GetWorld()->GetSubsystem<UObjectiveWorldSubsystem>();
+	if (ObjectiveWorldSubsystem)
+	{
+		OpenedEvent.AddUObject(ObjectveWorldsubsystem, &UObjectiveWorldSubsystem::OnObjectiveCompleted);
+	}
 }
 
-// Called every frame
 void UDoorInteractionComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	if (CurrentRotationTime < TimeToRotate)
+	if (DoorState == EDoorState::DS_Closed)
 	{
-		if (TriggerBox && GetWorld()->GetFirstLocalPlayerFromController())
+		if (TriggerBox && GetWorld() && GetWorld()->GetFirstLocalPlayerFromController())
 		{
 			APawn* PlayerPawn = GetWorld()->GetFirstPlayerController()->GetPawn();
 			if (PlayerPawn && TriggerBox->IsOverlappingActor(PlayerPawn))
 			{
-				CurrentRotationTime += DeltaTime;
-				const float RotationAlpha = FMath::Clamp(CurrentRotationTime / TimeToRotate, 0.0f, 1.0f);
-				const FRotator CurrentRotation = FMath::Lerp(StartRotation, FinalRotation, RotationAlpha);
-				GetOwner()->SetActorRotation(CurrentRotation);
+				DoorState = EDoorState::DS_Opening;
+				CurrentRotationTime = 0.0f;
 			}
 		}
 	}
-
+	else if (DoorState == EDoorState::DS_Opening)
+	{
+		CurrentRotationTime += DeltaTime;
+		const float TimeRatio = FMath::Clamp(CurrentRotationTime / TimeToRotate, 0.0f, 1.0f);
+		const float RotationAlpha = OpenCurve.GetRichCurveConst()->Eval(TimeRatio);
+		const FRotator CurrentRotation = FMath::Lerp(StartRotation, FinalRotation, RotationAlpha);
+		GetOwner()->SetActorRotation(CurrentRotation);
+		if (TimeRatio >= 1.0f)
+		{
+			DoorState = EDoorState::DS_Open;
+			GEngine->AddOnScreenDebugMessage(-1, 3.0f, FColor::Yellow, TEXT("DoorOpened"));
+			OpenedEvent.Broadcast();
+		}
+	}
+	
 	DebugDraw();
 }
 void UDoorInteractionComponent::OnDebugToggled(IConsoleVariable* Var)

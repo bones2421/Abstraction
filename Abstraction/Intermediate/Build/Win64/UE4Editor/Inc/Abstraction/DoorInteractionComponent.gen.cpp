@@ -36,7 +36,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 		return EDoorState_StaticEnum();
 	}
 	static FCompiledInDeferEnum Z_CompiledInDeferEnum_UEnum_EDoorState(EDoorState_StaticEnum, TEXT("/Script/Abstraction"), TEXT("EDoorState"), false, nullptr, nullptr);
-	uint32 Get_Z_Construct_UEnum_Abstraction_EDoorState_Hash() { return 3014788789U; }
+	uint32 Get_Z_Construct_UEnum_Abstraction_EDoorState_Hash() { return 831165171U; }
 	UEnum* Z_Construct_UEnum_Abstraction_EDoorState()
 	{
 #if WITH_HOT_RELOAD
@@ -49,6 +49,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 		{
 			static const UE4CodeGen_Private::FEnumeratorParam Enumerators[] = {
 				{ "EDoorState::DS_Closed", (int64)EDoorState::DS_Closed },
+				{ "EDoorState::DS_Opening", (int64)EDoorState::DS_Opening },
 				{ "EDoorState::DS_Open", (int64)EDoorState::DS_Open },
 				{ "EDoorState::DS_Locked", (int64)EDoorState::DS_Locked },
 			};
@@ -60,6 +61,8 @@ void EmptyLinkFunctionForGeneratedCodeDoorInteractionComponent() {}
 				{ "DS_Locked.Name", "EDoorState::DS_Locked" },
 				{ "DS_Open.DisplayName", "Open" },
 				{ "DS_Open.Name", "EDoorState::DS_Open" },
+				{ "DS_Opening.DisplayName", "Opening" },
+				{ "DS_Opening.Name", "EDoorState::DS_Opening" },
 				{ "ModuleRelativePath", "Public/DoorInteractionComponent.h" },
 			};
 #endif
