@@ -1,3 +1,26 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
-  Target is up to date
-  Total execution time: 1.48 seconds
+  Building AbstractionEditor...
+  Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  Temporary license has expired:
+      Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+       To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  AbstractionGameModeBase.cpp (0:04.81 at +0:00)
+  UE4Editor-Abstraction.lib (0:00.23 at +0:04)
+     Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction.exp
+  UE4Editor-Abstraction.dll (0:01.31 at +0:04)
+     Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction.suppressed.exp
+  AbstractionEditor.target (0:01.20 at +0:06)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - Temporary license has expired
+  
+  Total time in XGE executor: 7.61 seconds
+  Total execution time: 8.63 seconds
