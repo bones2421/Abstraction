@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7C90D32C-3F1C-4B81-9316-69CED30D36FC}</UniqueIdentifier>
+      <UniqueIdentifier>{585DD93F-831A-4B7B-8F91-5B9B5D1946BA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{212DDFE7-4426-43DC-8094-D26E311A4BEC}</UniqueIdentifier>
+      <UniqueIdentifier>{EB4AF515-9384-4F43-9396-D08B2AFBD598}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{4923DC7D-0BC4-40E9-B2D0-03999DBC7AF7}</UniqueIdentifier>
+      <UniqueIdentifier>{B994160C-3A34-4C30-8806-9813ECFE7E1D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -48,7 +48,7 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{9657C39A-F68A-4FB3-A5EC-43A8CA153DF5}</UniqueIdentifier>
+      <UniqueIdentifier>{BA030D20-B32D-4072-914B-98E5382F2BFE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractLogComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
@@ -66,7 +66,7 @@
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{A2F29759-CE03-4D48-9AE8-64BD28DF63C6}</UniqueIdentifier>
+      <UniqueIdentifier>{28528396-1BAB-4931-B868-424C1CEA7A7C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractLogComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
