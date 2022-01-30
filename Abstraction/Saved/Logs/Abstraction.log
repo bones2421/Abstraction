@@ -2873,3 +2873,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.30-08.52.22:353][738]Binding IntelliSense data... 100%
 [2022.01.30-08.52.22:353][738]Writing project files...
 [2022.01.30-08.52.25:269][738]Writing project files... 100%
+[2022.01.30-08.55.38:462][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Player/Player1.Player1
+[2022.01.30-08.55.46:698][437]BlueprintLog: New page: Compile Player1
+[2022.01.30-08.55.46:736][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.01.30-08.55.46:780][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Player/Player1" FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Actors/Player/Player1.uasset" SILENT=true
+[2022.01.30-08.55.46:794][437]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Player12634D41F4D7B0988E9C4D797398B8201.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Actors/Player/Player1.uasset'
+[2022.01.30-08.55.46:806][437]AssetCheck: New page: Asset Save: Player1
+[2022.01.30-08.55.46:806][437]LogContentValidation: Display: Validating Blueprint /Game/Actors/Player/Player1.Player1
+[2022.01.30-08.55.58:759][684]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-08.55.58:765][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-08.55.58:765][684]PIE: New page: PIE session: Abstraction (Jan 29, 2022, 6:55:58 PM)
+[2022.01.30-08.55.58:788][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.30-08.55.58:791][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003515s)
+[2022.01.30-08.55.58:792][684]LogAIModule: Creating AISystem for world Abstraction
+[2022.01.30-08.55.58:792][684]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2022.01.30-08.55.58:792][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.004565s)
+[2022.01.30-08.55.58:809][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.30-08.55.58:810][684]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-08.55.58:810][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-08.55.58:810][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-08.55.58:811][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-08.55.58:811][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-08.55.58:811][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-08.55.58:811][684]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-08.55.58:812][684]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-08.55.58:812][684]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-08.55.58:818][684]LogAudioMixer: Display: Using Audio Device Headphones (Bose Color SoundLink)
+[2022.01.30-08.55.58:818][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-08.55.58:818][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-08.55.58:818][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-08.55.58:819][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-08.55.58:819][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-08.55.58:819][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-08.55.58:820][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-08.55.58:820][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-08.55.58:820][684]LogInit: FAudioDevice initialized.
+[2022.01.30-08.55.58:820][684]LogAudio: Display: Audio Device (ID: 29) registered with world 'Abstraction'.
+[2022.01.30-08.55.58:833][684]LogLoad: Game class is 'GameModeBase'
+[2022.01.30-08.55.58:834][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.01.30-01.55.58
+[2022.01.30-08.55.58:835][684]LogWorld: Bringing up level for play took: 0.001424
+[2022.01.30-08.55.58:835][684]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.01.30-08.55.58:837][684]PIE: Server logged in
+[2022.01.30-08.55.58:838][684]PIE: Play in editor total start time 0.075 seconds.
+[2022.01.30-08.56.16:318][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-08.56.16:318][730]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.30-08.56.16:319][730]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-08.56.16:319][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-08.56.16:329][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-08.56.16:333][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-08.56.16:346][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-08.56.16:346][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-08.56.16:347][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-08.56.16:349][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-08.56.16:352][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.01.30-08.56.16:398][732]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.01.30-08.56.41:220][161]LogSlate: Window 'Player1' being destroyed
+[2022.01.30-08.56.41:223][161]LogSlate: Window 'Player1' being destroyed
+[2022.01.30-08.56.41:226][161]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-08.56.41:226][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-08.56.42:437][231]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-08.56.42:441][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-08.56.42:441][231]PIE: New page: PIE session: Abstraction (Jan 29, 2022, 6:56:42 PM)
+[2022.01.30-08.56.42:442][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.30-08.56.42:444][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002874s)
+[2022.01.30-08.56.42:445][231]LogAIModule: Creating AISystem for world Abstraction
+[2022.01.30-08.56.42:445][231]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.01.30-08.56.42:445][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.003742s)
+[2022.01.30-08.56.42:459][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.01.30-08.56.42:460][231]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-08.56.42:460][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-08.56.42:460][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-08.56.42:461][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-08.56.42:461][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-08.56.42:461][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-08.56.42:461][231]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-08.56.42:462][231]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-08.56.42:462][231]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-08.56.42:468][231]LogAudioMixer: Display: Using Audio Device Headphones (Bose Color SoundLink)
+[2022.01.30-08.56.42:469][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-08.56.42:469][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-08.56.42:469][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-08.56.42:469][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-08.56.42:469][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-08.56.42:469][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-08.56.42:470][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-08.56.42:470][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-08.56.42:470][231]LogInit: FAudioDevice initialized.
+[2022.01.30-08.56.42:470][231]LogAudio: Display: Audio Device (ID: 30) registered with world 'Abstraction'.
+[2022.01.30-08.56.42:479][231]LogLoad: Game class is 'GameModeBase'
+[2022.01.30-08.56.42:481][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.01.30-01.56.42
+[2022.01.30-08.56.42:481][231]LogWorld: Bringing up level for play took: 0.001200
+[2022.01.30-08.56.42:481][231]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.01.30-08.56.42:483][231]PIE: Server logged in
+[2022.01.30-08.56.42:483][231]PIE: Play in editor total start time 0.042 seconds.
+[2022.01.30-08.56.48:318][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-08.56.48:319][579]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.01.30-08.56.48:319][579]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-08.56.48:319][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-08.56.48:325][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-08.56.48:329][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-08.56.48:340][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-08.56.48:340][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-08.56.48:342][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-08.56.48:345][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.01.30-08.56.48:391][581]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.01.30-08.58.47:087][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
