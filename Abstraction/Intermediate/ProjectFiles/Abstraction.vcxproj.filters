@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{585DD93F-831A-4B7B-8F91-5B9B5D1946BA}</UniqueIdentifier>
+      <UniqueIdentifier>{6724C8BF-F026-4A01-A71F-012639AD8610}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{EB4AF515-9384-4F43-9396-D08B2AFBD598}</UniqueIdentifier>
+      <UniqueIdentifier>{0227817C-F2DF-4B52-A356-7DD3DAC58A14}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{B994160C-3A34-4C30-8806-9813ECFE7E1D}</UniqueIdentifier>
+      <UniqueIdentifier>{49CBB3CD-9A36-4179-8C24-BD5B1D38F08C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -48,8 +48,14 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{BA030D20-B32D-4072-914B-98E5382F2BFE}</UniqueIdentifier>
+      <UniqueIdentifier>{D857C9CB-A9CF-4FD5-B3F7-EEA2D406C521}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Abstraction\Private\AbstractionPlayerCharacter.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\AbstractionPlayerController.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractLogComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
@@ -66,8 +72,14 @@
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{28528396-1BAB-4931-B868-424C1CEA7A7C}</UniqueIdentifier>
+      <UniqueIdentifier>{1CD97C9D-04BB-4223-A3C2-700114E351BB}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\Abstraction\Public\AbstractionPlayerCharacter.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\AbstractionPlayerController.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractLogComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>

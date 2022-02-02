@@ -1,0 +1,1571 @@
+﻿Log file open, 02/01/22 22:44:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Abstraction
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.460214
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:611][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:617][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.02-05.44.24:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.02-05.44.24:618][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.02-05.44.24:618][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.02-05.44.24:618][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.02-05.44.24:618][  0]LogHAL: Display: Platform has ~ 16 GB [16540934144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.02-05.44.24:618][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.02-05.44.24:619][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.02-05.44.24:619][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Scalability.ini]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.02-05.44.24:620][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.02-05.44.24:621][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Engine.ini]
+[2022.02.02-05.44.24:621][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Config/Windows/Editor.ini]
+[2022.02.02-05.44.24:621][  0]LogInit: Computer: LAPTOP-0U3AVAT7
+[2022.02.02-05.44.24:621][  0]LogInit: User: willi
+[2022.02.02-05.44.24:621][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.02.02-05.44.24:621][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.02-05.44.24:621][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.02.02-05.44.24:621][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.02-05.44.24:621][  0]LogMemory: Process Physical Memory: 146.82 MB used, 146.82 MB peak
+[2022.02.02-05.44.24:621][  0]LogMemory: Process Virtual Memory: 129.40 MB used, 129.40 MB peak
+[2022.02.02-05.44.24:621][  0]LogMemory: Physical Memory: 10846.30 MB used,  4928.37 MB free, 15774.66 MB total
+[2022.02.02-05.44.24:621][  0]LogMemory: Virtual Memory: 134210216.00 MB used,  7512.54 MB free, 134217728.00 MB total
+[2022.02.02-05.44.24:627][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.02-05.44.24:677][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.02-05.44.24:678][  0]LogInit: Using OS detected language (en-US).
+[2022.02.02-05.44.24:678][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.02-05.44.24:681][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.02-05.44.24:958][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.02-05.44.24:970][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.02-05.44.24:989][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.02-05.44.24:989][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.02-05.44.25:150][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.02-05.44.25:199][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.02-05.44.25:199][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.02-05.44.25:199][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.02-05.44.25:199][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.02-05.44.25:300][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2022.02.02-05.44.25:300][  0]LogD3D11RHI:       3990/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.02-05.44.25:330][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.02.02-05.44.25:330][  0]LogD3D11RHI:       496/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.02.02-05.44.25:332][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:       0/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     SubSysId    : 125c1043
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     SharedSystemMemory : 8270467072 bytes
+[2022.02.02-05.44.25:333][  0]LogD3D11RHI:     AdapterLuid : 0 61350
+[2022.02.02-05.44.25:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.02-05.44.25:340][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.02-05.44.25:340][  0]LogWindows: EnumDisplayDevices:
+[2022.02.02-05.44.25:340][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.02.02-05.44.25:340][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.02.02-05.44.25:341][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.02.02-05.44.25:342][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:   Driver Version: 511.65 (internal:30.0.15.1165, unified:511.65)
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:      Driver Date: 1-28-2022
+[2022.02.02-05.44.25:342][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     SubSysId    : 125c1043
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     SharedSystemMemory : 8270467072 bytes
+[2022.02.02-05.44.25:342][  0]LogD3D11RHI:     AdapterLuid : 0 61350
+[2022.02.02-05.44.25:395][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.02-05.44.25:395][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.02-05.44.25:395][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.02-05.44.25:418][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.02-05.44.25:441][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.02-05.44.25:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.02-05.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.02-05.44.25:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.02-05.44.25:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.02-05.44.25:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.02-05.44.25:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.02-05.44.25:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.02-05.44.25:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.02-05.44.25:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.02-05.44.25:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.02-05.44.25:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.02-05.44.25:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.02-05.44.25:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.02-05.44.25:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.02-05.44.25:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.02-05.44.25:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.02-05.44.25:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.02-05.44.25:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.02-05.44.25:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.02-05.44.25:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.02-05.44.25:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.02-05.44.25:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.02-05.44.25:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.02-05.44.25:962][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.02-05.44.25:969][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.02-05.44.26:002][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.02-05.44.26:044][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.02-05.44.26:044][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Intermediate/Shaders/WorkingDirectory/4912/).
+[2022.02.02-05.44.26:044][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/willi/AppData/Local/Temp/UnrealShaderWorkingDir/588A60924EE4C23700BA94A66CD853F7/'.
+[2022.02.02-05.44.26:045][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.02.02-05.44.26:987][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/willi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/willi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.02-05.44.27:047][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.02-05.44.27:070][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.02-05.44.27:070][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.02-05.44.27:070][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.02-05.44.27:079][  0]LogDerivedDataCache: Speed tests for C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.02-05.44.27:079][  0]LogDerivedDataCache: Display: Performance to C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1521.58MBs, RandomWriteSpeed=108.18MBs. Assigned SpeedClass 'Local'
+[2022.02.02-05.44.27:081][  0]LogDerivedDataCache: Using Local data cache path C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.02-05.44.27:081][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.02-05.44.27:081][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.02-05.44.27:147][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.02-05.44.27:147][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.02-05.44.27:174][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.02.02-05.44.27:475][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.02-05.44.27:476][  0]LogInit: Active device profile: [000002745F2F1100][000002745DCB4700 49] Windows
+[2022.02.02-05.44.27:476][  0]LogInit: Profiles: [000002745F2F1100][000002745DCB4700 49] Windows, [000002745F2A6700][000002745DDF6980 49] WindowsNoEditor, [000002745F2F2200][000002745DDFAC00 49] WindowsServer, [000002745F2A5900][0000027460206EC0 49] WindowsClient, [000002745F2F1700][000002746020B180 49] IOS, [000002745F2A6900][0000027456A05440 49] iPadAir, [000002745F2F3C00][0000027456A09700 49] iPadAir2, [000002745F265400][0000027456A1C0C0 49] IPadPro, [000002745F265500][0000027456A0C100 49] iPadAir3, [000002745F2A7A00][0000027456A143C0 49] iPadAir4, [000002745F266300][0000027456A10680 49] iPadMini2, [000002745F2A7100][0000027456A18940 49] iPadMini3, [000002745F266F00][0000027460202BC0 49] iPadMini4, [000002745F2A5D00][0000027456A20E40 49] iPadMini5, [000002745F28D000][0000027456A39380 49] iPhone6, [000002745F28D100][0000027456A293C0 49] iPodTouch6, [000002745F2F3900][0000027451FC5900 49] iPhone7, [000002745F2F2900][0000027456A31940 49] iPodTouch7, [000002745F265000][0000027456A35C00 49] iPhone5S, [000002745F2F2F00][0000027456A2C340 49] iPhone6Plus, [000002745F267600][0000027451FC0600 49] iPhone6S, [000002745F2F0C00][0000027451FC88C0 49] iPhone6SPlus, [000002745F2F1D00][0000027451FCCB80 49] iPhone7Plus, [000002745F28C800][0000027456A24E00 49] iPhoneSE, [000002745F2F0400][0000027451FD1080 49] iPhone8, [000002745F28C900][0000027451FD9340 49] iPhone8Plus, [000002745F28EE00][0000027451FDD600 49] iPhoneX, [000002745F265D00][0000027451FE18C0 49] iPhoneXS, [000002745F28E700][0000027451FE5B80 49] iPhoneXSMax, [000002745F265C00][0000027451FE82C0 49] iPhoneXR, [000002745F28E800][0000027451FEC580 49] iPhone11, [000002745F264F00][0000027451FF0840 49] iPhone11Pro, [000002745F28CB00][0000027451FF4B00 49] iPhone11ProMax, [000002745F264C00][0000027451FF8DC0 49] iPhoneSE2, [000002745F28CE00][0000027451FD5040 49] iPhone12Mini, [000002745F2F3800][0000027451FFD2C0 49] iPhone12, [000002745F28F100][000002745DA75580 49] iPhone12Pro, [000002745F2F3700][000002745DA79840 49] iPhone12ProMax, [000002745F28DE00][000002745DA7DB00 49] iPadPro105, [000002745F2F1400][000002745DA80240 49] iPadPro129, [000002745F28FE00][000002745DA84500 49] iPadPro97, [000002745F2F2800][000002745DA887C0 49] iPadPro2_129, [000002745F28E000][000002745DA8CA80 49] iPad5, [000002745F2F2300][000002745DA90D40 49] iPad6, [000002745F28FB00][000002745DA95000 49] iPad7, [000002745F2F1E00][000002745DA71280 49] iPad8, [000002745F28CA00][000002745DA99500 49] iPadPro11, [000002745F2F3E00][000002745DAA17C0 49] iPadPro2_11, [000002745F28D800][000002745DAA5A80 49] iPadPro3_129, [000002745F2F2700][000002745DAA81C0 49] iPadPro4_129, [000002745F28C200][000002745DAAC480 49] AppleTV, [000002745F2F3F00][000002745DAB0740 49] AppleTV4K, [000002745F28E400][000002745DD8CA00 49] TVOS, [000002745F2F0100][000002745DD90CC0 49] Mac, [000002745F28DD00][000002745DD94F80 49] MacClient, [000002745F2F2A00][000002745DD99240 49] MacNoEditor, [000002745F28FA00][000002745DA9D4C0 49] MacServer, [000002745F2F2000][000002745DDDD740 49] Linux, [000002745F28D600][00000274605F7A00 49] LinuxAArch64, [000002745F2F0800][00000274605FA140 49] LinuxNoEditor, [000002745F28CC00][00000274605FE400 49] LinuxAArch64NoEditor, [000002745F2F3B00][00000274606026C0 49] LinuxClient, [000002745F28F400][0000027456BBC980 49] LinuxAArch64Client, [000002745F2F3A00][0000027460606C40 49] LinuxServer, [000002745F28C700][000002746060AF00 49] LinuxAArch64Server, [000002745F2F2D00][000002746060F1C0 49] Android, [000002745F28EA00][0000027460613480 49] Android_Low, [000002745F2F1F00][000002745DDE1700 49] Android_Mid, [000002745F28DF00][0000027460617980 49] Android_High, [000002745F2F1900][00000274602B60C0 49] Android_Default, [000002745F28FC00][00000274602BA380 49] Android_Adreno4xx, [000002745F2F3600][00000274602CA640 49] Android_Adreno5xx_Low, [000002745F28F200][00000274602E6900 49] Android_Adreno5xx, [000002745F2F1000][000002745FFD4BC0 49] Android_Adreno6xx, [000002745F28E500][000002745FFDCE80 49] Android_Adreno6xx_Vulkan, [000002745F2F0A00][000002745FFE5140 49] Android_Mali_T6xx, [000002745F28E900][000002745FFE9400 49] Android_Mali_T7xx, [000002745F2F3D00][00000274601076C0 49] Android_Mali_T8xx, [000002745F28ED00][000002746061B940 49] Android_Mali_G71, [000002745F267100][000002746010FBC0 49] Android_Mali_G72, [000002745F2A6F00][0000027460116300 49] Android_Mali_G72_Vulkan, [000002745F266B00][000002746011A5C0 49] Android_Mali_G76, [000002745F2A4500][000002746011E880 49] Android_Mali_G76_Vulkan, [000002745F266600][0000027460122B40 49] Android_Mali_G77, [000002745F2A7E00][0000027456B4CE00 49] Android_Mali_G77_Vulkan, [000002745F266400][0000027456B510C0 49] Android_Mali_G78, [000002745F2A4D00][0000027456B69380 49] Android_Mali_G78_Vulkan, [000002745F267500][0000027456B75640 49] Android_Mali_G710, [000002745F2A6B00][0000027456B83900 49] Android_Mali_G710_Vulkan, [000002745F267E00][0000027460113B80 49] Android_Vulkan_SM5, [000002745F2A5A00][00000274601CA2C0 49] Android_PowerVR_G6xxx, [000002745F264500][00000274601CE580 49] Android_PowerVR_GT7xxx, [000002745F2A4200][00000274601D2840 49] Android_PowerVR_GE8xxx, [000002745F267B00][00000274601D6B00 49] Android_PowerVR_GM9xxx, [000002745F2A6100][00000274601DADC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002745F265F00][000002745FE7B080 49] Android_TegraK1, [000002745F2A4A00][0000027460221340 49] Android_Unknown_Vulkan, [000002745F267900][0000027460225600 49] Lumin, [000002745F2A5200][00000274602298C0 49] Lumin_Desktop, [000002745F265E00][00000274601C7B40 49] HoloLens, 
+[2022.02.02-05.44.27:624][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.02-05.44.27:624][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.02-05.44.27:624][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.02-05.44.27:624][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.02-05.44.27:624][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.02-05.44.27:638][  0]LogNetVersion: Abstraction 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 179617256)
+[2022.02.02-05.44.28:067][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.02-05.44.28:132][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.02-05.44.28:139][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.02-05.44.28:139][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.02-05.44.28:139][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.02-05.44.28:415][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 96E991FA4BB42E68654545836B247193 | Instance: E02F1E83486D49A3A57A65984D5C0CEF (LAPTOP-0U3AVAT7-4912).
+[2022.02.02-05.44.28:535][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.02-05.44.28:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.02-05.44.28:592][  0]LogPython: Using Python 3.7.7
+[2022.02.02-05.44.29:157][  0]LogTemp: Error: Abstract Component created
+[2022.02.02-05.44.29:255][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.29:256][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.29:260][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.29:265][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.29:273][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.29:276][  0]LogUProjectInfo: Found projects:
+[2022.02.02-05.44.29:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.02-05.44.29:425][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.02-05.44.29:425][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.02-05.44.29:702][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.02-05.44.29:711][  0]LogCollectionManager: Loaded 0 collections in 0.001667 seconds
+[2022.02.02-05.44.29:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Collections/' took 0.00s
+[2022.02.02-05.44.29:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Developers/willi/Collections/' took 0.00s
+[2022.02.02-05.44.29:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Collections/' took 0.00s
+[2022.02.02-05.44.29:734][  0]LogOcInput: OculusInput pre-init called
+[2022.02.02-05.44.30:026][  0]LogEngine: Initializing Engine...
+[2022.02.02-05.44.30:028][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.02-05.44.30:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.02-05.44.30:029][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.02-05.44.30:030][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.02-05.44.30:151][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.02-05.44.30:162][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.02-05.44.30:174][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.02-05.44.30:178][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.02-05.44.30:179][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-05.44.30:180][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-05.44.30:180][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-05.44.30:194][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-05.44.30:194][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-05.44.30:375][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-05.44.30:380][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-05.44.30:384][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-05.44.30:384][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-05.44.30:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-05.44.30:385][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-05.44.30:385][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-05.44.30:387][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-05.44.30:387][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-05.44.30:387][  0]LogInit: FAudioDevice initialized.
+[2022.02.02-05.44.30:387][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.02-05.44.30:387][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.02-05.44.30:453][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/willi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.02-05.44.30:453][  0]LogInit: Texture streaming: Enabled
+[2022.02.02-05.44.30:466][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.02-05.44.30:470][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.02-05.44.30:470][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.02-05.44.30:472][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.02-05.44.30:501][  0]LogInit: Transaction tracking system initialized
+[2022.02.02-05.44.30:523][  0]BlueprintLog: New page: Editor Load
+[2022.02.02-05.44.30:577][  0]LocalizationService: Localization service is disabled
+[2022.02.02-05.44.30:597][  0]TimingProfiler: Initialize
+[2022.02.02-05.44.30:597][  0]TimingProfiler: OnSessionChanged
+[2022.02.02-05.44.30:597][  0]LoadingProfiler: Initialize
+[2022.02.02-05.44.30:597][  0]LoadingProfiler: OnSessionChanged
+[2022.02.02-05.44.30:597][  0]NetworkingProfiler: Initialize
+[2022.02.02-05.44.30:598][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.02-05.44.30:598][  0]MemoryProfiler: Initialize
+[2022.02.02-05.44.30:598][  0]MemoryProfiler: OnSessionChanged
+[2022.02.02-05.44.30:770][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.02-05.44.30:770][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.02-05.44.30:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/' took 0.01s
+[2022.02.02-05.44.31:214][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.02-05.44.31:217][  0]SourceControl: Source control is disabled
+[2022.02.02-05.44.31:217][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.253
+[2022.02.02-05.44.31:217][  0]Cmd: MAP LOAD FILE="../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.02-05.44.31:217][  0]LightingResults: New page: Lighting Build
+[2022.02.02-05.44.31:218][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-05.44.31:218][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-05.44.31:218][  0]MapCheck: New page: Map Check
+[2022.02.02-05.44.31:218][  0]LightingResults: New page: Lighting Build
+[2022.02.02-05.44.31:224][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.02-05.44.31:227][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.02-05.44.31:518][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Abstraction'.
+[2022.02.02-05.44.31:519][  0]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-05.44.31:529][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.02-05.44.31:542][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.02-05.44.31:545][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.02-05.44.31:546][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.406ms to complete.
+[2022.02.02-05.44.31:546][  0]LogFileHelpers: Loading map 'Abstraction' took 0.328
+[2022.02.02-05.44.31:553][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.588
+[2022.02.02-05.44.31:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-05.44.31:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-05.44.31:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-05.44.31:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-05.44.31:693][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0165 seconds. Added 3830 classes and 931 folders.
+[2022.02.02-05.44.31:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.02-05.44.31:697][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.02-05.44.31:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.02-05.44.31:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.02-05.44.31:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.02.02-05.44.31:698][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.02-05.44.31:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.02-05.44.31:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.02-05.44.31:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.02.02-05.44.31:699][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.02-05.44.31:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.02-05.44.31:699][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:699][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.02-05.44.31:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.02-05.44.31:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.02-05.44.31:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.02-05.44.31:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.02-05.44.31:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.02-05.44.31:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.02-05.44.31:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.02-05.44.31:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.02-05.44.31:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.02-05.44.31:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.02-05.44.31:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.02-05.44.31:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.02-05.44.31:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.02-05.44.31:703][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.02-05.44.31:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.02-05.44.31:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.02-05.44.31:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.02-05.44.31:703][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.02-05.44.31:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.02-05.44.31:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.02-05.44.31:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.02-05.44.31:704][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.02-05.44.31:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.02-05.44.31:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.02-05.44.31:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.02-05.44.31:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.02-05.44.31:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.02-05.44.31:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.02-05.44.31:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.02-05.44.31:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.02-05.44.31:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.02-05.44.31:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.02-05.44.31:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.02-05.44.31:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.02-05.44.31:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.02-05.44.31:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.02-05.44.31:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.02-05.44.31:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.02-05.44.31:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.02-05.44.31:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.02-05.44.31:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.02-05.44.31:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.02-05.44.31:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.02-05.44.31:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.02-05.44.31:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.02-05.44.31:710][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.02-05.44.31:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.02-05.44.31:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.02-05.44.31:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.02-05.44.31:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.02-05.44.31:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.02-05.44.31:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.02-05.44.31:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.02-05.44.31:712][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.02-05.44.31:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.02-05.44.31:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.02-05.44.31:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.02-05.44.31:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.02-05.44.31:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.02-05.44.31:751][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.02-05.44.31:752][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.02.02-05.44.31:807][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.02-05.44.31:809][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.02-05.44.31:810][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.02-05.44.31:901][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2022.02.02-05.44.31:997][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.02-05.44.32:269][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.02-05.44.32:269][  0]LogLoad: (Engine Initialization) Total time: 9.30 seconds
+[2022.02.02-05.44.32:269][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.02-05.44.32:326][  0]LogAssetRegistry: Asset discovery search completed in 5.1531 seconds
+[2022.02.02-05.44.32:332][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.02-05.44.32:334][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.02-05.44.33:936][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.44.39:854][407]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.02-05.44.39:873][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Player/Player1.Player1
+[2022.02.02-05.44.40:138][407]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2022.02.02-05.44.41:090][407]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.02-05.44.41:152][408]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.02-05.44.50:348][909]LogSlate: Window 'Player1' being destroyed
+[2022.02.02-05.44.50:352][909]LogSlate: Window 'Player1' being destroyed
+[2022.02.02-05.44.50:356][909]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-05.44.50:356][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-05.45.13:204][267]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.02-05.45.49:117][411]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.45.59:488][ 94]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.02-05.46.04:404][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.11:811][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.19:565][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.27:090][108]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.34:923][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.42:273][802]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.46.55:640][206]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.02-05.47.11:439][930]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.47.19:969][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.47.39:867][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.47.54:301][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.48.02:964][685]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.02-05.48.26:528][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.48.34:538][166]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.48.51:804][107]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.49.03:705][412]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.02-05.49.04:333][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.49.14:178][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.49.41:161][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.49.48:837][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.50.04:246][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.50.23:656][194]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.50.32:822][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.51.10:182][739]LogMaterial: Display: Missing cached shadermap for T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 59C0B0B3315970D7DCB81F9E6C6C4DAB90CF6DAA), compiling. 
+[2022.02.02-05.51.10:214][740]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.02-05.51.10:214][740]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.02.02-05.51.10:214][740]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.02.02-05.51.10:214][740]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.02.02-05.51.10:294][740]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.02.02-05.51.11:644][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.02-05.51.11:645][778]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.02.02-05.51.11:645][778]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.02.02-05.51.11:645][778]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.02-05.51.11:645][778]LogShaderCompilers: Display: ================================================
+[2022.02.02-05.51.52:939][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.02.02-05.51.52:976][230]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction5B37167A4FFC57BBF57E85A3C5AFDD01.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.51.52:976][230]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.51.53:477][230]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.51.53:477][230]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.51.53:483][230]EditorErrors: New page: Save Output
+[2022.02.02-05.51.53:483][230]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.51.53:537][230]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.02-05.51.56:587][493]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.51.56:596][493]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.51.59:884][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.02-05.51.59:928][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.02-05.51.59:955][774]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionA040536E40FB63C8512F9F81F23F8010.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.51.59:955][774]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.52.00:456][774]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.52.00:456][774]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.52.00:457][774]EditorErrors: New page: Save Output
+[2022.02.02-05.52.00:457][774]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.52.00:486][774]LogFileHelpers: Saving map 'Abstraction' took 0.576
+[2022.02.02-05.52.10:984][774]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.52.10:987][774]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.52.11:018][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.02.02-05.52.11:046][774]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionC142705B4AB3A2971006EA977F6AA622.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.52.11:046][774]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.52.11:547][774]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.52.11:547][774]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.52.11:553][774]EditorErrors: New page: Save Output
+[2022.02.02-05.52.11:553][774]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.52.11:555][774]LogFileHelpers: Saving map 'Abstraction' took 0.569
+[2022.02.02-05.52.14:547][774]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.52.14:549][774]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.52.14:591][774]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/T_Brick_Clay_Old_Mat3260097C4A36E9AE27C3F5AC5CD1350D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset'
+[2022.02.02-05.52.18:021][774]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.02.02-05.52.18:023][774]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Abstraction
+[2022.02.02-05.52.18:029][774]AssetCheck: New page: Asset Save: T_Brick_Clay_Old_Mat
+[2022.02.02-05.52.18:029][774]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat
+[2022.02.02-05.52.21:042][ 24]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.52.21:051][ 24]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.52.34:486][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.53.27:040][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.02.02-05.53.27:088][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.02-05.53.27:116][755]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionF2F7DE474298D661638FD3A9CD2867F5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.27:116][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.53.27:617][755]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.53.27:617][755]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.27:618][755]EditorErrors: New page: Save Output
+[2022.02.02-05.53.27:618][755]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.27:648][755]LogFileHelpers: Saving map 'Abstraction' took 0.580
+[2022.02.02-05.53.30:155][755]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.53.30:159][755]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.53.30:187][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.02.02-05.53.30:213][755]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionE43C213346C3374ECEF91AA503215128.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.30:213][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.53.30:714][755]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.53.30:714][755]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.30:719][755]EditorErrors: New page: Save Output
+[2022.02.02-05.53.30:719][755]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.30:721][755]LogFileHelpers: Saving map 'Abstraction' took 0.562
+[2022.02.02-05.53.31:494][755]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.53.31:496][755]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.53.31:522][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.02-05.53.31:546][755]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction0FA4194B4EC558C3998FC08F84D13EE2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.31:546][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.53.32:047][755]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.53.32:047][755]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.32:052][755]EditorErrors: New page: Save Output
+[2022.02.02-05.53.32:052][755]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.32:054][755]LogFileHelpers: Saving map 'Abstraction' took 0.558
+[2022.02.02-05.53.33:057][755]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.53.33:060][755]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.53.33:086][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.02-05.53.33:111][755]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction825DD6F4437BD281F772D695584F8714.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.33:111][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.53.33:612][755]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.53.33:612][755]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.33:620][755]EditorErrors: New page: Save Output
+[2022.02.02-05.53.33:620][755]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.53.33:622][755]LogFileHelpers: Saving map 'Abstraction' took 0.562
+[2022.02.02-05.53.35:338][755]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.53.35:341][755]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.53.36:736][755]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.02.02-05.53.36:739][755]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Abstraction
+[2022.02.02-05.53.42:180][216]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.53.42:189][216]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.53.43:030][284]MapCheck: New page: Map Check
+[2022.02.02-05.53.43:052][284]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-05.53.43:052][284]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-05.53.43:058][284]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-05.53.43:079][284]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-05.53.43:079][284]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-05.53.43:079][284]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-05.53.43:104][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.02.02-05.53.43:205][284]LogLevel: Display: Export Material TexCoord Scales took 0.099 seconds.
+[2022.02.02-05.53.43:208][284]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.02.02-05.53.43:226][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.02-05.53.43:232][284]LightingResults: New page: Lighting Build - Feb 1, 2022, 3:53:43 PM
+[2022.02.02-05.53.43:278][284]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-05.53.43:330][284]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-05.53.43:344][284]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-05.53.43:862][284]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-05.53.43:862][284]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4912
+[2022.02.02-05.53.50:967][284]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-05.53.50:968][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-05.53.50:968][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-05.53.50:968][284]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-05.53.50:968][284]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-05.53.50:968][284]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-05.53.51:149][284]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-05.53.51:149][284]MapCheck: New page: Abstraction - Feb 1, 2022, 3:53:51 PM
+[2022.02.02-05.53.51:149][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.533ms to complete.
+[2022.02.02-05.53.51:152][284]LogEditorBuildUtils: Build time 0:08
+[2022.02.02-05.53.51:479][284]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2B4B88883AEC5DC70A762AF304286AF2492163E3), compiling. 
+[2022.02.02-05.53.51:484][284]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:486][284]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CB229ED8E059C2439E2B9F494E6B9F9AFDE864DD), compiling. 
+[2022.02.02-05.53.51:493][284]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:493][284]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:551][284]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:577][285]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 4191F1B98ACD895AA2A566DC838E1E74D7E72838), compiling. 
+[2022.02.02-05.53.51:582][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:584][285]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:584][285]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 7A2F76652903F8B3E830C44986D6DBCEFD9BFBAC), compiling. 
+[2022.02.02-05.53.51:590][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.02.02-05.53.51:601][285]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2022.02.02-05.53.53:273][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.02.02-05.53.54:426][319]Job is a success!
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:          0: 6.7% covering 100.0% of volume
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:          1: 13.3% covering 3.1% of volume
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:          2: 80.0% covering 0.3% of volume
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-05.53.54:550][320]LogVolumetricLightmapImport:          Abstraction 			 15 bricks 	 100.0% (Persistent Level)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 256X128)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-05.53.54:635][320]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.02.02-05.53.54:635][320]Lightmass on LAPTOP-0U3AVAT7: 871 ms total, 139 ms importing, 4 ms setup, 53 ms photons, 604 ms processing, 0 ms extra exporting [49/49 mappings]. Threads: 8.95 sec total, 205 ms processing.
+[2022.02.02-05.53.54:636][320]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.02.02-05.53.54:704][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.02.02-05.53.54:707][320]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.02.02-05.53.54:709][320]LogMaterial: Display: Missing cached shadermap for T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F3B6A1198EF597DF3B1AB426890A3E407CBC2117), compiling. 
+[2022.02.02-05.53.54:757][320]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2022.02.02-05.53.54:775][320]LogShaderCompilers: Display: Started 9 'XGE' shader compile jobs with 'Low' priority
+[2022.02.02-05.53.54:840][320]LogStaticLightingSystem: Illumination: 11.5 sec (16 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.02.02-05.53.54:840][320]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 4 textures
+[2022.02.02-05.53.54:840][320]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.02.02-05.53.54:973][320]DumpUnbuiltLightIteractions
+[2022.02.02-05.53.54:974][320]Lights with unbuilt interactions: 0
+[2022.02.02-05.53.54:974][320]
+[2022.02.02-05.53.54:974][320]Primitives with unbuilt interactions: 0
+[2022.02.02-05.53.56:609][320]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-05.53.56:622][320]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-05.53.56:695][321]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-05.53.56:695][321]MapCheck: New page: Abstraction - Feb 1, 2022, 3:53:56 PM
+[2022.02.02-05.53.56:695][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.43ms to complete.
+[2022.02.02-05.53.59:299][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-05.54.10:068][408]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/T_Brick_Clay_Old_Mat56803146425C717F742E39A7ECA64BD1.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset'
+[2022.02.02-05.54.10:083][408]AssetCheck: New page: Asset Save: T_Brick_Clay_Old_Mat
+[2022.02.02-05.54.10:083][408]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat
+[2022.02.02-05.56.52:837][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.02.02-05.56.52:880][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.02-05.56.52:912][392]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction42D99A654041E4000EF35E8D19942C07.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.52:912][392]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.56.53:413][392]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.56.53:413][392]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.53:414][392]EditorErrors: New page: Save Output
+[2022.02.02-05.56.53:414][392]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.53:434][392]LogFileHelpers: Saving map 'Abstraction' took 0.574
+[2022.02.02-05.56.58:586][392]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.56.58:588][392]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.56.58:615][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.02-05.56.58:641][392]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction2DA12C54498A8088D575F9AE51CBDC99.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.58:642][392]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.56.59:143][392]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.56.59:143][392]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.59:151][392]EditorErrors: New page: Save Output
+[2022.02.02-05.56.59:151][392]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.56.59:153][392]LogFileHelpers: Saving map 'Abstraction' took 0.565
+[2022.02.02-05.57.00:318][392]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.57.00:320][392]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.57.00:365][392]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_BuiltDataD8F33F8F4FE8775C6E83E0813E191C94.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.57.00:365][392]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset', retrying in .5s...
+[2022.02.02-05.57.00:865][392]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'.
+[2022.02.02-05.57.00:865][392]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.57.03:168][392]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.57.03:170][392]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction_BuiltData' (Abstraction_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.57.03:199][392]EditorErrors: New page: Save Output
+[2022.02.02-05.57.03:200][392]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.57.05:874][392]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.02.02-05.57.05:877][392]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Abstraction
+/Game/Maps/Abstraction_BuiltData
+[2022.02.02-05.57.07:240][491]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.57.07:249][491]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.57.20:963][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.02-05.57.20:994][723]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_Auto1EE7D198C4FC39A2969405395704326E3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/Abstraction_Auto1.umap'
+[2022.02.02-05.57.20:996][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.053
+[2022.02.02-05.57.20:996][723]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.02.02-05.57.56:407][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.02-05.57.56:438][913]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionBDC745214E9E8784EBBF498F259E54AC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.57.56:438][913]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.57.56:939][913]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.57.56:939][913]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.57.56:940][913]EditorErrors: New page: Save Output
+[2022.02.02-05.57.56:940][913]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.08:959][961]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.58.08:969][961]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.58.25:257][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.02-05.58.25:296][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.02-05.58.25:326][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionB24DE19641A95B685607D89CEE7E7D35.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.25:326][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.25:827][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.25:827][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.25:829][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.25:829][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.25:854][399]LogFileHelpers: Saving map 'Abstraction' took 0.575
+[2022.02.02-05.58.28:165][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.28:168][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.28:199][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.02.02-05.58.28:227][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction1C00860A48DEB2B3F5CEDD93FC2A5149.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.28:227][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.28:728][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.28:728][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.28:737][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.28:737][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.28:739][399]LogFileHelpers: Saving map 'Abstraction' took 0.572
+[2022.02.02-05.58.29:395][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.29:398][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.29:428][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.02.02-05.58.29:464][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction5521F77E462CAD983568D99351A6E802.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.29:464][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.29:965][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.29:965][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.29:972][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.29:972][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.29:974][399]LogFileHelpers: Saving map 'Abstraction' took 0.576
+[2022.02.02-05.58.30:417][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.30:420][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.30:446][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.02-05.58.30:482][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionBD283E864E7405AA9C71D081BF4B1360.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.30:483][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.30:983][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.30:983][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.30:995][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.30:995][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.30:999][399]LogFileHelpers: Saving map 'Abstraction' took 0.579
+[2022.02.02-05.58.31:352][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.31:354][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.31:380][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.02-05.58.31:406][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction3498359742A4ADA38BE526AF776EAE33.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.31:406][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.31:907][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.31:907][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.31:918][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.31:918][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.31:921][399]LogFileHelpers: Saving map 'Abstraction' took 0.567
+[2022.02.02-05.58.32:226][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.32:229][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.32:256][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.02.02-05.58.32:289][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction8AD9B9C844ABF9A7EF3E05BA4486DCE1.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.32:290][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.32:791][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.32:791][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.32:799][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.32:799][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.32:801][399]LogFileHelpers: Saving map 'Abstraction' took 0.572
+[2022.02.02-05.58.33:073][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.33:076][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.33:103][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.02-05.58.33:129][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionB0048B7045DA8A9C5134BF903618DDB3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.33:130][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.33:630][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.33:630][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.33:638][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.33:638][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.33:640][399]LogFileHelpers: Saving map 'Abstraction' took 0.565
+[2022.02.02-05.58.34:329][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.34:332][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.34:365][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.02-05.58.34:391][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction90C874E74A43F0E4A110C09761F73ACE.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.34:392][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-05.58.34:892][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-05.58.34:892][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.34:902][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.34:902][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-05.58.34:904][399]LogFileHelpers: Saving map 'Abstraction' took 0.572
+[2022.02.02-05.58.35:669][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.35:672][399]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.35:715][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_BuiltDataAF074E284A7EB3AA543E5EAA3D3585BB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.35:716][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset', retrying in .5s...
+[2022.02.02-05.58.36:217][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'.
+[2022.02.02-05.58.36:217][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.38:463][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.38:466][399]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Abstraction_BuiltData' (Abstraction_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.38:509][399]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_BuiltData8167C25A41BB7053BC35A0A8193FD8FD.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.38:509][399]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset', retrying in .5s...
+[2022.02.02-05.58.39:011][399]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'.
+[2022.02.02-05.58.39:011][399]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.39:721][399]LogSlate: Window 'Message' being destroyed
+[2022.02.02-05.58.39:724][399]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Abstraction_BuiltData' (Abstraction_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-05.58.39:748][399]EditorErrors: New page: Save Output
+[2022.02.02-05.58.39:748][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.39:748][399]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.02-05.58.41:866][399]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.02.02-05.58.41:868][399]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Abstraction
+/Game/Maps/Abstraction_BuiltData
+[2022.02.02-05.58.43:631][530]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.58.43:639][530]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.58.54:386][442]Candidate modules for hot reload:
+[2022.02.02-05.58.54:386][442]  Abstraction
+[2022.02.02-05.58.54:386][442]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,3329 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.02-05.58.54:389][442]Warning: Starting HotReload took  0.0s.
+[2022.02.02-05.59.01:048][897]CompilerResultsLog: New page: Compilation - Feb 1, 2022, 3:59:01 PM
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Building AbstractionEditor...
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Distributing 3 actions to XGE
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: Temporary license has expired:
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: 
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: UE4Editor-Abstraction-3329.lib (0:00.18 at +0:00)
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-3329.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-3329.exp
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: UE4Editor-Abstraction-3329.dll (0:01.43 at +0:00)
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-3329.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-3329.suppressed.exp
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: AbstractionEditor.target (0:00.43 at +0:01)
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: 
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: 
+[2022.02.02-05.59.01:049][897]CompilerResultsLog: 1 build system warning(s):
+[2022.02.02-05.59.01:049][897]CompilerResultsLog:    - Temporary license has expired
+[2022.02.02-05.59.01:050][897]CompilerResultsLog: 
+[2022.02.02-05.59.01:050][897]CompilerResultsLog: Total time in XGE executor: 2.21 seconds
+[2022.02.02-05.59.01:050][897]CompilerResultsLog: Total execution time: 6.55 seconds
+[2022.02.02-05.59.01:050][897]LogMainFrame: MainFrame: Module compiling took 6.697 seconds
+[2022.02.02-05.59.01:151][897]LogClass: EDoorState HotReload.
+[2022.02.02-05.59.01:152][897]LogClass: EObjectiveState HotReload.
+[2022.02.02-05.59.01:158][897]LogTemp: Error: Abstract Component created
+[2022.02.02-05.59.01:161][897]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2022.02.02-05.59.01:167][897]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.02.02-05.59.01:307][897]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0187 seconds. Added 3830 classes and 931 folders.
+[2022.02.02-05.59.01:307][897]Display: HotReload took  7.0s.
+[2022.02.02-05.59.04:220][ 79]MapCheck: New page: Map Check
+[2022.02.02-05.59.04:244][ 79]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-05.59.04:244][ 79]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-05.59.04:249][ 79]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-05.59.04:270][ 79]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-05.59.04:271][ 79]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-05.59.04:271][ 79]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-05.59.04:347][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.02.02-05.59.04:353][ 79]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2022.02.02-05.59.04:356][ 79]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.02.02-05.59.04:401][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.02.02-05.59.04:405][ 79]LightingResults: New page: Lighting Build - Feb 1, 2022, 3:59:04 PM
+[2022.02.02-05.59.04:410][ 79]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-05.59.04:415][ 79]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-05.59.04:415][ 79]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-05.59.04:417][ 79]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-05.59.04:417][ 79]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4912
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-05.59.09:002][ 79]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-05.59.09:155][ 79]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-05.59.09:155][ 79]MapCheck: New page: Abstraction - Feb 1, 2022, 3:59:09 PM
+[2022.02.02-05.59.09:155][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.423ms to complete.
+[2022.02.02-05.59.09:158][ 79]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-05.59.09:189][ 79]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 80F9901055F05E3BBD215234305B26DFBE34B7F3), compiling. 
+[2022.02.02-05.59.09:194][ 79]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8C109C5552B3237406DC2211C153C0F93FC09F1F), compiling. 
+[2022.02.02-05.59.09:201][ 79]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.02-05.59.09:201][ 79]LogShaderCompilers: Display: Total job queries 55, among them cache hits 22 (40.00%)
+[2022.02.02-05.59.09:201][ 79]LogShaderCompilers: Display: Tracking 33 distinct input hashes that result in 25 distinct outputs (75.76%)
+[2022.02.02-05.59.09:201][ 79]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.02.02-05.59.09:201][ 79]LogShaderCompilers: Display: ================================================
+[2022.02.02-05.59.09:521][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.02-05.59.10:580][106]Job is a success!
+[2022.02.02-05.59.10:700][107]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:          1: 15.4% covering 3.1% of volume
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:          2: 76.9% covering 0.2% of volume
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-05.59.10:701][107]LogVolumetricLightmapImport:          Abstraction 			 13 bricks 	 100.0% (Persistent Level)
+[2022.02.02-05.59.10:735][107]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-05.59.10:736][107]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.02.02-05.59.10:736][107]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 256X128)
+[2022.02.02-05.59.10:736][107]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-05.59.10:736][107]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 256X128)
+[2022.02.02-05.59.10:736][107]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2022.02.02-05.59.10:736][107]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.02.02-05.59.10:767][107]Lightmass on LAPTOP-0U3AVAT7: 764 ms total, 112 ms importing, 3 ms setup, 50 ms photons, 541 ms processing, 0 ms extra exporting [49/49 mappings]. Threads: 8.09 sec total, 179 ms processing.
+[2022.02.02-05.59.10:772][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.02.02-05.59.10:822][107]LogStaticLightingSystem: Illumination: 6.33 sec (12 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.02.02-05.59.10:822][107]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 4 textures
+[2022.02.02-05.59.10:822][107]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.02.02-05.59.11:005][107]DumpUnbuiltLightIteractions
+[2022.02.02-05.59.11:005][107]Lights with unbuilt interactions: 0
+[2022.02.02-05.59.11:005][107]
+[2022.02.02-05.59.11:005][107]Primitives with unbuilt interactions: 0
+[2022.02.02-05.59.11:067][107]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-05.59.11:079][107]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-05.59.11:142][108]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-05.59.11:143][108]MapCheck: New page: Abstraction - Feb 1, 2022, 3:59:11 PM
+[2022.02.02-05.59.11:143][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.583ms to complete.
+[2022.02.02-05.59.42:511][759]Cmd: MAP CHECK
+[2022.02.02-05.59.42:511][759]MapCheck: New page: Abstraction - Feb 1, 2022, 3:59:42 PM
+[2022.02.02-05.59.42:512][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.443ms to complete.
+[2022.02.02-05.59.45:278][985]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.59.45:288][985]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-05.59.58:999][138]MapCheck: New page: Map Check
+[2022.02.02-05.59.59:027][138]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-05.59.59:027][138]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-05.59.59:033][138]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-05.59.59:054][138]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-05.59.59:054][138]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-05.59.59:054][138]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-05.59.59:074][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.02-05.59.59:081][138]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.02.02-05.59.59:083][138]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.02.02-05.59.59:100][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.02-05.59.59:102][138]LightingResults: New page: Lighting Build - Feb 1, 2022, 3:59:59 PM
+[2022.02.02-05.59.59:107][138]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-05.59.59:116][138]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-05.59.59:116][138]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-05.59.59:117][138]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-05.59.59:117][138]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4912
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-06.00.03:677][138]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-06.00.03:781][138]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-06.00.03:782][138]MapCheck: New page: Abstraction - Feb 1, 2022, 4:00:03 PM
+[2022.02.02-06.00.03:782][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.413ms to complete.
+[2022.02.02-06.00.03:784][138]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-06.00.03:860][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.02.02-06.00.05:469][176]Job is a success!
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:          1: 15.4% covering 3.1% of volume
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:          2: 76.9% covering 0.2% of volume
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-06.00.05:589][177]LogVolumetricLightmapImport:          Abstraction 			 13 bricks 	 100.0% (Persistent Level)
+[2022.02.02-06.00.05:619][177]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.00.05:619][177]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 256X128)
+[2022.02.02-06.00.05:620][177]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.02.02-06.00.05:620][177]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.00.05:620][177]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.02.02-06.00.05:620][177]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2022.02.02-06.00.05:621][177]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.02.02-06.00.05:656][177]Lightmass on LAPTOP-0U3AVAT7: 1.30 sec total, 105 ms importing, 3 ms setup, 65 ms photons, 1.07 sec processing, 0 ms extra exporting [49/49 mappings]. Threads: 16.0 sec total, 1.73 sec processing.
+[2022.02.02-06.00.05:660][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.02.02-06.00.05:706][177]LogStaticLightingSystem: Illumination: 6.52 sec (11 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.02.02-06.00.05:706][177]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 4 textures
+[2022.02.02-06.00.05:706][177]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.02.02-06.00.06:685][177]DumpUnbuiltLightIteractions
+[2022.02.02-06.00.06:685][177]Lights with unbuilt interactions: 0
+[2022.02.02-06.00.06:685][177]
+[2022.02.02-06.00.06:685][177]Primitives with unbuilt interactions: 0
+[2022.02.02-06.00.06:757][177]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-06.00.06:770][177]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-06.00.06:816][178]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-06.00.06:817][178]MapCheck: New page: Abstraction - Feb 1, 2022, 4:00:06 PM
+[2022.02.02-06.00.06:817][178]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.404ms to complete.
+[2022.02.02-06.00.11:877][571]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.02.02-06.00.12:184][571]Discovering modules, targets and source code for project...
+[2022.02.02-06.00.14:099][571]Binding IntelliSense data...
+[2022.02.02-06.00.16:326][571]Binding IntelliSense data... 100%
+[2022.02.02-06.00.16:326][571]Writing project files...
+[2022.02.02-06.00.20:367][571]Writing project files... 100%
+[2022.02.02-06.00.24:323][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.00.25:260][  6]Candidate modules for hot reload:
+[2022.02.02-06.00.25:260][  6]  Abstraction
+[2022.02.02-06.00.25:260][  6]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,9629 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.02-06.00.25:263][  6]Warning: Starting HotReload took  0.0s.
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: New page: Compilation - Feb 1, 2022, 4:00:31 PM
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Building AbstractionEditor...
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Distributing 3 actions to XGE
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: Temporary license has expired:
+[2022.02.02-06.00.31:292][429]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.02.02-06.00.31:292][429]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: 
+[2022.02.02-06.00.31:292][429]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: UE4Editor-Abstraction-9629.lib (0:00.18 at +0:00)
+[2022.02.02-06.00.31:293][429]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-9629.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-9629.exp
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: UE4Editor-Abstraction-9629.dll (0:01.31 at +0:00)
+[2022.02.02-06.00.31:293][429]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-9629.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-9629.suppressed.exp
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: AbstractionEditor.target (0:00.34 at +0:01)
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: 
+[2022.02.02-06.00.31:293][429]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: 
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: 1 build system warning(s):
+[2022.02.02-06.00.31:293][429]CompilerResultsLog:    - Temporary license has expired
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: 
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: Total time in XGE executor: 2.01 seconds
+[2022.02.02-06.00.31:293][429]CompilerResultsLog: Total execution time: 5.92 seconds
+[2022.02.02-06.00.31:293][429]LogMainFrame: MainFrame: Module compiling took 6.038 seconds
+[2022.02.02-06.00.31:359][429]LogClass: EDoorState HotReload.
+[2022.02.02-06.00.31:359][429]LogClass: EObjectiveState HotReload.
+[2022.02.02-06.00.31:365][429]LogTemp: Error: Abstract Component created
+[2022.02.02-06.00.31:367][429]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0005 seconds. Added 8 classes and 3 folders.
+[2022.02.02-06.00.31:374][429]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.02.02-06.00.31:500][429]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0168 seconds. Added 3830 classes and 931 folders.
+[2022.02.02-06.00.31:500][429]Display: HotReload took  6.3s.
+[2022.02.02-06.00.37:571][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.02.02-06.00.37:640][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.02-06.00.37:663][877]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction7DC906C74CA0EA429556B78B4B4EFE1B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-06.00.37:664][877]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap', retrying in .5s...
+[2022.02.02-06.00.38:165][877]LogFileManager: Error: Error deleting file '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'.
+[2022.02.02-06.00.38:165][877]LogSavePackage: Error: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-06.00.38:166][877]EditorErrors: New page: Save Output
+[2022.02.02-06.00.38:166][877]EditorErrors: Warning: Error saving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.02-06.00.38:192][877]LogFileHelpers: Saving map 'Abstraction' took 0.599
+[2022.02.02-06.00.40:668][877]LogSlate: Window 'Message' being destroyed
+[2022.02.02-06.00.40:670][877]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Maps/Abstraction' (Abstraction.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.02.02-06.00.42:154][978]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-06.00.42:162][978]LogSlate: Window 'Message Log' being destroyed
