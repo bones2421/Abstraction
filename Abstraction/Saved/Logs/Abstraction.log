@@ -1104,3 +1104,777 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.02-06.30.36:572][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.02.02-06.30.36:573][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2022.02.02-06.30.36:619][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.02.02-06.35.17:265][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.35.21:446][888]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.35.24:461][ 68]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.35.27:265][235]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.35.28:068][283]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.35.42:256][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.35.44:906][291]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.35.53:040][778]MapCheck: New page: Map Check
+[2022.02.02-06.35.53:056][778]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-06.35.53:056][778]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-06.35.53:058][778]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-06.35.53:068][778]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-06.35.53:068][778]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-06.35.53:068][778]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-06.35.53:073][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.02-06.35.53:079][778]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2022.02.02-06.35.53:080][778]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.02.02-06.35.53:083][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.02-06.35.53:085][778]LightingResults: New page: Lighting Build - Feb 1, 2022, 4:35:53 PM
+[2022.02.02-06.35.53:088][778]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-06.35.53:095][778]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-06.35.53:095][778]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-06.35.53:096][778]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-06.35.53:096][778]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-06.35.57:700][778]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-06.35.57:777][778]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-06.35.57:778][778]MapCheck: New page: Abstraction - Feb 1, 2022, 4:35:57 PM
+[2022.02.02-06.35.57:778][778]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2022.02.02-06.35.57:780][778]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-06.35.57:796][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.02-06.35.57:796][778]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.02.02-06.35.57:796][778]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.02.02-06.35.57:797][778]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.02-06.35.57:797][778]LogShaderCompilers: Display: ================================================
+[2022.02.02-06.35.57:833][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.02-06.35.58:553][792]Job is a success!
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-06.35.58:643][794]LogVolumetricLightmapImport:          Abstraction 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 256X128)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 256X128)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.35.58:661][794]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X128)
+[2022.02.02-06.35.58:662][794]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.02.02-06.35.58:670][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.02.02-06.35.58:689][794]Lightmass on LAPTOP-0U3AVAT7: 556 ms total, 59 ms importing, 2 ms setup, 24 ms photons, 423 ms processing, 0 ms extra exporting [29/29 mappings]. Threads: 6.31 sec total, 57 ms processing.
+[2022.02.02-06.35.58:695][794]LogStaticLightingSystem: Illumination: 5.56 sec (5 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2022.02.02-06.35.58:695][794]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 4 textures
+[2022.02.02-06.35.58:695][794]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.02.02-06.35.58:700][794]DumpUnbuiltLightIteractions
+[2022.02.02-06.35.58:701][794]Lights with unbuilt interactions: 0
+[2022.02.02-06.35.58:701][794]
+[2022.02.02-06.35.58:701][794]Primitives with unbuilt interactions: 0
+[2022.02.02-06.35.58:755][794]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-06.35.58:764][794]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-06.35.58:838][795]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-06.35.58:838][795]MapCheck: New page: Abstraction - Feb 1, 2022, 4:35:58 PM
+[2022.02.02-06.35.58:838][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.37ms to complete.
+[2022.02.02-06.36.05:252][175]Candidate modules for hot reload:
+[2022.02.02-06.36.05:252][175]  Abstraction
+[2022.02.02-06.36.05:252][175]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,6157 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.02-06.36.05:254][175]Warning: Starting HotReload took  0.0s.
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: New page: Compilation - Feb 1, 2022, 4:36:08 PM
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Building AbstractionEditor...
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Distributing 3 actions to XGE
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Temporary license has expired:
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: 
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: UE4Editor-Abstraction-6157.lib (0:00.09 at +0:00)
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6157.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6157.exp
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: UE4Editor-Abstraction-6157.dll (0:00.79 at +0:00)
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6157.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-6157.suppressed.exp
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: AbstractionEditor.target (0:00.17 at +0:00)
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: 
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: 
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: 1 build system warning(s):
+[2022.02.02-06.36.08:265][349]CompilerResultsLog:    - Temporary license has expired
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: 
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Total time in XGE executor: 1.09 seconds
+[2022.02.02-06.36.08:265][349]CompilerResultsLog: Total execution time: 2.95 seconds
+[2022.02.02-06.36.08:265][349]LogMainFrame: MainFrame: Module compiling took 3.016 seconds
+[2022.02.02-06.36.08:298][349]LogClass: EDoorState HotReload.
+[2022.02.02-06.36.08:298][349]LogClass: EObjectiveState HotReload.
+[2022.02.02-06.36.08:300][349]LogTemp: Error: Abstract Component created
+[2022.02.02-06.36.08:301][349]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2022.02.02-06.36.08:306][349]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.02.02-06.36.08:352][349]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3830 classes and 931 folders.
+[2022.02.02-06.36.08:352][349]Display: HotReload took  3.1s.
+[2022.02.02-06.36.12:081][570]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.02.02-06.36.12:284][570]Discovering modules, targets and source code for project...
+[2022.02.02-06.36.13:596][570]Binding IntelliSense data...
+[2022.02.02-06.36.15:220][570]Binding IntelliSense data... 100%
+[2022.02.02-06.36.15:220][570]Writing project files...
+[2022.02.02-06.36.17:844][570]Writing project files... 100%
+[2022.02.02-06.36.19:668][673]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.36.19:672][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.36.19:672][673]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:36:19 PM)
+[2022.02.02-06.36.19:701][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.36.19:706][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004079s)
+[2022.02.02-06.36.19:706][673]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.36.19:707][673]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2022.02.02-06.36.19:707][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005085s)
+[2022.02.02-06.36.19:710][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.02-06.36.19:711][673]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.36.19:711][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.36.19:711][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.36.19:711][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.36.19:711][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.36.19:711][673]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.36.19:713][673]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.36.19:713][673]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.36.19:819][673]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.36.19:819][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.36.19:819][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.36.19:820][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.36.19:820][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.36.19:820][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.36.19:820][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.36.19:821][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.36.19:821][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.36.19:821][673]LogInit: FAudioDevice initialized.
+[2022.02.02-06.36.19:821][673]LogAudio: Display: Audio Device (ID: 3) registered with world 'Abstraction'.
+[2022.02.02-06.36.19:828][673]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.36.19:830][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.36.19
+[2022.02.02-06.36.19:830][673]LogWorld: Bringing up level for play took: 0.001220
+[2022.02.02-06.36.19:830][673]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.02.02-06.36.19:832][673]PIE: Server logged in
+[2022.02.02-06.36.19:833][673]PIE: Play in editor total start time 0.162 seconds.
+[2022.02.02-06.36.26:102][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.36.26:102][ 47]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.36.26:102][ 47]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.36.26:102][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.36.26:113][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.36.26:121][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.36.26:124][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.02-06.36.26:124][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.36.26:125][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.36.26:129][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.36.26:130][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.02.02-06.36.26:180][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.02.02-06.36.41:265][954]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.36.41:300][956]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2022.02.02-06.36.54:173][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.36.55:959][833]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.37.08:689][592]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.02-06.37.10:208][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.37.15:250][984]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.38.08:048][148]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.02-06.38.18:423][769]LogEditor: Converting light from SpotLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.SpotLight_1 to RectLight
+[2022.02.02-06.38.18:424][769]LogEditor: Converted: SpotLight_1 to RectLight_0
+[2022.02.02-06.38.18:431][769]LogEditor: Converted: SpotLight to RectLight
+[2022.02.02-06.38.18:431][769]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.38.18:435][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.02-06.38.24:095][102]LogEditor: Converting light from RectLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.RectLight_0 to DirectionalLight
+[2022.02.02-06.38.24:096][102]LogEditor: Converted: RectLight_0 to DirectionalLight_0
+[2022.02.02-06.38.24:103][102]LogEditor: Converted: RectLight to DirectionalLight
+[2022.02.02-06.38.24:103][102]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.38.24:107][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.38.38:878][986]LogEditor: Converting light from DirectionalLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.DirectionalLight_0 to SpotLight
+[2022.02.02-06.38.38:879][986]LogEditor: Converted: DirectionalLight_0 to SpotLight_2
+[2022.02.02-06.38.38:886][986]LogEditor: Converted: DirectionalLight to SpotLight2
+[2022.02.02-06.38.38:886][986]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.38.38:890][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.02.02-06.38.45:798][399]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.02-06.38.46:880][463]Cmd: DELETE
+[2022.02.02-06.38.46:880][463]Cmd: ACTOR DELETE
+[2022.02.02-06.38.46:884][463]LogEditorActor: Deleted Actor: SkyLight
+[2022.02.02-06.38.46:888][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.02.02-06.38.46:889][463]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.02.02-06.38.50:385][673]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.02.02-06.38.52:077][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.38.55:147][956]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.02.02-06.39.12:038][968]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.39.14:442][111]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.02.02-06.39.34:741][326]LogEditor: Converting light from SpotLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.SpotLight_2 to RectLight
+[2022.02.02-06.39.34:742][326]LogEditor: Converted: SpotLight_2 to RectLight_1
+[2022.02.02-06.39.34:748][326]LogEditor: Converted: SpotLight2 to RectLight1
+[2022.02.02-06.39.34:748][326]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.39.34:752][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.39.45:717][982]LogEditor: Converting light from RectLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.RectLight_1 to DirectionalLight
+[2022.02.02-06.39.45:718][982]LogEditor: Converted: RectLight_1 to DirectionalLight_1
+[2022.02.02-06.39.45:726][982]LogEditor: Converted: RectLight1 to DirectionalLight1
+[2022.02.02-06.39.45:726][982]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.39.45:730][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.02.02-06.40.00:529][868]LogEditor: Converting light from DirectionalLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.DirectionalLight_1 to PointLight
+[2022.02.02-06.40.00:530][868]LogEditor: Converted: DirectionalLight_1 to PointLight_0
+[2022.02.02-06.40.00:536][868]LogEditor: Converted: DirectionalLight1 to PointLight
+[2022.02.02-06.40.00:536][868]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.40.00:540][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.40.04:228][ 88]LogEditor: Converting light from PointLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.PointLight_0 to SpotLight
+[2022.02.02-06.40.04:230][ 88]LogEditor: Converted: PointLight_0 to SpotLight_3
+[2022.02.02-06.40.04:236][ 88]LogEditor: Converted: PointLight to SpotLight3
+[2022.02.02-06.40.04:236][ 88]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.40.04:240][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.40.12:029][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.40.14:630][710]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.02.02-06.40.22:768][195]LogEditor: Converting light from SpotLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.SpotLight_3 to DirectionalLight
+[2022.02.02-06.40.22:769][195]LogEditor: Converted: SpotLight_3 to DirectionalLight_2
+[2022.02.02-06.40.22:779][195]LogEditor: Converted: SpotLight3 to DirectionalLight2
+[2022.02.02-06.40.22:779][195]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.40.22:783][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.40.29:307][586]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2022.02.02-06.40.30:076][632]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2022.02.02-06.40.55:109][132]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.40.59:543][397]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.02-06.41.11:838][132]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.41.18:372][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.41.18:976][559]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2022.02.02-06.41.20:910][674]Cmd: DELETE
+[2022.02.02-06.41.20:910][674]Cmd: ACTOR DELETE
+[2022.02.02-06.41.20:912][674]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.02.02-06.41.20:917][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.02-06.41.20:918][674]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.02.02-06.41.22:343][760]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.41.23:291][814]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.41.28:795][144]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.02-06.41.47:228][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.41.47:229][246]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.02-06.42.28:175][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.42.30:540][830]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.42.30:545][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.42.30:545][830]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:42:30 PM)
+[2022.02.02-06.42.30:545][830]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.42.30:549][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003990s)
+[2022.02.02-06.42.30:550][830]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.42.30:550][830]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.02.02-06.42.30:550][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.004907s)
+[2022.02.02-06.42.30:554][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.02-06.42.30:555][830]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.42.30:555][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.42.30:555][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.42.30:555][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.42.30:555][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.42.30:555][830]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.42.30:557][830]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.42.30:557][830]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.42.30:661][830]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.42.30:661][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.42.30:661][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.42.30:661][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.42.30:662][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.42.30:662][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.42.30:662][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.42.30:663][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.42.30:663][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.42.30:663][830]LogInit: FAudioDevice initialized.
+[2022.02.02-06.42.30:663][830]LogAudio: Display: Audio Device (ID: 4) registered with world 'Abstraction'.
+[2022.02.02-06.42.30:672][830]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.42.30:673][830]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.42.30
+[2022.02.02-06.42.30:673][830]LogWorld: Bringing up level for play took: 0.001316
+[2022.02.02-06.42.30:674][830]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.02.02-06.42.30:675][830]PIE: Server logged in
+[2022.02.02-06.42.30:676][830]PIE: Play in editor total start time 0.132 seconds.
+[2022.02.02-06.42.43:894][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.42.43:895][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.42.43:895][620]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.42.43:895][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.42.43:905][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.42.43:911][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.42.43:915][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.02-06.42.43:915][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.42.43:916][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.42.43:921][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.42.43:923][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.02-06.42.43:971][622]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.02.02-06.43.02:641][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.43.03:424][785]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.43.03:429][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.43.03:429][785]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:43:03 PM)
+[2022.02.02-06.43.03:456][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.43.03:460][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004432s)
+[2022.02.02-06.43.03:461][785]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.43.03:461][785]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2022.02.02-06.43.03:461][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005595s)
+[2022.02.02-06.43.03:465][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.02-06.43.03:465][785]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.43.03:466][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.43.03:466][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.43.03:466][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.43.03:466][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.43.03:466][785]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.43.03:468][785]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.43.03:468][785]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.43.03:569][785]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.43.03:569][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.43.03:569][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.43.03:569][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.43.03:570][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.43.03:570][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.43.03:570][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.43.03:571][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.43.03:571][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.43.03:571][785]LogInit: FAudioDevice initialized.
+[2022.02.02-06.43.03:571][785]LogAudio: Display: Audio Device (ID: 5) registered with world 'Abstraction'.
+[2022.02.02-06.43.03:581][785]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.43.03:582][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.43.03
+[2022.02.02-06.43.03:583][785]LogWorld: Bringing up level for play took: 0.001169
+[2022.02.02-06.43.03:583][785]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.02.02-06.43.03:584][785]PIE: Server logged in
+[2022.02.02-06.43.03:585][785]PIE: Play in editor total start time 0.157 seconds.
+[2022.02.02-06.43.19:126][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.43.19:126][713]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.43.19:126][713]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.43.19:127][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.43.19:135][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.43.19:141][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.43.19:144][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.02-06.43.19:144][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.43.19:145][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.43.19:149][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.43.19:150][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.02-06.43.19:196][715]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.02-06.43.23:746][988]LogEditorViewport: Clicking on Actor (LMB): VolumetricCloud (VolumetricCloud)
+[2022.02.02-06.43.27:566][216]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2022.02.02-06.44.05:359][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.44.09:538][729]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.44.23:660][571]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.44.23:661][571]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.02-06.44.26:594][745]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.44.53:259][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.02-06.44.53:277][337]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_Auto1AA4F54B442D4BB082A790DBDF4D85132.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/Abstraction_Auto1.umap'
+[2022.02.02-06.44.53:279][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Abstraction' took 0.024
+[2022.02.02-06.44.53:279][337]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.02.02-06.45.02:365][882]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.45.27:053][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.45.29:322][497]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.45.36:717][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.45.38:172][ 25]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.45.46:925][549]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.45.48:533][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.45.49:075][676]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.02.02-06.46.25:946][885]LogEditor: Converting light from SpotLight /Game/Maps/Abstraction.Abstraction:PersistentLevel.SpotLight_5 to DirectionalLight
+[2022.02.02-06.46.25:948][885]LogEditor: Converted: SpotLight_5 to DirectionalLight_3
+[2022.02.02-06.46.25:956][885]LogEditor: Converted: SpotLight to DirectionalLight3
+[2022.02.02-06.46.25:956][885]EditorErrors: New page: Actor Reattachment
+[2022.02.02-06.46.25:960][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.02.02-06.46.40:815][776]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.46.40:819][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.46.40:819][776]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:46:40 PM)
+[2022.02.02-06.46.40:842][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.46.40:847][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004985s)
+[2022.02.02-06.46.40:848][776]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.46.40:848][776]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.02.02-06.46.40:848][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.006239s)
+[2022.02.02-06.46.40:852][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.02-06.46.40:853][776]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.46.40:853][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.46.40:853][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.46.40:853][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.46.40:853][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.46.40:853][776]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.46.40:855][776]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.46.40:855][776]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.46.40:958][776]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.46.40:958][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.46.40:958][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.46.40:958][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.46.40:959][776]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.46.40:959][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.46.40:959][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.46.40:960][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.46.40:960][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.46.40:960][776]LogInit: FAudioDevice initialized.
+[2022.02.02-06.46.40:960][776]LogAudio: Display: Audio Device (ID: 6) registered with world 'Abstraction'.
+[2022.02.02-06.46.40:965][776]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.46.40:967][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.46.40
+[2022.02.02-06.46.40:967][776]LogWorld: Bringing up level for play took: 0.001256
+[2022.02.02-06.46.40:967][776]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.02.02-06.46.40:969][776]PIE: Server logged in
+[2022.02.02-06.46.40:969][776]PIE: Play in editor total start time 0.151 seconds.
+[2022.02.02-06.46.47:712][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.46.47:712][177]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.46.47:712][177]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.46.47:713][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.46.47:723][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.46.47:731][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.46.47:743][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.46.47:743][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.46.47:744][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.46.47:749][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.02-06.46.47:776][178]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.02.02-06.46.52:091][436]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.02-06.46.53:003][490]Cmd: DELETE
+[2022.02.02-06.46.53:003][490]Cmd: ACTOR DELETE
+[2022.02.02-06.46.53:004][490]LogEditorActor: Deleted Actor: SkyLight
+[2022.02.02-06.46.53:008][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.02-06.46.53:009][490]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.02.02-06.46.56:369][692]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.46.56:375][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.46.56:375][692]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:46:56 PM)
+[2022.02.02-06.46.56:375][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.46.56:380][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004738s)
+[2022.02.02-06.46.56:381][692]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.46.56:381][692]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.02.02-06.46.56:381][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005772s)
+[2022.02.02-06.46.56:385][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.02-06.46.56:385][692]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.46.56:385][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.46.56:386][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.46.56:386][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.46.56:386][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.46.56:386][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.46.56:386][692]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.46.56:387][692]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.46.56:387][692]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.46.56:491][692]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.46.56:491][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.46.56:491][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.46.56:491][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.46.56:492][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.46.56:492][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.46.56:492][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.46.56:493][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.46.56:493][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.46.56:493][692]LogInit: FAudioDevice initialized.
+[2022.02.02-06.46.56:493][692]LogAudio: Display: Audio Device (ID: 7) registered with world 'Abstraction'.
+[2022.02.02-06.46.56:498][692]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.46.56:500][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.46.56
+[2022.02.02-06.46.56:500][692]LogWorld: Bringing up level for play took: 0.001275
+[2022.02.02-06.46.56:500][692]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.02-06.46.56:502][692]PIE: Server logged in
+[2022.02.02-06.46.56:503][692]PIE: Play in editor total start time 0.13 seconds.
+[2022.02.02-06.47.10:794][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.47.10:794][547]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.47.10:794][547]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.47.10:795][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.47.10:800][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.47.10:801][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.47.10:805][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.47.10:805][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.47.10:806][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.47.10:811][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.02-06.47.10:868][550]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.02-06.47.12:167][628]MapCheck: New page: Map Check
+[2022.02.02-06.47.12:177][628]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-06.47.12:178][628]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-06.47.12:180][628]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-06.47.12:190][628]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-06.47.12:190][628]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-06.47.12:190][628]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-06.47.12:195][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.02-06.47.12:199][628]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.02.02-06.47.12:200][628]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.02.02-06.47.12:204][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-06.47.12:205][628]LightingResults: New page: Lighting Build - Feb 1, 2022, 4:47:12 PM
+[2022.02.02-06.47.12:208][628]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-06.47.12:212][628]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-06.47.12:212][628]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-06.47.12:213][628]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-06.47.12:213][628]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-06.47.16:767][628]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-06.47.16:832][628]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-06.47.16:832][628]MapCheck: New page: Abstraction - Feb 1, 2022, 4:47:16 PM
+[2022.02.02-06.47.16:832][628]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.02.02-06.47.16:833][628]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.384ms to complete.
+[2022.02.02-06.47.16:835][628]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-06.47.16:867][628]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.02-06.47.16:867][628]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.02.02-06.47.16:867][628]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.02.02-06.47.16:867][628]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.02-06.47.16:867][628]LogShaderCompilers: Display: ================================================
+[2022.02.02-06.47.16:925][628]LogSlate: Took 0.006825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.02-06.47.16:932][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.02-06.47.17:618][643]Job is a success!
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-06.47.17:706][644]LogVolumetricLightmapImport:          Abstraction 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X128)
+[2022.02.02-06.47.17:726][644]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X128)
+[2022.02.02-06.47.17:727][644]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.02.02-06.47.17:734][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.02-06.47.17:745][644]Lightmass on LAPTOP-0U3AVAT7: 515 ms total, 49 ms importing, 2 ms setup, 28 ms photons, 397 ms processing, 0 ms extra exporting [29/29 mappings]. Threads: 5.95 sec total, 89 ms processing.
+[2022.02.02-06.47.17:763][644]LogStaticLightingSystem: Illumination: 5.50 sec (5 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2022.02.02-06.47.17:763][644]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2022.02.02-06.47.17:763][644]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.02-06.47.18:765][644]DumpUnbuiltLightIteractions
+[2022.02.02-06.47.18:765][644]Lights with unbuilt interactions: 0
+[2022.02.02-06.47.18:765][644]
+[2022.02.02-06.47.18:765][644]Primitives with unbuilt interactions: 0
+[2022.02.02-06.47.18:827][644]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-06.47.18:836][644]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-06.47.18:868][645]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-06.47.18:868][645]MapCheck: New page: Abstraction - Feb 1, 2022, 4:47:18 PM
+[2022.02.02-06.47.18:868][645]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.309ms to complete.
+[2022.02.02-06.47.24:919][  8]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-06.47.24:922][  8]LogSlate: Window 'Message Log' being destroyed
+[2022.02.02-06.47.26:180][ 83]MapCheck: New page: Map Check
+[2022.02.02-06.47.26:191][ 83]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-06.47.26:191][ 83]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-06.47.26:192][ 83]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-06.47.26:203][ 83]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-06.47.26:203][ 83]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-06.47.26:203][ 83]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-06.47.26:208][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.02-06.47.26:213][ 83]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.02.02-06.47.26:214][ 83]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.02.02-06.47.26:218][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.02.02-06.47.26:219][ 83]LightingResults: New page: Lighting Build - Feb 1, 2022, 4:47:26 PM
+[2022.02.02-06.47.26:223][ 83]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-06.47.26:226][ 83]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-06.47.26:226][ 83]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-06.47.26:226][ 83]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-06.47.26:226][ 83]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-06.47.30:803][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-06.47.30:839][ 83]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-06.47.30:839][ 83]MapCheck: New page: Abstraction - Feb 1, 2022, 4:47:30 PM
+[2022.02.02-06.47.30:840][ 83]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2022.02.02-06.47.30:841][ 83]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-06.47.30:890][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.02-06.47.31:591][ 95]Job is a success!
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-06.47.31:723][ 97]LogVolumetricLightmapImport:          Abstraction 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X128)
+[2022.02.02-06.47.31:740][ 97]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X128)
+[2022.02.02-06.47.31:740][ 97]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.02.02-06.47.31:748][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.02-06.47.31:763][ 97]Lightmass on LAPTOP-0U3AVAT7: 576 ms total, 48 ms importing, 2 ms setup, 37 ms photons, 453 ms processing, 0 ms extra exporting [29/29 mappings]. Threads: 6.78 sec total, 76 ms processing.
+[2022.02.02-06.47.31:780][ 97]LogStaticLightingSystem: Illumination: 5.48 sec (5 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2022.02.02-06.47.31:780][ 97]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2022.02.02-06.47.31:780][ 97]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.02-06.47.31:805][ 97]DumpUnbuiltLightIteractions
+[2022.02.02-06.47.31:805][ 97]Lights with unbuilt interactions: 0
+[2022.02.02-06.47.31:805][ 97]
+[2022.02.02-06.47.31:805][ 97]Primitives with unbuilt interactions: 0
+[2022.02.02-06.47.31:856][ 97]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-06.47.31:867][ 97]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-06.47.31:943][ 98]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-06.47.31:943][ 98]MapCheck: New page: Abstraction - Feb 1, 2022, 4:47:31 PM
+[2022.02.02-06.47.31:944][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.404ms to complete.
+[2022.02.02-06.47.48:953][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.02-06.47.54:351][433]Candidate modules for hot reload:
+[2022.02.02-06.47.54:351][433]  Abstraction
+[2022.02.02-06.47.54:351][433]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,2318 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.02-06.47.54:352][433]Warning: Starting HotReload took  0.0s.
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: New page: Compilation - Feb 1, 2022, 4:47:57 PM
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction).
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Creating makefile for AbstractionEditor (no existing makefile)
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Building AbstractionEditor...
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Distributing 3 actions to XGE
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Temporary license has expired:
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:     Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:      To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: 
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: -------------------------------------------------------------------------------
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: UE4Editor-Abstraction-2318.lib (0:00.07 at +0:00)
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-2318.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-2318.exp
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: UE4Editor-Abstraction-2318.dll (0:00.70 at +0:00)
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:    Creating library C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-2318.suppressed.lib and object C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\UE4Editor-Abstraction-2318.suppressed.exp
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: AbstractionEditor.target (0:00.18 at +0:00)
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: ---------------------- Done ----------------------
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: 
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: 
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: 1 build system warning(s):
+[2022.02.02-06.47.57:219][598]CompilerResultsLog:    - Temporary license has expired
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: 
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Total time in XGE executor: 1.11 seconds
+[2022.02.02-06.47.57:219][598]CompilerResultsLog: Total execution time: 2.80 seconds
+[2022.02.02-06.47.57:219][598]LogMainFrame: MainFrame: Module compiling took 2.873 seconds
+[2022.02.02-06.47.57:249][598]LogClass: EDoorState HotReload.
+[2022.02.02-06.47.57:249][598]LogClass: EObjectiveState HotReload.
+[2022.02.02-06.47.57:252][598]LogTemp: Error: Abstract Component created
+[2022.02.02-06.47.57:253][598]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Abstraction' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2022.02.02-06.47.57:255][598]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.02.02-06.47.57:293][598]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3830 classes and 931 folders.
+[2022.02.02-06.47.57:293][598]Display: HotReload took  3.0s.
+[2022.02.02-06.47.59:732][744]MapCheck: New page: Map Check
+[2022.02.02-06.47.59:750][744]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.02-06.47.59:751][744]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.02-06.47.59:753][744]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.02-06.47.59:764][744]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.02-06.47.59:764][744]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.02-06.47.59:764][744]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.02-06.47.59:769][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.02-06.47.59:774][744]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2022.02.02-06.47.59:775][744]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.02.02-06.47.59:779][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-06.47.59:781][744]LightingResults: New page: Lighting Build - Feb 1, 2022, 4:47:59 PM
+[2022.02.02-06.47.59:785][744]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.02-06.47.59:788][744]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.02-06.47.59:788][744]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.02-06.47.59:789][744]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.02-06.47.59:789][744]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2022.02.02-06.48.04:364][744]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.02-06.48.04:364][744]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.02-06.48.04:364][744]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.02-06.48.04:365][744]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.02-06.48.04:365][744]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.02-06.48.04:365][744]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.02-06.48.04:401][744]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.02-06.48.04:401][744]MapCheck: New page: Abstraction - Feb 1, 2022, 4:48:04 PM
+[2022.02.02-06.48.04:402][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2022.02.02-06.48.04:404][744]LogEditorBuildUtils: Build time 0:04
+[2022.02.02-06.48.04:461][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.02-06.48.05:161][756]Job is a success!
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.02-06.48.05:250][758]LogVolumetricLightmapImport:          Abstraction 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.02-06.48.05:268][758]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.48.05:268][758]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.02.02-06.48.05:269][758]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.02.02-06.48.05:269][758]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.02.02-06.48.05:269][758]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 64X128)
+[2022.02.02-06.48.05:269][758]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X128)
+[2022.02.02-06.48.05:269][758]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.02.02-06.48.05:278][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.02-06.48.05:291][758]Lightmass on LAPTOP-0U3AVAT7: 551 ms total, 51 ms importing, 2 ms setup, 40 ms photons, 407 ms processing, 0 ms extra exporting [29/29 mappings]. Threads: 6.09 sec total, 71 ms processing.
+[2022.02.02-06.48.05:310][758]LogStaticLightingSystem: Illumination: 5.47 sec (4 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2022.02.02-06.48.05:310][758]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2022.02.02-06.48.05:310][758]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.02-06.48.05:364][758]DumpUnbuiltLightIteractions
+[2022.02.02-06.48.05:364][758]Lights with unbuilt interactions: 0
+[2022.02.02-06.48.05:364][758]
+[2022.02.02-06.48.05:364][758]Primitives with unbuilt interactions: 0
+[2022.02.02-06.48.05:404][758]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.02-06.48.05:412][758]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.02-06.48.05:487][759]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.02-06.48.05:487][759]MapCheck: New page: Abstraction - Feb 1, 2022, 4:48:05 PM
+[2022.02.02-06.48.05:487][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2022.02.02-06.48.09:647][  3]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.02-06.48.09:652][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.02-06.48.09:652][  3]PIE: New page: PIE session: Abstraction (Feb 1, 2022, 4:48:09 PM)
+[2022.02.02-06.48.09:674][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.48.09:679][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004871s)
+[2022.02.02-06.48.09:680][  3]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.02-06.48.09:680][  3]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2022.02.02-06.48.09:680][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.006113s)
+[2022.02.02-06.48.09:684][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.02-06.48.09:685][  3]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.02-06.48.09:685][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.02-06.48.09:685][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.02-06.48.09:685][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.02-06.48.09:685][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.02-06.48.09:685][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.02-06.48.09:687][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.02-06.48.09:687][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.02.02-06.48.09:791][  3]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.02-06.48.09:791][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.02-06.48.09:791][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.02-06.48.09:791][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.02-06.48.09:792][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.02-06.48.09:792][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.02-06.48.09:792][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.02-06.48.09:793][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.02-06.48.09:793][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.02-06.48.09:793][  3]LogInit: FAudioDevice initialized.
+[2022.02.02-06.48.09:793][  3]LogAudio: Display: Audio Device (ID: 8) registered with world 'Abstraction'.
+[2022.02.02-06.48.09:799][  3]LogLoad: Game class is 'GameModeBase'
+[2022.02.02-06.48.09:800][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.01-23.48.09
+[2022.02.02-06.48.09:800][  3]LogWorld: Bringing up level for play took: 0.001213
+[2022.02.02-06.48.09:800][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.02-06.48.09:802][  3]PIE: Server logged in
+[2022.02.02-06.48.09:803][  3]PIE: Play in editor total start time 0.152 seconds.
+[2022.02.02-06.48.26:848][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.48.26:848][ 24]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.02-06.48.26:848][ 24]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-06.48.26:848][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.48.26:857][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.02-06.48.26:862][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.02-06.48.26:866][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.02-06.48.26:866][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.48.26:867][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-06.48.26:872][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.02-06.48.26:924][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.02-06.48.34:040][449]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.02.02-06.48.34:244][449]Discovering modules, targets and source code for project...
+[2022.02.02-06.48.35:554][449]Binding IntelliSense data...
+[2022.02.02-06.48.37:174][449]Binding IntelliSense data... 100%
+[2022.02.02-06.48.37:174][449]Writing project files...
+[2022.02.02-06.48.39:787][449]Writing project files... 100%
