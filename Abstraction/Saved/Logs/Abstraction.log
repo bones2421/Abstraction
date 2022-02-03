@@ -3694,3 +3694,174 @@ Would you like to open the Output Log to see more details?
 [2022.02.03-07.49.00:020][304]Binding IntelliSense data... 100%
 [2022.02.03-07.49.00:020][304]Writing project files...
 [2022.02.03-07.49.04:457][304]Writing project files... 100%
+[2022.02.03-07.51.16:866][161]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.03-07.51.16:875][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-07.51.16:875][161]PIE: New page: PIE session: Abstraction (Feb 2, 2022, 5:51:16 PM)
+[2022.02.03-07.51.16:875][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-07.51.16:883][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007893s)
+[2022.02.03-07.51.16:884][161]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.03-07.51.16:885][161]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2022.02.03-07.51.16:885][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.009737s)
+[2022.02.03-07.51.16:906][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.03-07.51.16:908][161]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-07.51.16:908][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-07.51.16:908][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-07.51.16:909][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-07.51.16:909][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-07.51.16:909][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-07.51.16:909][161]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-07.51.16:911][161]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-07.51.16:911][161]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-07.51.17:053][161]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.03-07.51.17:053][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-07.51.17:053][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-07.51.17:053][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-07.51.17:054][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-07.51.17:054][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-07.51.17:054][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-07.51.17:055][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-07.51.17:055][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-07.51.17:055][161]LogInit: FAudioDevice initialized.
+[2022.02.03-07.51.17:055][161]LogAudio: Display: Audio Device (ID: 29) registered with world 'Abstraction'.
+[2022.02.03-07.51.17:063][161]LogLoad: Game class is 'GameModeBase'
+[2022.02.03-07.51.17:065][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.03-00.51.17
+[2022.02.03-07.51.17:065][161]LogWorld: Bringing up level for play took: 0.001517
+[2022.02.03-07.51.17:066][161]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.02.03-07.51.17:068][161]PIE: Server logged in
+[2022.02.03-07.51.17:068][161]PIE: Play in editor total start time 0.195 seconds.
+[2022.02.03-07.51.30:222][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-07.51.30:222][947]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-07.51.30:222][947]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-07.51.30:222][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-07.51.30:228][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-07.51.30:236][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-07.51.30:253][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-07.51.30:253][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-07.51.30:254][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-07.51.30:259][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-07.51.30:264][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.03-07.51.30:305][948]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.02.03-07.51.31:313][  7]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.03-07.51.31:321][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-07.51.31:321][  7]PIE: New page: PIE session: Abstraction (Feb 2, 2022, 5:51:31 PM)
+[2022.02.03-07.51.31:362][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-07.51.31:367][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004829s)
+[2022.02.03-07.51.31:368][  7]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.03-07.51.31:368][  7]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2022.02.03-07.51.31:368][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005981s)
+[2022.02.03-07.51.31:386][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.02.03-07.51.31:387][  7]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-07.51.31:387][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-07.51.31:387][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-07.51.31:387][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-07.51.31:387][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-07.51.31:388][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-07.51.31:388][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-07.51.31:390][  7]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-07.51.31:390][  7]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-07.51.31:547][  7]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.03-07.51.31:547][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-07.51.31:548][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-07.51.31:548][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-07.51.31:548][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-07.51.31:548][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-07.51.31:548][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-07.51.31:549][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-07.51.31:549][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-07.51.31:549][  7]LogInit: FAudioDevice initialized.
+[2022.02.03-07.51.31:549][  7]LogAudio: Display: Audio Device (ID: 30) registered with world 'Abstraction'.
+[2022.02.03-07.51.31:557][  7]LogLoad: Game class is 'GameModeBase'
+[2022.02.03-07.51.31:559][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.03-00.51.31
+[2022.02.03-07.51.31:559][  7]LogWorld: Bringing up level for play took: 0.001678
+[2022.02.03-07.51.31:559][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.02.03-07.51.31:562][  7]PIE: Server logged in
+[2022.02.03-07.51.31:563][  7]PIE: Play in editor total start time 0.243 seconds.
+[2022.02.03-07.51.45:465][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-07.51.45:465][839]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-07.51.45:465][839]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-07.51.45:465][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-07.51.45:472][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-07.51.45:482][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-07.51.45:499][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-07.51.45:499][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-07.51.45:500][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-07.51.45:509][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.03-07.51.45:544][840]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.02.03-07.52.26:788][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_C_2)
+[2022.02.03-07.52.46:925][461]Cmd: EDCALLBACK SURFPROPS
+[2022.02.03-07.52.59:452][207]MapCheck: New page: Map Check
+[2022.02.03-07.52.59:471][207]Cmd: MAP REBUILD ALLVISIBLE
+[2022.02.03-07.52.59:472][207]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.02.03-07.52.59:474][207]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=false
+[2022.02.03-07.52.59:492][207]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.02.03-07.52.59:492][207]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.02.03-07.52.59:492][207]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.02.03-07.52.59:519][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.03-07.52.59:533][207]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2022.02.03-07.52.59:536][207]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.02.03-07.52.59:552][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.03-07.52.59:555][207]LightingResults: New page: Lighting Build - Feb 2, 2022, 5:52:59 PM
+[2022.02.03-07.52.59:560][207]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.02.03-07.52.59:565][207]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.02.03-07.52.59:565][207]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.02.03-07.52.59:566][207]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.02.03-07.52.59:566][207]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2022.02.03-07.53.04:145][207]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.02.03-07.53.04:146][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.02.03-07.53.04:146][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.02.03-07.53.04:146][207]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.02.03-07.53.04:146][207]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.02.03-07.53.04:146][207]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.02.03-07.53.04:244][207]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.02.03-07.53.04:244][207]MapCheck: New page: Abstraction - Feb 2, 2022, 5:53:04 PM
+[2022.02.03-07.53.04:244][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.411ms to complete.
+[2022.02.03-07.53.04:247][207]LogEditorBuildUtils: Build time 0:04
+[2022.02.03-07.53.04:269][207]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.03-07.53.04:269][207]LogShaderCompilers: Display: Total job queries 45, among them cache hits 0 (0.00%)
+[2022.02.03-07.53.04:269][207]LogShaderCompilers: Display: Tracking 45 distinct input hashes that result in 33 distinct outputs (73.33%)
+[2022.02.03-07.53.04:269][207]LogShaderCompilers: Display: RAM used: 0.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.02.03-07.53.04:269][207]LogShaderCompilers: Display: ================================================
+[2022.02.03-07.53.04:322][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.03-07.53.05:335][222]Job is a success!
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:      Bricks at depth
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:      Bricks in each level
+[2022.02.03-07.53.05:443][223]LogVolumetricLightmapImport:          Abstraction 			 9 bricks 	 100.0% (Persistent Level)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X128)
+[2022.02.03-07.53.05:485][223]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2022.02.03-07.53.05:486][223]LogStaticLightingSystem: Abstraction_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.02.03-07.53.05:521][223]Lightmass on LAPTOP-0U3AVAT7: 704 ms total, 87 ms importing, 2 ms setup, 50 ms photons, 501 ms processing, 0 ms extra exporting [29/29 mappings]. Threads: 7.46 sec total, 176 ms processing.
+[2022.02.03-07.53.05:524][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.02.03-07.53.05:565][223]LogStaticLightingSystem: Illumination: 5.94 sec (11 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2022.02.03-07.53.05:565][223]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2022.02.03-07.53.05:565][223]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.02.03-07.53.06:158][223]DumpUnbuiltLightIteractions
+[2022.02.03-07.53.06:158][223]Lights with unbuilt interactions: 0
+[2022.02.03-07.53.06:158][223]
+[2022.02.03-07.53.06:158][223]Primitives with unbuilt interactions: 0
+[2022.02.03-07.53.06:239][223]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.03-07.53.06:251][223]LogTexture: Display: Building textures: NewReflectionComponentTextureFC30D6BD4A8E36564963F9BE3169C16C (BGRA8, 128X128)
+[2022.02.03-07.53.06:305][224]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.02.03-07.53.06:305][224]MapCheck: New page: Abstraction - Feb 2, 2022, 5:53:06 PM
+[2022.02.03-07.53.06:306][224]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.509ms to complete.
