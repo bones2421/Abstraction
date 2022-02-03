@@ -1,5 +1,0 @@
-C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\Definitions.Abstraction.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction/Public/HealthComponent1.h
-C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Inc\Abstraction\HealthComponent1.generated.h

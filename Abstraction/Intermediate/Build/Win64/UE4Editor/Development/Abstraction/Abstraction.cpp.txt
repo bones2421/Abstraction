@@ -1,2 +1,0 @@
-C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UE4Editor\Development\Abstraction\Definitions.Abstraction.h
-C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Source\Abstraction\Abstraction.h
