@@ -5835,3 +5835,119 @@ Would you like to open the Output Log to see more details?
 [2022.02.03-15.59.05:477][705]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.03-15.59.05:478][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Abstraction_BuiltData.Abstraction_BuiltData
 [2022.02.03-15.59.05:478][705]LogContentValidation: Display: Validating World /Game/Maps/Abstraction.Abstraction
+[2022.02.03-16.03.11:915][146]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.02.03-16.03.11:917][146]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.02.03-16.03.11:919][146]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-16.03.11:919][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-16.03.14:789][225]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP)
+[2022.02.03-16.03.24:880][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.03-16.03.24:899][826]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractionF20811554E641042DAABF694BB45094B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction.umap'
+[2022.02.03-16.03.24:922][826]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Abstraction_BuiltData0372D6E04F56E2EA224B13BAD34920E4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/Abstraction_BuiltData.uasset'
+[2022.02.03-16.03.24:933][826]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.03-16.03.24:933][826]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Abstraction_BuiltData.Abstraction_BuiltData
+[2022.02.03-16.03.24:933][826]LogContentValidation: Display: Validating World /Game/Maps/Abstraction.Abstraction
+[2022.02.03-16.03.27:596][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.02.03-16.03.32:297][267]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.03-16.03.32:301][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.03-16.03.32:301][267]PIE: New page: PIE session: Abstraction (Feb 3, 2022, 2:03:32 AM)
+[2022.02.03-16.03.32:301][267]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-16.03.32:305][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004590s)
+[2022.02.03-16.03.32:306][267]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.03-16.03.32:307][267]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2022.02.03-16.03.32:307][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005734s)
+[2022.02.03-16.03.32:320][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.03-16.03.32:322][267]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.03-16.03.32:322][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.03-16.03.32:322][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.03-16.03.32:322][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.03-16.03.32:322][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.03-16.03.32:322][267]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.03-16.03.32:324][267]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-16.03.32:324][267]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-16.03.32:429][267]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.03-16.03.32:429][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.03-16.03.32:430][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.03-16.03.32:430][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.03-16.03.32:430][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.03-16.03.32:430][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.03-16.03.32:430][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.03-16.03.32:431][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.03-16.03.32:431][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.03-16.03.32:431][267]LogInit: FAudioDevice initialized.
+[2022.02.03-16.03.32:431][267]LogAudio: Display: Audio Device (ID: 60) registered with world 'Abstraction'.
+[2022.02.03-16.03.32:437][267]LogLoad: Game class is 'GameModeBase'
+[2022.02.03-16.03.32:438][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.03-09.03.32
+[2022.02.03-16.03.32:438][267]LogWorld: Bringing up level for play took: 0.001270
+[2022.02.03-16.03.32:439][267]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2022.02.03-16.03.32:440][267]PIE: Server logged in
+[2022.02.03-16.03.32:441][267]PIE: Play in editor total start time 0.141 seconds.
+[2022.02.03-16.04.40:261][336]LogNet: Browse: /Game/Maps/Abstraction?restart
+[2022.02.03-16.04.40:261][336]LogLoad: LoadMap: /Game/Maps/Abstraction
+[2022.02.03-16.04.40:261][336]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-16.04.40:262][336]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-16.04.40:262][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-16.04.40:311][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.03-16.04.40:314][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.02.03-16.04.40:317][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-16.04.40:322][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004547s)
+[2022.02.03-16.04.40:323][336]LogAIModule: Creating AISystem for world Abstraction
+[2022.02.03-16.04.40:323][336]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.02.03-16.04.40:323][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Abstraction.Abstraction to /Game/Maps/UEDPIE_0_Abstraction.Abstraction (0.005718s)
+[2022.02.03-16.04.40:323][336]LogAudio: Display: Audio Device (ID: 60) registered with world 'Abstraction'.
+[2022.02.03-16.04.40:323][336]LogLoad: Game class is 'GameModeBase'
+[2022.02.03-16.04.40:324][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Abstraction.Abstraction up for play (max tick rate 60) at 2022.02.03-09.04.40
+[2022.02.03-16.04.40:325][336]LogWorld: Bringing up level for play took: 0.001048
+[2022.02.03-16.04.40:325][336]LogLoad: Took 0.064190 seconds to LoadMap(/Game/Maps/UEDPIE_0_Abstraction)
+[2022.02.03-16.05.10:778][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-16.05.10:778][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Abstraction
+[2022.02.03-16.05.10:778][161]LogWorld: UWorld::CleanupWorld for Abstraction, bSessionEnded=true, bCleanupResources=true
+[2022.02.03-16.05.10:778][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-16.05.10:788][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.03-16.05.10:795][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.03-16.05.10:807][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.03-16.05.10:807][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-16.05.10:808][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.03-16.05.10:815][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.02.03-16.05.10:873][163]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.02.03-16.08.34:510][887]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-16.08.34:659][887]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-16.08.34:660][887]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-16.08.37:206][888]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-16.08.37:224][888]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-16.08.37:225][888]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDF7B387-40B1-CE6D-964F-0E9A5210914C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20eea0637c0 [can pipeline])
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 1 (Re-using existing connection! (#29) with host datarouter.ol.epicgames.com)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.145.247.180) port 443 (#29))
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: 0000020FEE865600: libcurl info message cache 7 (Closing connection 29)
+[2022.02.03-16.36.10:045][891]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDF7B387-40B1-CE6D-964F-0E9A5210914C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.03-16.36.10:710][892]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-16.36.10:716][892]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-16.36.10:716][892]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-16.36.11:547][894]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{671001a1-2d2e-4a1d-8975-565dee8f182c}.
+[2022.02.03-20.57.32:166][894]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-20.57.32:388][894]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-20.57.32:388][894]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-20.57.34:367][895]LogHttp: Warning: 0000020FEE864F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDF7B387-40B1-CE6D-964F-0E9A5210914C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.03-20.57.34:367][895]LogHttp: Warning: 0000020FEE864F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.03-20.57.34:367][895]LogHttp: Warning: 0000020FEE864F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.03-20.57.34:367][895]LogHttp: Warning: 0000020FEE864F00: libcurl info message cache 1 (Closing connection 30)
+[2022.02.03-20.57.34:367][895]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDF7B387-40B1-CE6D-964F-0E9A5210914C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06fa4a294002bb773c589aa700ee1f37%7C847b3337cc7d4a37bce4ca5544bcd925%7Ca8be9ace-a568-4119-875e-3c9ee13e2993&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.03-20.57.34:377][895]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-20.57.34:405][895]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-20.57.34:405][895]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-20.57.35:534][896]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.03-20.57.35:553][896]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.03-20.57.35:553][896]LogAudioMixer: Display: 1: FrontRight
