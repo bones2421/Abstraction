@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Abstraction.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{992F51D4-0315-4E16-81EB-209F13DF9154}</UniqueIdentifier>
+      <UniqueIdentifier>{3C25F1AE-5DAD-4B0A-A592-C2A4AE9D9269}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{80461E60-9A0E-42E6-8B91-DB837A7E2B08}</UniqueIdentifier>
+      <UniqueIdentifier>{06E13C48-FF90-4624-A5A9-FF3C109358B8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Abstraction">
-      <UniqueIdentifier>{F7591359-FAB5-4554-80DD-3CE1A1A42C98}</UniqueIdentifier>
+      <UniqueIdentifier>{01D58BE2-CAAE-49A8-A17F-7E7DB9310FD3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Abstraction\Abstraction.Build.cs">
       <Filter>Source\Abstraction</Filter>
@@ -48,7 +48,7 @@
       <Filter>Source\Abstraction</Filter>
     </ClInclude>
     <Filter Include="Source\Abstraction\Private">
-      <UniqueIdentifier>{9240BC92-D793-429C-86BB-22253C2B53AB}</UniqueIdentifier>
+      <UniqueIdentifier>{C0E1D80B-BAC0-4AFD-8C03-BADA0DECAB3C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Abstraction\Private\AbstractionPlayerCharacter.cpp">
       <Filter>Source\Abstraction\Private</Filter>
@@ -62,6 +62,9 @@
     <ClCompile Include="..\..\Source\Abstraction\Private\DoorInteractionComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\HealthComponent.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Abstraction\Private\InteractableDoor.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
@@ -72,7 +75,7 @@
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Abstraction\Public">
-      <UniqueIdentifier>{C691C273-ACBD-4C51-96D3-00BE211E1FA3}</UniqueIdentifier>
+      <UniqueIdentifier>{B2A22B5C-F3BD-4597-A8C8-9CF1BE26D12B}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\AbstractionPlayerCharacter.h">
       <Filter>Source\Abstraction\Public</Filter>
@@ -84,6 +87,9 @@
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Abstraction\Public\DoorInteractionComponent.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\HealthComponent.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Abstraction\Public\InteractableDoor.h">

@@ -6,6 +6,8 @@
 #include "GameFramework/Character.h"
 #include "AbstractionPlayerCharacter.generated.h"
 
+class UHealthComponent;
+
 UCLASS()
 class ABSTRACTION_API AAbstractionPlayerCharacter : public ACharacter
 {
@@ -15,11 +17,6 @@ public:
 	// Sets default values for this character's properties
 	AAbstractionPlayerCharacter();
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -28,4 +25,14 @@ public:
 
 	virtual void FellOutOfWorld(const class UDamagedType& dmgType);
 
+	virtual float TakeDamage(float DamageAmount, struct FdamageEvent const& DamageEvent, class AController* EventINstigator, AActor* DamageCauser);
+
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
+	void OnDeath(bool IsFellOut);
+
+	UPROPERTY(EditAnywhere)
+	UHealthComponent* HealthComponent;
 };
