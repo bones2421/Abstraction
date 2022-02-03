@@ -5951,3 +5951,29 @@ Would you like to open the Output Log to see more details?
 [2022.02.03-20.57.35:534][896]LogAudioMixer: Resetting audio stream to device id 
 [2022.02.03-20.57.35:553][896]LogAudioMixer: Display: 0: FrontLeft
 [2022.02.03-20.57.35:553][896]LogAudioMixer: Display: 1: FrontRight
+[2022.02.03-21.01.57:289][829]Candidate modules for hot reload:
+[2022.02.03-21.01.57:289][829]  Abstraction
+[2022.02.03-21.01.57:289][829]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,4289 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.03-21.01.57:293][829]Warning: Starting HotReload took  0.1s.
+[2022.02.03-21.01.58:543][846]CompilerResultsLog: New page: Compilation - Feb 3, 2022, 7:01:58 AM
+[2022.02.03-21.01.58:543][846]CompilerResultsLog: ERROR: Unable to find project 'C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject'.
+[2022.02.03-21.01.58:543][846]LogMainFrame: MainFrame: Module compiling took 1.301 seconds
+[2022.02.03-21.01.58:543][846]Warning: HotReload failed, recompile failed
+[2022.02.03-21.02.10:776][979]LogSlate: Window 'Message Log' being destroyed
+[2022.02.03-21.02.10:884][979]LogSlate: Window 'Message Log' being destroyed
+[2022.02.03-21.02.37:507][158]Candidate modules for hot reload:
+[2022.02.03-21.02.37:507][158]  Abstraction
+[2022.02.03-21.02.37:508][158]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Abstraction,7693 AbstractionEditor Win64 Development -Project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" "C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject"  -IgnoreJunk]
+[2022.02.03-21.02.37:510][158]Warning: Starting HotReload took  0.1s.
+[2022.02.03-21.02.38:150][166]CompilerResultsLog: New page: Compilation - Feb 3, 2022, 7:02:38 AM
+[2022.02.03-21.02.38:150][166]CompilerResultsLog: ERROR: Unable to find project 'C:\Users\willi\OneDrive\Documents\Unreal Projects\Abstraction\Abstraction\Abstraction.uproject'.
+[2022.02.03-21.02.38:150][166]LogMainFrame: MainFrame: Module compiling took 0.703 seconds
+[2022.02.03-21.02.38:151][166]Warning: HotReload failed, recompile failed
+[2022.02.03-21.02.51:683][314]LogSlate: Window 'Message Log' being destroyed
+[2022.02.03-21.02.51:791][314]LogSlate: Window 'Message Log' being destroyed
+[2022.02.03-21.03.06:184][443]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.02.03-21.03.06:490][443]ERROR: Unhandled exception: System.Exception: Unable to find project file based on argument C:/Users/willi/OneDrive/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject
+[2022.02.03-21.03.06:490][443]          at UnrealBuildTool.GenerateProjectFilesMode.TryParseProjectFileArgument(CommandLineArguments Arguments, FileReference& ProjectFile) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 271
+[2022.02.03-21.03.06:490][443]          at UnrealBuildTool.GenerateProjectFilesMode.Execute(CommandLineArguments Arguments) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 73
+[2022.02.03-21.03.06:490][443]          at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\Build\++UE4\Sync\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 557
+[2022.02.03-21.03.17:204][443]LogSlate: Window 'Refresh Project' being destroyed
