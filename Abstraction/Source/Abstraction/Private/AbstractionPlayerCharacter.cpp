@@ -38,7 +38,7 @@ void AAbstractionPlayerCharacter::FellOutOfWorld(const UDamageType& dmgType)
 	OnDeath(true);
 }
 
-float AAbstractionPlayerCharacter::TakeDamage(float DamageAmount, FDamageEvent, AController* EventInstigator, AActor* DamageCauser)
+float AAbstractionPlayerCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
 {
 	float Damage = Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
 	UE_LOG(LogTemp, Warning, TEXT("AAbstractionPlayerCharacter::TakeDamage Damage %.2f"), Damage);
@@ -49,8 +49,8 @@ float AAbstractionPlayerCharacter::TakeDamage(float DamageAmount, FDamageEvent, 
 		{
 			OnDeath(false);
 		}
-		return Damage;
 	}
+	return Damage;
 }
 
 void AAbstractionPlayerCharacter::OnDeath(bool IsFellOut)

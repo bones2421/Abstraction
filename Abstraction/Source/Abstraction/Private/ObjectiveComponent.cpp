@@ -41,4 +41,15 @@ void UObjectiveComponent::EndPlay(const EEndPlayReason::Type EndPlayReason)
 	Super::EndPlay(EndPlayReason);
 }
 
+void UObjectiveComponent::InitializeComponent()
+{
+	Super::InitializeComponent();
+	//register
+	UObjectiveWorldSubsystem* ObjectiveWorldSubsystem = GetWorld()->GetSubsystem<UObjectiveWorldSubsystem>();
+	if (ObjectiveWorldSubsystem)
+	{
+		ObjectiveWorldSubsystem->AddObjective(this);
+	}
+}
+
 

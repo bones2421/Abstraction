@@ -47,4 +47,6 @@ protected:
 
 	FStateChanged StateChangedEvent;
 
+	void InitializeComponent() override;
+
 };
