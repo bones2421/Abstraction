@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Curves/CurveFloat.h"
+#include "IntercationComponent.h"
 #include "DoorInteractionComponent.generated.h"
 
 class ATriggerBox;
@@ -28,18 +29,26 @@ public:
 	UDoorInteractionComponent();
 
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-	DECLARE_EVENT(FDoorInteractionComponent, FOpened)
-	FOpened& OnOpened() { return OpenedEvent; }
-
-	FOpened OpenedEvent;
-
 	static void OnDebugToggled(IConsoleVariable* Var);
-	void DebugDraw();
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+	
+	//bound to interaction input from player
+	void InteractionStart() override;
+
+	//request to open door
+	UFUNCTION(BlueprintCallable)
+	void OpenDoor();
+
+	//called internally when door has finished opening
 	void OnDoorOpen();
+
+	UFUNCTION(BlueprintCallable)
+	bool IsOpen() { return DoorState == EDoorState::DS_Open; }
+
+	void DebugDraw();
 
 	UPROPERTY(EditAnywhere)
 	FRotator DesiredRotation = FRotator::ZeroRotator;

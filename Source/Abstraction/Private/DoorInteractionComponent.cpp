@@ -3,11 +3,11 @@
 #include "DoorInteractionComponent.h"
 #include "GameFramework/Actor.h"
 #include "GameFramework/PlayerController.h"
-#include "Engine/TriggerBox.h"
 #include "Engine/World.h"
-
-#include "ObjectiveWorldSubsystem.h"
+#include "Engine/Engine.h"
 #include "DrawDebugHelpers.h"
+#include "ObjectiveComponent.h"
+#include "InteractionComponent.h"
 
 constexpr float FLT_METERS(float meters) { return meters * 100.0f;  }
 
@@ -26,7 +26,15 @@ UDoorInteractionComponent::UDoorInteractionComponent()
 	CVarToggleDebugDoor.AsVariable()->SetOnChangedCallback(FConsoleVariableDelegate::CreateStatic(&UDoorInteractionComponent::OnDebugToggled));
 }
 
-// Called when the game starts
+void UDoorInteractionComponent::InteractionStart()
+{
+	Super::InteractionStart();
+	if (InteractingActor)
+	{
+		OpenDoor();
+	}
+}
+
 void UDoorInteractionComponent::BeginPlay()
 {
 	Super::BeginPlay();
@@ -36,23 +44,22 @@ void UDoorInteractionComponent::BeginPlay()
 	CurrentRotationTime = 0.0f;
 }
 
+void UDoorInteractionComponent::OpenDoor()
+{
+	if (IsOpen() || DoorState == EDoorState::DS_Opening)
+	{
+		return;
+	}
+
+	DoorState = EDoorState::DS_Opening;
+	CurrentRotationTime = 0.0f;
+}
+
 void UDoorInteractionComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	if (DoorState == EDoorState::DS_Closed)
-	{
-		if (TriggerBox && GetWorld() && GetWorld()->GetFirstLocalPlayerFromController())
-		{
-			APawn* PlayerPawn = GetWorld()->GetFirstPlayerController()->GetPawn();
-			if (PlayerPawn && TriggerBox->IsOverlappingActor(PlayerPawn))
-			{
-				DoorState = EDoorState::DS_Opening;
-				CurrentRotationTime = 0.0f;
-			}
-		}
-	}
-	else if (DoorState == EDoorState::DS_Opening)
+	if (DoorState == EDoorState::DS_Opening)
 	{
 		CurrentRotationTime += DeltaTime;
 		const float TimeRatio = FMath::Clamp(CurrentRotationTime / TimeToRotate, 0.0f, 1.0f);
@@ -77,6 +84,8 @@ void UDoorInteractionComponent::OnDoorOpen()
 		ObjectiveComponent->SetState(EObjectiveState::OS_Completed);
 	}
 	GEngine->AddOnScreenDebugMessage(-1, 3.0f, FColor::Yellow, TEXT("DoorOpened"));
+	//tell any listeners that the interaction is successful
+	OnDoorOpened.Broadcast();
 }
 
 void UDoorInteractionComponent::OnDebugToggled(IConsoleVariable* Var)
