@@ -16,4 +16,7 @@ public:
 
 	UPROPERTY(EditDefaultsOnly)
 		TSubclassOf<UUserWidget> ObjectiveWidgetClass;
+
+	UPROPERTY(EditDefaultsOnly)
+		TSubclassOf<UUserWidget> ObjectivesCompleteWidgetClass;
 };

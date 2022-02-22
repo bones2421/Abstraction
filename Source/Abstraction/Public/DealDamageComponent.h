@@ -35,6 +35,14 @@ protected:
 	UPROPERTY(EditAnywhere)
 	float BaseDamage = 50.0f;
 
+	//base dmg distributed over this time
+	UPROPERTY(EditAnywhere)
+		float DamageTotalTime = 2.0f; 
+
+	//time interval at which to apply take dmg
+	UPROPERTY(EditAnywhere)
+		float TakeDamageInterval = 0.5f;
+
 	UPROPERTY(EditAnywhere, NoClear)
 	UCapsuleComponent* TriggerCapsule;
 
