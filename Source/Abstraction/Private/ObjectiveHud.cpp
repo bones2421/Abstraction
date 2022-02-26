@@ -6,7 +6,7 @@
 
 void UObjectiveHud::UpdateObjectiveText(uint32 ObjectivesCompleted, uint32 TotalObjectives)
 {
-	if (ObjecivesText)
+	if (ObjectivesText)
 	{
 		ObjectivesText->SetText(FText::Format(FTextFormat::FromString("{0} / {1}"), ObjectivesCompleted, TotalObjectives));
 	}

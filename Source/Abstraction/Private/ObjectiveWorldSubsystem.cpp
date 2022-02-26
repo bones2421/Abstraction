@@ -2,13 +2,21 @@
 
 #include "ObjectiveWorldSubsystem.h"
 #include "Kismet/GameplayStatics.h"
+#include "../AbstractionGameModeBase.h"
+#include "ObjectiveHud.h"
+#include "Blueprint/UserWidget.h"
 
-void UObjectiveWorldSubsystem::CreateObjectiveWidget(TSubclassOf<UUserWidget> ObjectiveWidgetClass)
+void UObjectiveWorldSubsystem::CreateObjectiveWidgets()
 {
 	if (ObjectiveWidget == nullptr)
 	{
-		APlayerController* PlayerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
-		ObjectiveWidget = CreateWidget<UUserWidget>(PlayerController, ObjectiveWidgetClass);
+		AAbstractionGameModeBase* GameMode = Cast<AAbstractionGameModeBase>(GetWorld()->GetAuthGameMode());
+		if (GameMode)
+		{
+			APlayerController* PlayerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
+			ObjectiveWidget = CreateWidget<UObjectiveHud>(PlayerController, GameMode->ObjectiveWidgetClass);
+			//ObjectivesCompleteWidget = CreateWidget<UUserWidget>(PlayerController, GameMode->ObjectivesCompleteWidgetClass);
+		}
 	}
 }
 
@@ -59,6 +67,16 @@ void UObjectiveWorldSubsystem::RemoveObjective(UObjectiveComponent* ObjectiveCom
 void UObjectiveWorldSubsystem::OnObjectiveStateChanged(UObjectiveComponent* ObjectiveCmponent, EObjectiveState ObjectiveState)
 {
 	DisplayObjectiveWidget();
+}
+
+void UObjectiveWorldSubsystem::OnMapStart()
+{
+	AAbstractionGameModeBase* GameMode = Cast<AAbstractionGameModeBase>(GetWorld()->GetAuthGameMode());
+	if (GameMode)
+	{
+		CreateObjectiveWidgets();
+		DisplayObjectiveWidget();
+	}
 }
 
 

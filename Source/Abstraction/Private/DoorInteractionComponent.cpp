@@ -85,7 +85,7 @@ void UDoorInteractionComponent::OnDoorOpen()
 	}
 	GEngine->AddOnScreenDebugMessage(-1, 3.0f, FColor::Yellow, TEXT("DoorOpened"));
 	//tell any listeners that the interaction is successful
-	OnDoorOpened.Broadcast();
+	InteractionSuccess.Broadcast();
 }
 
 void UDoorInteractionComponent::OnDebugToggled(IConsoleVariable* Var)

@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
+#include "Blueprint/UserWidget.h"
 #include "ObjectiveHud.generated.h"
 
 class UTextBlock;
@@ -14,6 +15,7 @@ class ABSTRACTION_API UObjectiveHud : public UUserWidget
 public:
 	void UpdateObjectiveText(uint32 ObjectivesCompleted, uint32 TotalObjectives);
 protected:
-	UPROPERTY(meta = (BindWidget))
-		UTextBlock* ObjectivesText;
+	// Allows us to get access to the same named TextBlock in the widget
+		UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+		UTextBlock * ObjectivesText;
 };

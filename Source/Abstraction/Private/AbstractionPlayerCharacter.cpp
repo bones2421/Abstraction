@@ -10,7 +10,7 @@
 #include "DamageHandlerComponent.h"
 
 // Sets default values
-AAbstractionPlayerCharacter::AAbstractionPlayerCharacter(const FObjecInitializer& ObjectInitializer) : Super(ObjectInitializer)
+AAbstractionPlayerCharacter::AAbstractionPlayerCharacter()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;

@@ -14,7 +14,7 @@ class ABSTRACTION_API UObjectiveWorldSubsystem : public UWorldSubsystem
 {
 	GENERATED_BODY()
 public:
-	void CreateObjectiveWidget(TSubclassOf<UUserWidget> ObjectiveWidgetClass);
+	void CreateObjectiveWidgets();
 	void DisplayObjectiveWidget();
 	void OnObjectiveCompleted();
 
@@ -26,6 +26,10 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 		void RemoveObjective(UObjectiveComponent* ObjectiveComponent);
+
+	// we call this from maps that we want to display objectives(ie main menu will not call this function)
+		UFUNCTION(BlueprintCallable)
+		void OnMapStart();
 
 	void OnObjectiveStateChanged(UObjectiveComponent* ObjectiveComponent, EObjectiveState ObjectiveState);
 

@@ -27,7 +27,7 @@ UInteractionComponent::UInteractionComponent()
 	InteractingActor = nullptr;
 }
 
-void UInteractionComponent::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBox)
+void UInteractionComponent::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBox, bool bFromSweep, const FHitResult& SweepResult)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("UInteractionComponent::OnOverlapBegin"));
 
