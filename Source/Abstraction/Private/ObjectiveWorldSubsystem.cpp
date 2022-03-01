@@ -3,8 +3,14 @@
 #include "ObjectiveWorldSubsystem.h"
 #include "Kismet/GameplayStatics.h"
 #include "../AbstractionGameModeBase.h"
-#include "ObjectiveHud.h"
 #include "Blueprint/UserWidget.h"
+#include "ObjectiveHud.h"
+
+void UObjectiveWorldSubsystem::Deinitialize()
+{
+	ObjectiveWidget = nullptr;
+	ObjectivesCompleteWidget = nullptr;
+}
 
 void UObjectiveWorldSubsystem::CreateObjectiveWidgets()
 {
@@ -15,20 +21,47 @@ void UObjectiveWorldSubsystem::CreateObjectiveWidgets()
 		{
 			APlayerController* PlayerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
 			ObjectiveWidget = CreateWidget<UObjectiveHud>(PlayerController, GameMode->ObjectiveWidgetClass);
-			//ObjectivesCompleteWidget = CreateWidget<UUserWidget>(PlayerController, GameMode->ObjectivesCompleteWidgetClass);
+			ObjectivesCompleteWidget = CreateWidget<UUserWidget>(PlayerController, GameMode->ObjectivesCompleteWidgetClass);
 		}
 	}
 }
 
 void UObjectiveWorldSubsystem::DisplayObjectiveWidget()
 {
-	ensureMsgf(ObjectiveWidget, TEXT("UObjectiveWorldSubsystem::DisplayObjectiveWidget ObjectiveWidget is nullptr"));
-	ObjectiveWidget->AddToViewport();
+	if (ObjectiveWidget)
+	{
+		ObjectiveWidget->AddToViewport();
+		ObjectiveWidget->UpdateObjectiveText(GetCompletedObjectiveCount(), Objectives.Num());
+	}
 }
 
-void UObjectiveWorldSubsystem::OnObjectiveCompleted()
+void UObjectiveWorldSubsystem::RemoveObjectiveWidget()
 {
-	DisplayObjectiveWidget();
+	if (ObjectiveWidget)
+	{
+		ObjectiveWidget->RemoveFromViewport();
+	}
+}
+
+void UObjectiveWorldSubsystem::DisplayObjectivesCompleteWidget()
+{
+	if (ObjectivesCompleteWidget)
+	{
+		ObjectivesCompleteWidget->AddToViewport();
+	}
+}
+
+void UObjectiveWorldSubsystem::RemoveObjectivesCompleteWidget()
+{
+	if (ObjectivesCompleteWidget)
+	{
+		ObjectivesCompleteWidget->RemoveFromViewport();
+	}
+}
+
+uint32 UObjectiveWorldSubsystem::GetCompletedObjectiveCount()
+{
+	return uint32();
 }
 
 FString UObjectiveWorldSubsystem::GetCurrentObjectiveDescription()
@@ -61,12 +94,9 @@ void UObjectiveWorldSubsystem::AddObjective(UObjectiveComponent* ObjectiveCompon
 
 void UObjectiveWorldSubsystem::RemoveObjective(UObjectiveComponent* ObjectiveComponent)
 {
+	int32 numRemoved = ObjectiveComponent->OnStateChanged().RemoveAll(this);
+	check(numRemoved);
 	Objectives.Remove(ObjectiveComponent);
-}
-
-void UObjectiveWorldSubsystem::OnObjectiveStateChanged(UObjectiveComponent* ObjectiveCmponent, EObjectiveState ObjectiveState)
-{
-	DisplayObjectiveWidget();
 }
 
 void UObjectiveWorldSubsystem::OnMapStart()
@@ -76,6 +106,24 @@ void UObjectiveWorldSubsystem::OnMapStart()
 	{
 		CreateObjectiveWidgets();
 		DisplayObjectiveWidget();
+	}
+}
+
+void UObjectiveWorldSubsystem::OnObjectiveStateChanged(UObjectiveComponent* ObjectiveCmponent, EObjectiveState ObjectiveState)
+{
+	//check if game over
+	if (ObjectiveWidget && ObjectivesCompleteWidget)
+	{
+		if (GetCompletedObjectiveCount() == Objectives.Num())
+		{
+			//GameOver
+			RemoveObjectiveWidget();
+			DisplayObjectivesCompleteWidget();
+		}
+		else
+		{
+			DisplayObjectiveWidget();
+		}
 	}
 }
 

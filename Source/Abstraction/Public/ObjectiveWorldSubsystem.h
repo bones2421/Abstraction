@@ -7,6 +7,7 @@
 #include "Subsystems/WorldSubsystem.h"
 #include "Blueprint/UserWidget.h"
 #include "ObjectiveComponent.h"
+#include "ObjectiveHud.h"
 #include "ObjectiveWorldSubsystem.generated.h"
 
 UCLASS()
@@ -16,7 +17,7 @@ class ABSTRACTION_API UObjectiveWorldSubsystem : public UWorldSubsystem
 public:
 	void CreateObjectiveWidgets();
 	void DisplayObjectiveWidget();
-	void OnObjectiveCompleted();
+	void OnObjectivesCompleted();
 
 	UFUNCTION(BlueprintCallable)
 		FString GetCurrentObjectiveDescription();
@@ -31,10 +32,21 @@ public:
 		UFUNCTION(BlueprintCallable)
 		void OnMapStart();
 
-	void OnObjectiveStateChanged(UObjectiveComponent* ObjectiveComponent, EObjectiveState ObjectiveState);
+protected:
 
+	virtual void Deinitialize() override;
+
+	void RemoveObjectiveWidget();
+
+	void DisplayObjectivesCompleteWidget();
+	void RemoveObjectivesCompleteWidget();
+
+	uint32 GetCompletedObjectiveCount();
+
+	void OnObjectiveStateChanged(UObjectiveComponent* ObjectiveComponent, EObjectiveState ObjectiveState);
 private:
-	UUserWidget* ObjectiveWidget = nullptr;
+	UObjectiveHud* ObjectiveWidget = nullptr;
+	UUserWidget* ObjectivesCompleteWidget = nullptr;
 
 	//add remove them
 	//sign up for callback onchanged
