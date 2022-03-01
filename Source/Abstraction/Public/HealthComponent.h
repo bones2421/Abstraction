@@ -15,9 +15,11 @@ class ABSTRACTION_API UHealthComponent : public UActorComponent
 public:	
 	// Sets default values for this component's properties
 	UHealthComponent();
-
+	
 	void TakeDamage(float Damage) { CurrentHealth -= Damage; }
 	bool IsDead() { return CurrentHealth <= FLT_EPSILON; }
+	const float GetCurrentHealth() const { return CurrentHealth;  }
+	void SetCurrentHealth(float health) { CurrentHealth = health; }
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;

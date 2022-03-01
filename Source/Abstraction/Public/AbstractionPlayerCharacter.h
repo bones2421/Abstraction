@@ -34,18 +34,29 @@ public:
 	virtual void FellOutOfWorld(const class UDamageType& dmgType) override;
 
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventINstigator, AActor* DamageCauser) override;
+
+	UFUNCTION(BlueprintCallable)
+	const bool IsAlive() const;
+
+	UFUNCTION(BlueprintCallable)
+	const float GetCurrentHealth() const;
+
+	UFUNCTION(BlueprintCallable, Category = "Abstraction")
 	void SetOnFire(float BaseDamage, float DamageTotalTime, float TakeDamageInterval);
 
 	FOnInteractionStart OnInteractionStart;
 	FOnInteractionStart OnInteractionCancel;
-	UPROPERTY(EditAnywhere)
-		UParticleSystemComponent* ParticleSystemComponent;
 
+	UPROPERTY(EditAnywhere)
+	UParticleSystemComponent* ParticleSystemComponent;
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 	void OnDeath(bool IsFellOut);
+
+	UFUNCTION()
+		void OnDeathTimerFinished();
 
 	//Input Bindings
 	void StartInteraction();
@@ -56,4 +67,10 @@ protected:
 
 	UPROPERTY(EditAnywhere)
 		UDamageHandlerComponent* DamageHandlerComponent;
+
+	UPROPERTY(EditAnywhere)
+		float TimeRestartLevelAfterDeath = 2.0f;
+
+	// Hanlde to manage death timer
+	FTimerHandle RestartLevelTimerHandle;
 };
