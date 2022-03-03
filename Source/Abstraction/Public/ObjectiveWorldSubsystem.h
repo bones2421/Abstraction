@@ -45,7 +45,10 @@ protected:
 
 	void OnObjectiveStateChanged(UObjectiveComponent* ObjectiveComponent, EObjectiveState ObjectiveState);
 private:
+	UPROPERTY();
 	UObjectiveHud* ObjectiveWidget = nullptr;
+
+	UPROPERTY();
 	UUserWidget* ObjectivesCompleteWidget = nullptr;
 
 	//add remove them

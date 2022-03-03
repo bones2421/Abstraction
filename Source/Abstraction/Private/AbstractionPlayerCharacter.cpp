@@ -97,7 +97,7 @@ void AAbstractionPlayerCharacter::OnDeath(bool IsFellOut)
 
 void AAbstractionPlayerCharacter::OnDeathTimerFinished()
 {
-	APlayerController* PlayerController - GetController<APlayerController>();
+	APlayerController* PlayerController = GetController<APlayerController>();
 	if (PlayerController)
 	{
 		PlayerController->RestartLevel();

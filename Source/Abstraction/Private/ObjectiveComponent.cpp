@@ -21,8 +21,9 @@ void UObjectiveComponent::SetState(EObjectiveState NewState)
 	}
 }
 
-void UObjectiveComponent::InitializeComponent()
+void UObjectiveComponent::BeginPlay()
 {
+	Super::BeginPlay();
 	//register
 	UObjectiveWorldSubsystem* ObjectiveWorldSubsystem = GetWorld()->GetSubsystem<UObjectiveWorldSubsystem>();
 	if (ObjectiveWorldSubsystem)
