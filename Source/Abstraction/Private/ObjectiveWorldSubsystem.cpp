@@ -61,7 +61,16 @@ void UObjectiveWorldSubsystem::RemoveObjectivesCompleteWidget()
 
 uint32 UObjectiveWorldSubsystem::GetCompletedObjectiveCount()
 {
-	return uint32();
+	uint32 ObjectivedCompleted = 0u;
+	for (const UObjectiveComponent* OC : Objectives)
+	{
+		if (OC && OC->GetState() == EObjectiveState::OS_Completed)
+		{
+			++ObjectivedCompleted;
+		}
+	}
+
+	return ObjectivedCompleted;
 }
 
 FString UObjectiveWorldSubsystem::GetCurrentObjectiveDescription()
