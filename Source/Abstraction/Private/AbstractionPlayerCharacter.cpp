@@ -113,3 +113,11 @@ void AAbstractionPlayerCharacter::StopInteraction()
 {
 	OnInteractionCancel.Broadcast();
 }
+
+void AAbstractionPlayerCharacter::HandleItemCollected()
+{
+	ItemsCollected++;
+	// Play Effects here.
+
+	ItemCollected();
+}
