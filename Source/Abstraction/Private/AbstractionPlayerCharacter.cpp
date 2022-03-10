@@ -25,6 +25,8 @@ AAbstractionPlayerCharacter::AAbstractionPlayerCharacter()
 void AAbstractionPlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	PC = GetWorld()->GetFirstPlayerController();
 }
 
 // Called every frame 
@@ -118,6 +120,7 @@ void AAbstractionPlayerCharacter::HandleItemCollected()
 {
 	ItemsCollected++;
 	// Play Effects here.
+	PC->PlayerCameraManager->PlayWorldCameraShake(CamShake, Scale:1.0f);
 
 	ItemCollected();
 }

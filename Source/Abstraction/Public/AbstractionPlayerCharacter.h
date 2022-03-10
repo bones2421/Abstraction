@@ -82,4 +82,9 @@ protected:
 
 	// Hanlde to manage death timer
 	FTimerHandle RestartLevelTimerHandle;
+
+	APlayerController* PC;
+
+	UPROPERTY(EditAnywhere, Category = "Effects")
+	TSubclassOf<UCameraShake> CamShake;
 };
