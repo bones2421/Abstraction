@@ -48,7 +48,11 @@ void AAbstractionPlayerCharacter::SetupPlayerInputComponent(UInputComponent* Pla
 
 void AAbstractionPlayerCharacter::FellOutOfWorld(const UDamageType& dmgType)
 {
-	OnDeath(true);
+	if (HealthComponent && !HealthComponent->IsDead())
+	{
+		HealthComponent->SetCurrentHealth(0.0f);
+		OnDeath(true);
+	}
 }
 
 float AAbstractionPlayerCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
@@ -120,7 +124,7 @@ void AAbstractionPlayerCharacter::HandleItemCollected()
 {
 	ItemsCollected++;
 	// Play Effects here.
-	PC->PlayerCameraManager->PlayWorldCameraShake(CamShake, Scale:1.0f);
+	PC->PlayerCameraManager->StartCameraShake(CamShake, 1.0f);
 
 	ItemCollected();
 }

@@ -86,5 +86,5 @@ protected:
 	APlayerController* PC;
 
 	UPROPERTY(EditAnywhere, Category = "Effects")
-	TSubclassOf<UCameraShake> CamShake;
+	TSubclassOf<UCameraShakeBase> CamShake;
 };
