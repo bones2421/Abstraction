@@ -87,4 +87,11 @@ protected:
 
 	UPROPERTY(EditAnywhere, Category = "Effects")
 	TSubclassOf<UCameraShakeBase> CamShake;
+
+	// Force Feedback values
+	UPROPERTY(EditAnywhere, Category = "Force Feedback")
+	float ForceFeedbackIntensity = 1.0f;
+
+	UPROPERTY(EditAnywhere, Category = "Force Feedback")
+	float ForceFeedbackDuration = 1.0f;
 };
