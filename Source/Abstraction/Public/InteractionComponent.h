@@ -37,6 +37,7 @@ protected:
 	virtual void BeginPlay() override;
 	virtual void TickComponent(float DetlaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+
 	UFUNCTION(BlueprintCallable)
 		virtual void InteractionStart();
 
@@ -47,4 +48,6 @@ protected:
 		UCapsuleComponent* TriggerCapsule = nullptr;
 
 	AActor* InteractingActor = nullptr;
+	bool bActive = true;
+	FDelegateHandle InteractionBinding;
 };

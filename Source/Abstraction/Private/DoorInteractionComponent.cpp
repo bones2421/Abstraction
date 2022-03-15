@@ -42,6 +42,7 @@ void UDoorInteractionComponent::BeginPlay()
 	FinalRotation = GetOwner()->GetActorRotation() + DesiredRotation;
 	//ensure TimeToRotate is greater than EPSILON
 	CurrentRotationTime = 0.0f;
+
 }
 
 void UDoorInteractionComponent::OpenDoor()
