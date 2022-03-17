@@ -8,6 +8,8 @@
 #include "DrawDebugHelpers.h"
 #include "ObjectiveComponent.h"
 #include "InteractionComponent.h"
+#include "Components/AudioComponent.h"
+#include "Components/TextRenderComponent.h"
 
 constexpr float FLT_METERS(float meters) { return meters * 100.0f;  }
 
@@ -43,13 +45,26 @@ void UDoorInteractionComponent::BeginPlay()
 	//ensure TimeToRotate is greater than EPSILON
 	CurrentRotationTime = 0.0f;
 
+	AudioComponent = GetOwner()->FindComponentByClass<UAudioComponent>();
+	check(AudioComponent);
+	if (!AudioComponent)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("UDoorInteractionComponent::BeginPlay() Missing Audio Component"));
+	}
+	TextRenderComponent = GetOwner()->FindComponentByClass<UTextRenderComponent>();
 }
+
 
 void UDoorInteractionComponent::OpenDoor()
 {
 	if (IsOpen() || DoorState == EDoorState::DS_Opening)
 	{
 		return;
+	}
+
+	if (AudioComponent)
+	{
+		AudioComponent->Play();
 	}
 
 	DoorState = EDoorState::DS_Opening;

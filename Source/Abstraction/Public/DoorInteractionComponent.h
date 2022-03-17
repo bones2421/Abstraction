@@ -10,6 +10,8 @@
 
 class ATriggerBox;
 class IConsoleVariable;
+class UAudioComponent;
+class UTextRenderComponent;
 
 UENUM()
 enum class EDoorState
@@ -31,16 +33,16 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 	static void OnDebugToggled(IConsoleVariable* Var);
 
+	//request to open door
+	UFUNCTION(BlueprintCallable)
+		void OpenDoor();
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 	
 	//bound to interaction input from player
 	void InteractionStart() override;
-
-	//request to open door
-	UFUNCTION(BlueprintCallable)
-	void OpenDoor();
 
 	//called internally when door has finished opening
 	void OnDoorOpen();
@@ -69,4 +71,11 @@ protected:
 
 	UPROPERTY(BlueprintReadOnly)
 	EDoorState DoorState;
+
+	UPROPERTY()
+		UAudioComponent* AudioComponent = nullptr;
+	UPROPERTY()
+		UTextRenderComponent* TextRenderComponent = nullptr;
+
+
 };
