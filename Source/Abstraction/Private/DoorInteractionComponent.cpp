@@ -10,6 +10,8 @@
 #include "InteractionComponent.h"
 #include "Components/AudioComponent.h"
 #include "Components/TextRenderComponent.h"
+#include <Abstraction/Public/AbstractionPlayerCharacter.h>
+#include <Abstraction/Public/DamageHandlerComponent.h>
 
 constexpr float FLT_METERS(float meters) { return meters * 100.0f;  }
 
@@ -33,7 +35,18 @@ void UDoorInteractionComponent::InteractionStart()
 	Super::InteractionStart();
 	if (InteractingActor)
 	{
-		OpenDoor();
+		bActive = false;
+		if (TextRenderComponent)
+		{
+			TextRenderComponent->SetText(InteractionPrompt);
+			TextRenderComponent->SetVisibility(false);
+		}
+
+		AAbstractionPlayerCharacter* APC = Cast<AAbstractionPlayerCharacter>(InteractingActor);
+		if (APC)
+		{
+			APC->DoorOpenInteractionStarted(GetOwner());
+		}
 	}
 }
 

@@ -56,6 +56,9 @@ public:
 	FOnInteractionStart OnInteractionStart;
 	FOnInteractionStart OnInteractionCancel;
 
+	UFUNCTION(BlueprintImplementableEvent)
+	void DoorOpenInteractionStarted(AActor* InteractableActor);
+
 	UPROPERTY(EditAnywhere)
 	UParticleSystemComponent* ParticleSystemComponent;
 protected:
