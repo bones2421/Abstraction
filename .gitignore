@@ -75,3 +75,14 @@ DerivedDataCache/*
 *.fbx
 *.bin
 *.pdb
+Abstraction/Binaries/Win64/UE4Editor.target
+Abstraction/Intermediate/Build/Win64/UE4Editor/Development/Metadata.dat
+Abstraction/Package/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Abstraction/Saved/Config/CrashReportClient/UE4CC-Windows-2B6F91E84974CDA0A81BDB818427B8A4/CrashReportClient.ini
+*.ini
+Abstraction/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor.uhtmanifest
+Abstraction/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor.uhtpath
+Abstraction/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor.deps
+Abstraction/Saved/Logs/Abstraction-backup-2022.02.03-21.15.03.log
+Abstraction/Saved/Logs/Abstraction.log
+Abstraction/Saved/Logs/Abstraction.log

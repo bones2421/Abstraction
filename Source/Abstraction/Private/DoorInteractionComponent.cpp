@@ -59,7 +59,6 @@ void UDoorInteractionComponent::BeginPlay()
 	CurrentRotationTime = 0.0f;
 
 	AudioComponent = GetOwner()->FindComponentByClass<UAudioComponent>();
-	check(AudioComponent);
 	if (!AudioComponent)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("UDoorInteractionComponent::BeginPlay() Missing Audio Component"));
