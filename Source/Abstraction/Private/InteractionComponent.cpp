@@ -24,6 +24,7 @@ UInteractionComponent::UInteractionComponent()
 	TriggerCapsule->OnComponentBeginOverlap.AddDynamic(this, &UInteractionComponent::OnOverlapBegin);
 	TriggerCapsule->OnComponentEndOverlap.AddDynamic(this, &UInteractionComponent::OnOverlapEnd);
 
+	bActive = true;
 	InteractingActor = nullptr;
 }
 
@@ -72,6 +73,6 @@ void UInteractionComponent::TickComponent(float DeltaTime, ELevelTick TickType, 
 //broadcast
 void UInteractionComponent::InteractionStart()
 {
-
+	
 }
 

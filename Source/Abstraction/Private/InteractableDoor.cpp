@@ -12,12 +12,13 @@ AInteractableDoor::AInteractableDoor() : Super()
 	{
 		DoorInteractionComponent->GetTriggerCapsule()->SetupAttachment(RootComponent);
 	}
+
+	//AudioComponent = CreateAbstractDefaultSubobject<UAudioComponent>(TEXT("AudioComponent"));
 }
 
 void AInteractableDoor::BeginPlay()
 {
-	Super::BeginPlay();
-	DoorInteractionComponent->InteractionSuccess.AddDynamic(this, &AInteractableDoor::OnInteractionSuccess);
+	//DoorInteractionComponent->InteractionSuccess.AddDynamic(this, &AInteractableDoor::OnInteractionSuccess);
 }
 
 void AInteractableDoor::OpenDoor()

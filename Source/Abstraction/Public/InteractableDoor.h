@@ -16,6 +16,7 @@ class ABSTRACTION_API AInteractableDoor : public AStaticMeshActor
 	GENERATED_BODY()
 
 public:
+
 	AInteractableDoor();
 	virtual void BeginPlay() override;
 
@@ -24,6 +25,7 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	void OpenDoor();
+
 protected:
 	UFUNCTION()
 	void OnInteractionSuccess();

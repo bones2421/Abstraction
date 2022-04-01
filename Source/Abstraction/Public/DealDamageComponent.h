@@ -26,8 +26,6 @@ public:
 	UCapsuleComponent* GetTriggerCapsule() const { return TriggerCapsule; }
 
 
-
-
 protected:
 	// Called when the game starts
 
@@ -42,6 +40,6 @@ protected:
 	UPROPERTY(EditAnywhere)
 		float TakeDamageInterval = 0.5f;
 
-	UPROPERTY(EditAnywhere, NoClear)
+	UPROPERTY(EditAnywhere)
 	UCapsuleComponent* TriggerCapsule;
 };
