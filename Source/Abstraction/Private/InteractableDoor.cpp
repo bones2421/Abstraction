@@ -8,13 +8,14 @@
 AInteractableDoor::AInteractableDoor() : Super()
 {
 	DoorInteractionComponent = CreateDefaultSubobject<UDoorInteractionComponent>(TEXT("DoorInteractionComponent"));
-	if (DoorInteractionComponent->GetTriggerCapsule())
+	if (DoorInteractionComponent)
 	{
 		DoorInteractionComponent->GetTriggerCapsule()->SetupAttachment(RootComponent);
 	}
 
 	//AudioComponent = CreateAbstractDefaultSubobject<UAudioComponent>(TEXT("AudioComponent"));
 }
+
 
 void AInteractableDoor::BeginPlay()
 {

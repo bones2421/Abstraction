@@ -16,7 +16,7 @@ class ABSTRACTION_API AInteractableDoor : public AStaticMeshActor
 	GENERATED_BODY()
 
 public:
-
+	
 	AInteractableDoor();
 	virtual void BeginPlay() override;
 
